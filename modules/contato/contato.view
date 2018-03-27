@@ -1,0 +1,104 @@
+<div class="contato">         
+    <script>
+        $(function() { 
+            $('#contact').validate().bind('success',onSuccess).bind('error',onError);
+
+            $(".btnSubmit").click(onSubmit);
+
+            var iframe = null;
+            iframe = $("#iframeContato").load(function() {        
+                var response = iframe.contents().find('body');  
+                var data = jQuery.parseJSON(response.text()); 
+
+                if (data != null)  { 
+                    $("#contact")[0].reset();  
+                    $(".success").removeClass("hidden");
+                    sending = true; 
+                    setTimeout(function() {  
+                        $(".success").addClass("hidden");
+                    },5000);
+                } else {    
+                    sending = false;  
+                }                 
+            }); 
+        });
+
+        var sending = false; 
+        function onSuccess(){
+            sending = true;
+        }
+
+        function onError(){  
+            //$('.errorContent').removeClass("hidden");
+            //$("input.ui-auxteam-validation-input-error").parent().addClass("ui-auxteam-validation-input-error");  
+            //$("select.ui-auxteam-validation-input-error").parent().addClass("ui-auxteam-validation-input-error");  
+            //$("select.ui-auxteam-validation-input-error").parent().parent().find(".label").addClass("ui-auxteam-validation-input-error");  
+        }
+
+        function onSubmit(){
+            //$(".ui-auxteam-validation-input-error").removeClass("ui-auxteam-validation-input-error");
+            //$('.errorContent').addClass("hidden");
+
+            if(sending==true) return; 
+            $('#contact').submit();   
+        }
+    </script> 
+    <div class="auto">
+        <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("contato/title")?></div>
+        <div class="embedEticaLight size18 gray3"><?=App::translate("contato/desc")?></div>
+        <div class="mt20 content">
+            <div class="left block1">
+                <form id="contact" method="post" action="contato/save" target="iframeContato">      
+                    <div class="mt20">
+                        <div class="left">
+                            <label for="name"><?=App::translate("contato/form/name")?></label>
+                            <input type="text" name="name" id="name" class="required"/>
+                        </div> 
+                        <div class="left ml">
+                            <label for="email"><?=App::translate("contato/form/email")?></label>
+                            <input type="text" name="email" id="email" class="required req-email"/>
+                        </div> 
+                        <div class="clear"></div>
+                    </div>    
+                    <div class="mt10">
+                        <div class="left">
+                            <label for="phone"><?=App::translate("contato/form/phone")?></label>
+                            <input type="text" name="phone" id="phone" class="required"/>
+                        </div> 
+                        <div class="left ml">
+                            <label for="ref_subject"><?=App::translate("contato/form/subject")?></label>  
+                            <?
+                                import(getAbsolutPath('Select.fw'));  
+                                $c= new Select("ref_subject", "ref_subject", "required req-combo", DBUtil::combo("select id, name from contact_subject order by contact_subject.order asc"), array());
+                                $c->emptyOption = App::translate("contato/form/select");
+                                echo $c;
+                            ?>                            
+                        </div> 
+                        <div class="clear"></div>
+                    </div>   
+                    <div class="mt10">
+                        <label for="comments"><?=App::translate("contato/form/comments")?></label>
+                        <textarea id="comments" name="comments" class="required"></textarea>
+                    </div>     
+                    <div class="btnVoltar btnSubmit pointer right mt10 embedEticaReg"><?=App::translate("contato/submit")?></div>
+                    <div class="success hidden">
+                        <div class="scontent">
+                            <div class="embedEticaLight size18 gray2"><?=App::translate("contato/success/title")?></div>
+                            <div class="embedTahoma size13 gray2"><?=App::translate("contato/success/desc")?></div>
+                        </div>
+                    </div>
+                    <iframe id="iframeContato" name="iframeContato" class="hidden"></iframe>
+                </form>
+            </div>
+            <div class="left box2">
+                <div class="boxcontato">
+                    <div class="content size13 embedEticaReg">
+                        <?=App::translate("contato/info")?>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div> 
+</div>

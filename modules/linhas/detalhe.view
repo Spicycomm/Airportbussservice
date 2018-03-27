@@ -1,0 +1,376 @@
+<div class="detalhe">
+    <script>
+        $(function() { 
+            $(".tab").click(function() { 
+                $(".targetroute").addClass("hidden");
+                $(".targethotel").addClass("hidden");
+                $(".targetmaps").addClass("hidden");
+
+                $(".tab").removeClass("selected");
+                $(this).addClass("selected");
+
+                var target = $(this).attr("_target");
+                $("."+target).removeClass("hidden");      
+            });
+
+            $(".maps .icon").click(function() { 
+                var t = $(this).attr("_target");
+
+                if ($(this).hasClass("disabled")) {  
+                    $(this).removeClass("disabled");
+                    showMarks(t);
+                } else { 
+                    $(this).addClass("disabled"); 
+                    hideMarks(t);
+                }                
+            })
+            $(".boxbuy .close").click(function() { 
+                $(".boxbuy").addClass("hidden");
+            })
+            $(".buy").click(function() { 
+                $(".boxbuy").removeClass("hidden"); 
+            });
+
+            $(".sell").click(function() { 
+                top.location = "<?=App::url("linhas/vendas")?>";   
+            });
+        });
+    </script>
+    <?
+        $record = DBUtil::selectRowSQL(toLang("select id, text_@ as text, name_ini_@ as name_ini, name_fin_@ as name_fin, time_@ as time, info_@ as info, gmaps from route where id = ?"), array($this->id));
+    ?>
+    <div class="boxbuy hidden">
+        <div class="content">
+            <div class="close right pointer">&nbsp;</div> 
+            <div class="title size20 embedEticaReg left"><?=App::translate("linhas/ticket")?></div> 
+            <div class="clear"></div>
+            <div class="iframe">
+                <div class="subtitle embedEticaReg white size18 left"><?=App::translate("linhas/buy")?></div>
+                <div class="contentIframe">
+                    <iframe class="mt10" src="http://www.netviagem.com.br/default_frame.aspx?empresa=99&layout=2&txtclr=FFFFFF&janela=2" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" transparency=true allowtransparency="true" height="270px" width="240px"></iframe>
+                </div>   
+            </div> 
+        </div>   
+    </div>
+    <div class="left block1">
+
+        <?
+            $type_hour = DBUtil::select(toLang("select id, name_@ as name from route_hour_type order by route_hour_type.order asc"))->getValues();
+
+            foreach ($type_hour as $k=>$v) { 
+                $hours = DBUtil::select("select id, name from route_hour where route_hour.ref_route = ? and ref_route_hour_type  = ? order by route_hour.order asc", array($this->id, $v['id']))->getValues();
+                if (count($hours) > 0) {
+                ?>                   
+                <div class="hour <?=$k != 0 ? 'mt10' : ''?>">
+                    <div class="title_hour size13 bold embedTahoma"><?=@$v['name']?></div>
+                    <div class="bg_hour">
+                        <?
+                            foreach ($hours as $kK=>$vV){ 
+                            ?>
+                            <div class="item_hour size11 embedEticaReg left"><?=$vV['name']?></div>
+                            <?
+                            }
+                        ?>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <?}  
+        }?>              
+        <div class="buy mt20 pointer hidden //TODO"></div>
+        <div class="sell sell_<?=App::$currentLang['alias']?> mt20 dblock pointer" _href="<?=App::lurl("linhas/vendas")?>" title="<?=App::translate("linhas/venda")?>"></div>
+
+    </div>
+
+    <?
+
+        $hotels = DBUtil::select("select id, name, address from route_hotel where ref_route = ? order by route_hotel.order asc", array($this->id))->getValues();                
+
+    ?>
+
+    <div class="left block2">
+        <div class="embedEticaReg size18"><?=App::translate('linhas/time')?> <?=$record['time']?></div>
+        <div class="embedTahoma size13 mt20"><?=$record['text']?></div>
+        <div class="mt10 maps">
+            <div>
+                <div class="tab hover pointer left size11 embedTahoma bold selected" _target="targetmaps"><?=App::translate("linhas/maps")?></div>
+                <div class="tab hover pointer left size11 embedTahoma bold" _target="targetroute"><?=App::translate("linhas/route")?></div>
+                <?if (count($hotels) > 0) { ?>
+                    <div class="tab hover pointer left size11 embedTahoma bold" _target="targethotel"><?=App::translate("linhas/hotel")?></div>
+                    <?}?>
+
+
+                <div class="icon right icon1 pointer disabled" _target="hotel"></div>
+                <div class="icon right icon2 pointer disabled" _target="travel"></div>
+                <div class="icon right icon3 pointer disabled" _target="shopping"></div>
+                <div class="icon right icon4 pointer disabled" _target="food"></div>
+                <div class="clear"></div>
+            </div>
+            <script>
+                var maps; 
+                var markers; 
+
+                $(function()  {
+                    var latlng = new google.maps.LatLng(0,0);
+                    maps = new google.maps.Map(document.getElementById("map"), {zoom: 8, center: latlng, mapTypeId: google.maps.MapTypeId.ROADMAP });
+                    var directionsService = new google.maps.DirectionsService();
+
+                    var pontos = new Array();
+
+                    var os = eval(<?=$record['gmaps']?>);  
+                    for (var j=0; j < os.length; j++) { 
+                        var r = os[j]; 
+                        var wp = [];
+                        for(var i=0;i<r.waypoints.length;i++)
+                            wp[i] = {'location': new google.maps.LatLng(r.waypoints[i][0], r.waypoints[i][1]),'stopover':false }
+
+                        pontos.push(new google.maps.LatLng(r.start.lat,r.start.lng));
+
+                        directionsService.route({'origin':new google.maps.LatLng(r.start.lat,r.start.lng),
+                            'destination':new google.maps.LatLng(r.end.lat,r.end.lng),
+                            'waypoints': wp, 
+                            'travelMode': google.maps.DirectionsTravelMode.DRIVING}, 
+                        function(res,sts) {
+                            setTimeout(function() {  
+                                if(sts=='OK') {
+                                    var directionsDisplay = new google.maps.DirectionsRenderer({draggable:false, suppressMarkers:true});   
+                                    directionsDisplay.setMap(maps); 
+                                    directionsDisplay.setDirections(res);
+                                } 
+                            },500); 
+                        });
+                         
+                        maps.setCenter(new google.maps.LatLng(r.end.lat,r.end.lng));
+                        var bounds = new google.maps.LatLngBounds();                          
+                        bounds.extend(new google.maps.LatLng(r.end.lat,r.end.lng));
+                        maps.fitBounds(bounds);
+
+                        if (j == 0)  {                                        
+                            var marker = new google.maps.Marker({
+                                position:  new google.maps.LatLng(r.start.lat,r.start.lng),
+                                map: maps                           
+                            });               
+                        }
+
+                        if (j == os.length-1) { 
+                            var marker2 = new google.maps.Marker({
+                                position:  new google.maps.LatLng(r.end.lat,r.end.lng),
+                                map: maps                           
+                            });       
+                        }
+
+
+
+                    }
+
+                       
+
+                    pontos.push(new google.maps.LatLng(r.end.lat,r.end.lng));   
+                    //https://apigee.com/console/apigee-console-snapshots-1341118800000_5aeb603a-6b5c-4b8d-8b87-e5005fe7b931/rendersnapshotview#view=mini
+                    foursquare(pontos);  
+                });  
+
+                function foursquare(pontos) {
+                    markers = new Array();    
+                    $.support.cors = true;                   
+                    if (pontos.length > 0) {
+                        for(var contadorPontos = 0; contadorPontos < pontos.length; contadorPontos++)
+                            {         
+                            $.ajax({
+                                type: "GET",
+                                dataType: 'jsonp',
+                                url: "https://api.foursquare.com/v2/venues/search",
+                                data: {
+                                    ll: pontos[contadorPontos].lat() + "," + pontos[contadorPontos].lng(),
+                                    client_id: "AXOVRGFMBFPWY54ZEQF2VF5ADQO0DBUKGAGNA0BBJZWMUBIP",
+                                    client_secret: "5HTUSXOCRQOHZK4RKKV1ZR1JE3LPLH1EW4KRYTYXOANFRYWW",
+                                    limit: 15,
+                                    intent: "browse",
+                                    radius: "1000",                                    
+                                    //food                              //4d4b7105d754a06374d81259
+                                    //shopping center e services        //4d4b7105d754a06378d81259     
+                                    //travel //4d4b7105d754a06379d81259 //4d4b7105d754a06379d81259
+                                    //hotel                            // 4bf58dd8d48988d1fa931735
+                                    categoryId: "4bf58dd8d48988d1fa931735", 
+                                    v: "20120510"
+                                },                  
+                                success: function(data) {  
+                                    //alert("hotel ok "+data.response.venues  .length);
+                                    if (data.meta.code == "200") {
+                                        var locais = data.response.venues;
+                                    }    
+                                    if (locais.length > 0) {
+                                        for (var contadorLocais = 0; contadorLocais < data.response.venues.length; contadorLocais++) {
+                                            markers.push(addMark(locais[contadorLocais], 'hotel'));
+                                        }
+                                    }               
+                                    hideMarks();
+                                }
+                            });
+
+                            $.ajax({
+                                type: "GET",
+                                dataType: 'jsonp',
+                                url: "https://api.foursquare.com/v2/venues/search",
+                                data: {
+                                    ll: pontos[contadorPontos].lat() + "," + pontos[contadorPontos].lng(),
+                                    client_id: "AXOVRGFMBFPWY54ZEQF2VF5ADQO0DBUKGAGNA0BBJZWMUBIP",
+                                    client_secret: "5HTUSXOCRQOHZK4RKKV1ZR1JE3LPLH1EW4KRYTYXOANFRYWW",
+                                    limit: 15,
+                                    intent: "browse",
+                                    radius: "1000",  
+                                    categoryId: "4bf58dd8d48988d1ed931735,4bf58dd8d48988d1fe931735,4bf58dd8d48988d130951735",
+                                    v: "20120510"
+                                },                  
+                                success: function(data) {  
+                                    if (data.meta.code == "200") {
+                                        var locais = data.response.venues;
+                                    }    
+                                    if (locais.length > 0) {
+                                        for (var contadorLocais = 0; contadorLocais < data.response.venues.length; contadorLocais++) {
+                                            markers.push(addMark(locais[contadorLocais], 'travel'));
+                                        }
+                                    }               
+                                    hideMarks();
+                                }
+                            });
+
+                            $.ajax({
+                                type: "GET",
+                                dataType: 'jsonp',
+                                url: "https://api.foursquare.com/v2/venues/search",
+                                data: {
+                                    ll: pontos[contadorPontos].lat() + "," + pontos[contadorPontos].lng(),
+                                    client_id: "AXOVRGFMBFPWY54ZEQF2VF5ADQO0DBUKGAGNA0BBJZWMUBIP",
+                                    client_secret: "5HTUSXOCRQOHZK4RKKV1ZR1JE3LPLH1EW4KRYTYXOANFRYWW",
+                                    limit: 15,
+                                    intent: "browse",
+                                    radius: "1000",  
+                                    categoryId: "4d4b7105d754a06378d81259",
+                                    v: "20120510"
+                                },                  
+                                success: function(data) {  
+                                    if (data.meta.code == "200") {
+                                        var locais = data.response.venues;
+                                    }    
+                                    if (locais.length > 0) {
+                                        for (var contadorLocais = 0; contadorLocais < data.response.venues.length; contadorLocais++) {
+                                            markers.push(addMark(locais[contadorLocais], 'shopping'));
+                                        }
+                                    }               
+                                    hideMarks();
+                                }
+                            });
+
+                            $.ajax({
+                                type: "GET",
+                                dataType: 'jsonp',
+                                url: "https://api.foursquare.com/v2/venues/search",
+                                data: {
+                                    ll: pontos[contadorPontos].lat() + "," + pontos[contadorPontos].lng(),
+                                    client_id: "AXOVRGFMBFPWY54ZEQF2VF5ADQO0DBUKGAGNA0BBJZWMUBIP",
+                                    client_secret: "5HTUSXOCRQOHZK4RKKV1ZR1JE3LPLH1EW4KRYTYXOANFRYWW",
+                                    limit: 15,
+                                    intent: "browse",
+                                    radius: "1000",  
+                                    categoryId: "4d4b7105d754a06374d81259",
+                                    v: "20120510"
+                                },                  
+                                success: function(data) {  
+                                    if (data.meta.code == "200") {
+                                        var locais = data.response.venues;
+                                    }    
+                                    if (locais.length > 0) {
+                                        for (var contadorLocais = 0; contadorLocais < data.response.venues.length; contadorLocais++) {
+                                            markers.push(addMark(locais[contadorLocais], 'food'));
+                                        }
+                                    }               
+                                    hideMarks();
+                                }
+                            });
+                        }
+                    }
+                }
+
+                function hideMarks(tp) { 
+                    for (var i = 0; i < markers.length; i++) {
+                        var marker = markers[i];
+
+                        if (tp == undefined || marker.ref_location == tp || tp.length == 0) 
+                            marker.setVisible(false);
+                    }
+                }
+                function showMarks(tp) { 
+                    for (var i = 0; i < markers.length; i++) {
+                        var marker = markers[i]; 
+
+                        if (marker.ref_location == tp) 
+                            marker.setVisible(true);                        
+                    }
+                }
+
+                function addMark(local, ref_location) {
+                    var icone = local.categories[0].icon.prefix + local.categories[0].icon.sizes[0] + local.categories[0].icon.name;
+                    var pontoLatLgn = new google.maps.LatLng(local.location.lat, local.location.lng);
+                    var marker = new google.maps.Marker({
+                        position: pontoLatLgn,
+                        map: maps,
+                        title: local.name,
+                        icon: icone                            
+                    }); 
+
+                    marker.ref_location = ref_location;                          
+
+                    return marker;
+                }
+            </script>
+            <div id="map" class="targetmaps">
+            </div>
+            <div class="targetroute hidden">
+                <div class="th bold">
+                    <div class="column1 left size11 embedTahoma black"><?=App::translate('linhas/address')?></div>
+                    <div class="column2 left"></div>
+                    <div class="column3 left size11 embedTahoma black"><?=App::translate('linhas/city')?></div>
+                    <div class="clear"></div>
+                </div> 
+                <?
+                    $streets = DBUtil::select("select id, name, city from route_street where ref_route = ? order by route_street.order asc", array($this->id))->getValues();                
+                    foreach ($streets as $k=>$v) { 
+                    ?>
+                    <div class="th2">
+                        <div class="column1 left size11 embedTahoma <?=($k % 2 == 1) ? 'line' : 'line2'?>"><?=$v['name']?></div>
+                        <div class="column2 left"></div>
+                        <div class="column3 left size11 embedTahoma <?=($k % 2 == 1) ? 'line' : 'line2'?>"><?=$v['city']?></div>
+                        <div class="clear"></div>
+                    </div>
+                    <?
+                    }
+                ?>                                     
+            </div>
+
+            <div class="targethotel hidden">
+                <div class="th bold">
+                    <div class="column1 left size11 embedTahoma black"><?=App::translate('linhas/list_hotel')?></div>
+                    <div class="column2 left"></div>
+                    <div class="column3 left size11 embedTahoma black"><?=App::translate('linhas/address')?></div>
+                    <div class="clear"></div>
+                </div> 
+                <?
+                    foreach ($hotels as $k=>$v) { 
+                    ?>
+                    <div class="th2">
+                        <div class="column1 left size11 embedTahoma <?=($k % 2 == 1) ? 'line' : 'line2'?>"><?=$v['name']?></div>
+                        <div class="column2 left"></div>
+                        <div class="column3 left size11 embedTahoma <?=($k % 2 == 1) ? 'line' : 'line2'?>"><?=$v['address']?></div>
+                        <div class="clear"></div>
+                    </div>
+                    <?
+                    }
+                ?>   
+            </div>
+
+        </div>   
+        <div class="embedTahoma size11 gray mt10"><?=$record['info']?></div>
+    </div>
+
+    <div class="clear"></div>
+</div>

@@ -1,0 +1,5 @@
+<IfModule dir_module>
+    DirectoryIndex index.site
+</IfModule>
+
+AddType application/x-httpd-php .site .fw

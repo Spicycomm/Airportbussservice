@@ -1,0 +1,13 @@
+<?    
+    class Slider extends HTMLComponent{
+                 
+        public function __construct($c){
+            parent::__construct();
+                                   
+            $this->setView(new FileView('assets/slider/slider.view'));  
+            $this->addChild($c, "TARGET"); 
+        }          
+               
+    }
+
+?>

@@ -1,0 +1,7 @@
+<div class="slider">
+    <div class="arrowleft absolute pointer"></div>  
+    <div class="container">     
+        <@TARGET@>
+    </div>
+    <div class="arrowright absolute pointer"></div>
+</div> 

@@ -1,0 +1,38 @@
+<div class="footer mt20">  
+    <div class="auto">
+        <div class="content">
+            <a href="<?=App::lurl("home")?>" title="<?=App::translate("menu/compre")?>" class="btn left size14 hover embedEticaReg"><?=App::translate("menu/compre")?></a>
+            <div class="line left">|</div>
+            <a href="<?=App::lurl("linhas")?>" title="<?=App::translate("menu/linhas")?>" class="btn left size14 hover embedEticaReg"><?=App::translate("menu/linhas")?></a>
+            <div class="line left">|</div>
+            <a href="<?=App::lurl("quemsomos")?>" title="<?=App::translate("menu/quemsomos")?>" class="btn left size14 hover embedEticaReg"><?=App::translate("menu/quemsomos")?></a>
+            <div class="line left">|</div>
+            <a href="<?=App::lurl("noticias")?>" title="<?=App::translate("menu/noticias")?>" class="btn left size14 hover embedEticaReg"><?=App::translate("menu/noticias")?></a>
+            <div class="line left">|</div>
+            <a href="<?=App::lurl("contato")?>" title="<?=App::translate("menu/contato")?>" class="btn left size14 hover embedEticaReg"><?=App::translate("menu/contato")?></a>
+            <div class="embedTahoma right size14"><?=App::translate("menu/footer")?></div>
+            <div class="clear"></div>   
+            
+            
+        <a class="embedTahoma size10 mt22 left gray" href="http://www.gadbrivia.com.br" title="Gad’Brivia" target="_blank">Gad’Brivia</a>
+        <a class="mt20 right emtu ml25"></a>
+        <a class="mt20 right sp"></a>    
+        </div>                             
+    </div>
+</div> 
+
+<!-- HeatMap monitor -->
+<script type='text/javascript'>
+
+window.__lo_site_id = 70366;
+        (function() {
+
+               var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+
+               wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+
+          })();
+
+</script>

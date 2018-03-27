@@ -1,0 +1,22 @@
+<?                                         
+    class HomeDocument extends Document{
+
+        public function __construct(){
+            parent::__construct();        
+            $this->defaultAction = 'home';
+        }
+
+        public function home(){
+            global $middle;  
+
+            App::getInstance()->addCSS("site/modules/home/home.css");                           
+            App::getInstance()->addJS("site/assets/slider/slider.js");     
+                                  
+            $c = new Controller(new FileView("modules/home/home.view"));                                        
+
+            $middle->addChild($c ,'TARGET');        
+        }
+                                            
+    }
+
+?>

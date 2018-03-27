@@ -1,0 +1,36 @@
+<div class="linha_maps linhas auto">      
+    <script>
+        $(function() { 
+            $(".linha_maps .btn").click(function() { 
+                var s = $(".linha_maps select").val();
+                if (s != "") { 
+                    window.location = "<?=App::lurl('linhas/lista')?>/"+s; 
+                }
+            })
+        })
+    </script>  
+    <?
+        import(getRelativePath("Select.fw"));
+        $select = new Select('ref_route', 'ref_route', 'required', DBUtil::combo(toLang("select id, CONCAT(name_ini_@,' -> ',name_fin_@) from route order by route.order asc")));
+    ?>
+    <div class="left">
+        <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("linhas/title")?></div>
+        <div class="mt10">
+            <div class="embedEticaLight size13 viewFor gray3 left"><?=App::translate("linhas/view")?></div>
+            <a class="embedEticaReg dblock check ml10 left" href="<?=App::lurl("linhas")?>"><?=App::translate("linhas/list")?></a>
+            <div class="embedEticaReg check ml10 selected left"><?=App::translate("linhas/maps")?></div>
+        </div>    
+    </div>
+    <div class="right">
+        <a href="<?=App::lurl("linhas/busca")?>" class="dblock mt20 map_<?=App::$currentLang['alias']?>"></a>
+    </div>
+    <div class="clear"></div>
+    <div class="boxTop mt20">
+        <div class="content">
+            <div class="desc size11 left ml10"><?=App::translate("linhas/desc_maps")?></div>
+            <div class="select left ml10"><?=$select?></div>
+            <div class="btn left pointer ml10">Detalhes</div>
+        </div>
+    </div>
+    <div class="box" style="background-image:url('site/upload/vars/<?=App::getSystemVars("maps")?>')"></div>
+</div>

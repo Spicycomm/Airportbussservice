@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>  
+        <base href="<@APP_BASE_HREF@>" rewrite="<@APP_USE_REWRITE@>" /> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Lang" content="pt-br">
+        <meta name="revisit-after" content="2 days">
+
+        <meta property="og:site_name" content="Airport"/>
+        <meta property="og:title" content="<?=@$facebook_title?>"/>   
+        <meta property="og:image" content="<?=@$facebook_image?>"/> 
+        <meta property="og:description" content="<?=@$facebook_desc?>"/>           
+
+        <META NAME="description" CONTENT="Em São Paulo, serviço de 1ª classe com custo de classe econômica. O Airport Bus Service, há mais de 20 anos liga o Aeroporto de Guarulhos há pontos estratégicos de São Paulo, sendo eles: Aeroporto de Congonhas, Terminais Rodoviários da Barra Funda e do Tietê, Av. Luiz Carlos Berrini, Itaim Bibi, Av. Paulista, incluindo o circuito de Hoteis e Praça da República. Com uma frota de ônibus novos e modernos, vários horários e itinerários, o Airport Bus Service oferece aos seus passageiros conforto, segurança e flexibilidade, sendo a melhor opção de transporte e acesso aos aeroportos. ">
+        <META NAME="keywords" CONTENT="Transporte, ônibus, primeira classe, service, airport bus service, São Paulo, Aeroporto de Congonhas, Terminais Rodoviários da Barra Funda e do Tietê, Av. Luiz Carlos Berrini, Itaim Bibi, Av. Paulista, incluindo o circuito de Hoteis e Praça da República. ">
+       
+        <link rel="shortcut icon" href="<?=App::url()?>site/images/favicon.ico"/> 
+
+        <?
+            if(!App::getInstance()->getDebugger()->isOn){
+            ?>                          
+            <? } ?>
+
+        <@APP_HEAD@>
+        <@APP_CSS@>
+
+    <script type="text/javascript" src="http://www.netviagem.com.br/40/js/181.js"></script>
+	<@APP_JS@>
+
+<!--
+	<script type="text/javascript" src="<?=App::url()?>site/mbp/js/jquery.min.js"></script>  
+	<script type="text/javascript" src="<?=App::url()?>site/mbp/js/jquery-ui.js"></script>
+-->
+    <script type="text/javascript" src="<?=App::url()?>site/mbp/js/jquery.ui.datepicker-pt-br.js"></script>
+    <script type="text/javascript" src="<?=App::url()?>site/mbp/js/util.js"></script>
+    <script type="text/javascript" src="<?=App::url()?>site/mbp/js/mbp.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="<?=App::url()?>site/mbp/css/jquery.ui.datepicker.css" />
+    <link rel="stylesheet" type="text/css" href="<?=App::url()?>site/mbp/css/jquery-ui-1.10.3.custom.css" />
+    <link rel="stylesheet" type="text/css" href="<?=App::url()?>site/mbp/css/mbp.css" />
+
+
+        <title><@APP_TITLE@></title>
+
+<!-- Google Analytics -->
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+
+  ga('create', 'UA-87678838-1', 'auto');
+
+  ga('send', 'pageview');
+</script>
+
+    </head>
+    <body>         
+        <div class="modal">
+            <div class="bg"></div>
+            <div class="wrap">
+                <div class="target"></div>
+            </div>
+        </div>           
+        <@APP_BODY@>
+        <@APP_DEBUG@>  
+    </body>
+</html>
+
+       

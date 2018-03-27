@@ -1,0 +1,60 @@
+<div class="top">
+    <?
+        $session = @App::$get[0];
+        $$session = 'selectedMenu';   
+    ?>
+
+    <div class="auto">
+        <a class="logo dblock" href="<?=@App::$currentLang['alias']?>"></a>
+        <div class="left menu">
+            <div class="line left"></div>
+            <a href="<?=App::lurl("home")?>" title="<?=App::translate("menu/compre")?>" class="btn left white size14 hover embedEticaReg <?=@$compre?>"><?=App::translate("menu/compre")?></a>
+            <div class="line left"></div>
+            <a href="<?=App::lurl("linhas")?>" title="<?=App::translate("menu/linhas")?>" class="btn left white size14 hover embedEticaReg <?=@$linhas?>"><?=App::translate("menu/linhas")?></a>
+            <div class="line left"></div>
+            <a href="<?=App::lurl("quemsomos")?>" title="<?=App::translate("menu/quemsomos")?>" class="btn left white size14 hover embedEticaReg <?=@$quemsomos?>"><?=App::translate("menu/quemsomos")?></a>
+            <div class="line left"></div>
+            <a href="<?=App::lurl("noticias")?>" title="<?=App::translate("menu/noticias")?>" class="btn left white size14 hover embedEticaReg <?=@$noticias?>"><?=App::translate("menu/noticias")?></a>
+            <div class="line left"></div>
+            <a href="<?=App::lurl("contato")?>" title="<?=App::translate("menu/contato")?>" class="btn left white size14 hover embedEticaReg <?=@$contato?>"><?=App::translate("menu/contato")?></a>
+            <div class="line left"></div>
+        </div>
+
+        <div class="right langs">
+            <?
+                $currentLang = App::$currentLang['alias']; 
+                $$currentLang = 'hiddeni';
+            ?>                                    
+            
+            <a href="en/home" class="language embedEticaReg <?=@$en?>"><?=App::translate("menu/lang_eng")?></a>                                
+            <a href="es/home" class="language embedEticaReg <?=@$es?>"><?=App::translate("menu/lang_esp")?></a> 
+            <!--
+            <script>
+                $(function() {
+                    $(".hover_under_es").hover(function() { 
+                        $(".under_es").removeClass("hidden");
+                    }, function() {            
+                        $(".under_es").addClass("hidden");
+                    })
+                    
+                    $(".hover_under_en").hover(function() { 
+                        $(".under_en").removeClass("hidden");
+                    }, function() {            
+                        $(".under_en").addClass("hidden");
+                    }) 
+                })
+            </script>
+            <div href="en/home" class="language embedEticaReg hover_under_en <?=@$en?>"><?=App::translate("menu/lang_eng")?>
+                <div class="under_en hidden"></div>
+            </div>                                
+            <div href="es/home" class="language embedEticaReg hover_under_es <?=@$es?>"><?=App::translate("menu/lang_esp")?>
+                <div class="under_es hidden"></div>   
+            </div>   
+            -->                        
+            <a href="br/home" class="language embedEticaReg <?=@$br?>"><?=App::translate("menu/lang_pt")?></a>                                
+        </div>
+
+    </div>
+    
+</div>   
+<div class="shadow"></div>                                          

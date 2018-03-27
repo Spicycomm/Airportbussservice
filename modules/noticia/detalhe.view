@@ -1,0 +1,72 @@
+<div class="noticia">
+    <script>    
+        $(function() { 
+            var s = $(".noticia .slider").Slider("", ""); 
+        });
+    </script>
+    <?
+        $record = DBUtil::selectRowSQL(toLang("select id, title_@ as title, desc_@ as text, dt_created from news where id = ?"), array($this->ref_news));
+    ?>                          
+    <div class="auto detalhe">
+        <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("noticias/title")?></div>
+        <div class="embedEticaLight size18 gray3 hidden"><?=App::translate("noticias/title")?></div>     
+        <div class="mt20 Box"> 
+            <div class="size13 embedEticaLight"><?=new Date($record['dt_created'])?></div>
+            <div class="size18 embedEticaReg mt10 gra"><?=$record['title']?></div>
+            <div class="embedTahoma mt10 size13"><?=$record['text']?></div>                                                                        
+
+            <div class="mt20">
+                <?
+                    $links = DBUtil::select(toLang("select name_@ as name, target_@ as target, link_@ as link from news_link where ref_news = ? order by news_link.order asc"), array($record['id']));
+                    $links = $links->getValues();
+
+                    if (count($links) > 0) {   
+                        foreach ($links as $k=>$v) { 
+                        ?>
+                        <a href="<?=$v['link']?>" title="<?=$v['name']?>" class="size12 arrowl blue dblock" target="<?=$v['target']?>"><?=$v['name']?></a>
+                        <?
+                        }
+                    }
+                ?>   
+            </div>        
+
+            <?    
+                $rs = DBUtil::select(toLang("select title_@, desc_@, image_@ from news_image where ref_news = ? order by news_image.order asc"), array($record['id']));
+
+                if ($rs->count() > 0) {?>
+                <div class="sliderContent">
+                    <div class="slider">
+                        <div class="arrowleft  pointer"></div>  
+                        <div class="container">     
+                            <?
+                                $page = 0;
+                                while (list($title, $desc, $image) = $rs->next()) {     
+                                    $image = App::url('images/resize/site/upload/news_image/'.App::$currentLang['alias'].'/'.$image, 765, 460, false);
+                                ?>                                       
+                                <div class="content content<?=$page?>">
+                                    <div class="contentPad">
+                                        <div class="titles embedEticaLight size25"><?=$title?></div>
+                                        <div class="image" _image="<?=$image?>"></div>
+                                        <div class="descs size13"><?=$desc?></div>
+                                    </div>
+                                </div>
+                                <?                                
+                                    $page+=1;
+                                } 
+                            ?>
+                        </div>
+                        <div class="arrowright  pointer"></div>
+                    </div> 
+                </div>  
+                <?}?>               
+        </div> 
+    </div> 
+</div>                                                                       
+       
+
+
+
+
+
+            
+

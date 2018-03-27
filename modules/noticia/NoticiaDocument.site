@@ -1,0 +1,32 @@
+<?                                         
+    class NoticiaDocument extends Document{
+
+        public function __construct(){
+            parent::__construct();        
+            $this->defaultAction = 'home';
+
+            App::getInstance()->addJS('site/assets/slider/slider.js');
+            App::getInstance()->addCSS("site/modules/noticia/noticia.css");  
+        }
+
+        public function home(){
+            global $middle;  
+            App::getInstance()->setTitle("Airport - Notícias");
+
+            $c = new Controller(new FileView("modules/noticia/noticia.view"));                                        
+
+            $middle->addChild($c ,'TARGET');        
+        }
+
+        public function detalhe($ref_news, $title ='') { 
+            global $middle;  
+
+            $c = new Controller(new FileView("modules/noticia/detalhe.view"));                                        
+            $c->getView()->ref_news = $ref_news;
+
+            $middle->addChild($c ,'TARGET');
+        }
+
+    }
+
+?>

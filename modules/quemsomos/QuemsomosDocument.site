@@ -1,0 +1,25 @@
+<?                                         
+    class QuemsomosDocument extends Document{
+
+        public function __construct(){
+            parent::__construct();        
+            $this->defaultAction = 'home';
+            
+            App::getInstance()->addJS('site/assets/slider/slider.js');
+        }
+
+        public function home(){
+            global $middle;  
+
+            App::getInstance()->setTitle("Airport - Quem Somos");
+            
+            App::getInstance()->addCSS("site/modules/quemsomos/quemsomos.css");                           
+            $c = new Controller(new FileView("modules/quemsomos/quemsomos.view"));                                        
+                                                     
+            $middle->addChild($c ,'TARGET');        
+        }
+
+                         
+    }
+
+?>

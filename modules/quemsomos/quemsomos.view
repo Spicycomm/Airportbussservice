@@ -1,0 +1,60 @@
+<div class="quemsomos">
+    <script>
+        $(function() { 
+            var s = $(".quemsomos .slider").Slider("", ""); 
+        });
+    </script>
+    <div class="auto">
+        <div class="title embedEticaSemiBold size25 mt20 black"><?=App::translate("quemsomos/title")?></div>
+        <div class="subtitle embedEticaLight size18 gray3"><?=App::translate("quemsomos/subtitle")?></div>   
+        <div class="desc embedTahoma size13 gray3"><?=App::translate("quemsomos/desc")?></div>   
+
+        <div class="box">              
+            <div class="slider">
+                <div class="arrowleft  pointer"></div>  
+                <div class="container">     
+                    <?
+                        $rs = DBUtil::select(toLang("select title_@, desc_@, image_@ from inst order by inst.order asc"));
+                        $page = 0;
+                        while (list($title, $desc, $image) = $rs->next()) {
+                            if(!$title) 
+                                continue;                                                   
+                                    
+                            $image = App::url('images', 'resize', 'site/upload/inst/'.App::$currentLang['alias'].'/'.$image, 765, 460, false);
+                        ?>
+                        <div class="content content<?=$page?>">
+                            <div class="contentPad">
+                                <div class="titles embedEticaLight size25"><?=$title?></div>
+                                <div class="image" _image="<?=$image?>"></div>
+                                <div class="descs size13"><?=$desc?></div>
+                            </div>
+                        </div>
+                        <?                                
+                            $page+=1;
+                        } 
+                    ?>
+                </div>
+                <div class="arrowright  pointer"></div>
+            </div> 
+        </div>
+
+        <div class="linehr mt40"></div>
+        <div class="serv mt40">
+            <div class="serveng left"></div>
+            <div class="content left">                                         
+                <div class="title embedEticaSemiBold size25 gray"><?=App::translate("quemsomos/serveng_title")?></div>
+                <div class="desc mt20 size13 gray"><?=App::translate("quemsomos/serveng_desc")?></div>
+                <a class="link mt10 left blue" target="_blank" name="Grupo Serveng" href="http://www.gruposerveng.com.br"><?=App::translate("quemsomos/serveng_link")?></a>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <br><br><br><br> 
+    </div>  
+</div>                                                                              
+
+
+
+
+
+            
+

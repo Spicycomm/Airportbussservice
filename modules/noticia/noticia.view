@@ -1,0 +1,86 @@
+<div class="noticia">    
+    <script>
+        $(function() { 
+            $(".ItemNews").click(function() { 
+                window.location = $(this).find("a").attr("href"); 
+            });
+
+            $(".ItemNews").hover(function() { 
+                $(this).css("text-decoration", "underline");
+            }, function() { 
+                $(this).css("text-decoration", "none");
+            })
+            
+            $(".currentPage").change(function() { 
+                window.location = $.url("noticias", $(".currentPage").val());
+            })
+        })
+    </script>       
+    <div class="auto home">
+    
+        <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("noticias/title")?></div>       
+        <div class="embedEticaLight size18 gray3"><?=App::translate("noticias/desc")?></div>
+        <div class="mt20 newsContent">
+            <?
+                $currentPage = @App::$get[1];
+                if (!$currentPage)
+                    $currentPage = 0;
+                else 
+                    $currentPage -= 1;  
+
+                $totalPerPage = 5; 
+
+                $limit = intval($totalPerPage); 
+                $offset = intval($currentPage * $totalPerPage);
+
+                $rs = DBUtil::select( toLang("select id, title_@ as title, desc_@ as text, dt_created from news where fl_enabled = 1 and LENGTH(title_@) > 0 order by dt_created desc limit ".$limit." offset ".$offset)); 
+                $rs = $rs->getValues(); 
+                
+                if (count($rs)==0) { 
+                    echo "<div class='bold size18'>".App::translate("noticias/notresult")."</div>";    
+                }
+                
+                foreach ($rs as $k=>$v) { 
+                ?>
+                <div class="ItemNews black" _id="<?=$v['id']?>">
+                    <div class="size13 embedEticaLight"><?=@new Date($v['dt_created'])?></div>
+                    <div class="size18 mt10 title embedEticaReg"><?=$v['title']?></div>
+                    <div class="size13 mt5 desc embedTahoma"><?=StringUtil::resume(strip_tags($v['text']), 330)?></div>
+                    <a href="<?=App::lurl("noticias", "detalhe", $v['id'], App::urlEncode($v['title']))?>" title="<?=$v['title']?>" class="hidden"></a>
+                </div>
+                <?        
+                }
+            ?>
+            <div class="clear"></div>
+        </div>                        
+
+        <?
+            $total= DBUtil::selectValueSQL("select count(id) from news where fl_enabled = 1")*1;
+            $currentPage +=1;
+                    
+            if ($total > $totalPerPage) { ?>  
+            <div class="right mr10 mt20">
+                <select name="currentPage" class="currentPage">                       
+                    <option value="1"><?=App::translate("noticias/page")?></option>  
+                    <?
+                        $list = range(2, ceil($total/$totalPerPage));
+                        foreach ($list as $k=>$v) { 
+                        ?>
+                        <option value="<?=$v?>" <?=(@$currentPage == $v ? 'selected="selected"' : '')?>><?=$v?></option>
+                        <?
+                        }
+                    ?>
+
+                </select>
+            </div>   
+            <div class="clear"></div>              
+            <?}?>         
+    </div>         
+</div>                                                                              
+
+
+
+
+
+            
+

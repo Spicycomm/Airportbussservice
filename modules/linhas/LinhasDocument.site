@@ -1,0 +1,102 @@
+<?                                         
+    class LinhasDocument extends Document{
+
+        public function __construct(){
+            parent::__construct();        
+            $this->defaultAction = 'home';
+
+            App::getInstance()->addCSS("site/modules/linhas/linhas.css");  
+
+            App::getInstance()->addJS("site/js/json2.js");  
+            App::getInstance()->addJS(getRelativePath('jquery.scrollto.js'));  
+            App::getInstance()->addJS("http://maps.google.com/maps/api/js?libraries=places,geometry&sensor=false");
+        }
+
+        public function home(){
+            global $middle;  
+
+            App::getInstance()->setTitle("Airport - Linhas e Horários");
+
+            $c = new Controller(new FileView("modules/linhas/linhas.view"));                                        
+
+            $middle->addChild($c ,'TARGET');        
+        }
+
+        public function lista($id='') { 
+            $this->home();    
+
+            if ($id) { 
+                global $middle;  
+
+                $str = '<script>';
+                $str .= '$(function() { $(".btnRoute.route'.$id.'").click(); $.scrollTo(".btnRoute.route'.$id.'"); });';
+                $str .= '</script>';
+
+                $middle->addChild(new Controller(new View($str)) ,'TARGET'); 
+            }
+        }
+
+        public function busca() {      
+            global $middle;  
+
+            App::getInstance()->setTitle("Airport - Linhas e Horários - Encontre a linha mais proxima");
+
+            App::getInstance()->addJS(getRelativePath("jquery.metadata.js"));  
+            App::getInstance()->addJS(getRelativePath("auxteam.validation.js")); 
+
+            $c = new Controller(new FileView("modules/linhas/busca.view"));                                        
+
+            $middle->addChild($c ,'TARGET');     
+        }
+
+        public function getRoute($city='ini') { 
+            if(App::$post->isEmpty()) 
+                die();
+
+            $lat = App::$post->lat; 
+            $lng = App::$post->lng;
+
+            $rs = DBUtil::select("select * from route where ref_city_ini = 2");
+                                                   
+            $rs = $rs->getValues();
+            foreach ($rs as $k=>$v) {   
+                $c = new Controller(new FileView('modules/linhas/linhaItem.view')); 
+                $c->getView()->v = $v; 
+                $c->getView()->lat = $lat; 
+                $c->getView()->lng = $lng; 
+                $c->getView()->city = $city; 
+                echo $c; 
+            }
+
+            die();
+        }
+
+        public function mapa() { 
+            global $middle;  
+
+            $c = new Controller(new FileView("modules/linhas/maps.view"));                                        
+
+            $middle->addChild($c ,'TARGET');        
+        }
+
+        public function detalhe($id) { 
+            App::getInstance()->getTemplate()->removeAllChilds("APP_BODY"); 
+
+            $c = new Controller(new FileView("modules/linhas/detalhe.view")); 
+            $c->getView()->id = $id;
+
+            App::getInstance()->getTemplate()->addChild($c, "APP_BODY");
+        }     
+
+
+        public function vendas() { 
+            global $middle;  
+
+            $c = new Controller(new FileView("modules/linhas/vendas.view"));
+
+            $middle->addChild($c ,'TARGET');
+        }
+
+    }
+
+?>

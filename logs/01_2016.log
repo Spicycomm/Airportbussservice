@@ -1,0 +1,1329 @@
+<d><![CDATA[||||186.222.42.58||01/01/16 02:23:47||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Andreza de Souza','gostaria de saber se ainda tem o ônibus que sai da faria lima e o horário. obrigada.','andrezadsouza76@yahoo.com.br','7','48 99012224','1451622227')||||DB]]></d>
+<d><![CDATA[||||189.41.188.171||01/01/16 10:47:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Erika Pena','Gostaria de saber se existem parcerias com as empresas aéreas (Delta) para cortesia no transporte via airportbus de Congonhas para Cumbica. ','erikadppena@gmail.com','3','(11)999337883','1451652430')||||DB]]></d>
+<d><![CDATA[||||200.69.220.29||01/01/16 13:48:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Carlos César','Bom dia, chegarei no aeroporto de guarulhos dia 02/01/16 às 20:35h, e estou hospedado no endereço Rua José Maria Lisboa, 555, Jardins, SP. Sendo assim, gostaria de saber qual o intinerário de vocês que me deixe mais próximo do endereço citado.','carlospdesena@gmail.com','3','81998444433','1451663282')||||DB]]></d>
+<d><![CDATA[||||23.94.170.143||01/01/16 22:20:08||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sandra','Hi my name is Sandra and I just wanted to drop you a quick note here instead of calling you. I came to your Airport - Contato page and noticed you could have a lot more visitors. I have found that the key to running a popular website is making sure the visitors you are getting are interested in your niche. There is a company that you can get targeted visitors from and they let you try the service for free for 7 days. I managed to get over 300 targeted visitors to day to my website. Check it out here: http://bbqr.me/4fj5','dfqrdvkc@udkdoles.net','','Sandra','1451694008') <b>Column 'ref_subject' cannot be null</b>||||DB]]></d>
+<d><![CDATA[||||138.59.96.74||01/01/16 23:10:35||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('João Luiz','boa noite tudo bem com vocês? espero que sim ,, por gentileza quais os horários do Airport busservice  sai de Taubaté sp para aeroporto de guarulhos sp      , obrigado e feliz 2016','joaooliveirali@bol.com.br','7','12997826605','1451697035')||||DB]]></d>
+<d><![CDATA[||||187.108.228.112||02/01/16 13:24:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Maria aparecida de Paula Ribeiro','Por gentileza como sei  o horário de ida de campinas para aeroporto Guarulhos não dá para entender afinal tem onibus que sai de campinas rodoviária a Guarulhos aeroporto por favor ','horacida@yahoo.com','7','19 82510489','1451748294')||||DB]]></d>
+<d><![CDATA[||||191.254.89.11||02/01/16 15:03:24||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Cicero Eliaa','Vc fazem Congonhas campinas viracop','Cíceroecruz@hotmail.com','7','11985560205','1451754204')||||DB]]></d>
+<d><![CDATA[||||191.254.89.11||02/01/16 15:03:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Cicero Eliaa','Vc fazem Congonhas campinas viracop','Cíceroecruz@hotmail.com','7','11985560205','1451754226')||||DB]]></d>
+<d><![CDATA[||||191.180.11.221||03/01/16 04:47:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Padraig Rynn','ola, tudo Bem ! could you advise if the airport  bus  stops at Frei caneca shopping centre when on its way to the airport? Obrigado padraig ','padraigrynn@yahoo.ie','3','353879883820','1451803623')||||DB]]></d>
+<d><![CDATA[||||66.102.8.158||03/01/16 09:08:29||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('romildo mendes dos santos junior','Estou saindo de Uberlândia horária de saber a ônibus aí É passe no terminal barra funda do metrô ','romilldomendes@gmail.com','3','1124232345','1451819309')||||DB]]></d>
+<d><![CDATA[||||187.3.91.221||03/01/16 10:02:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Carla Weber','Preciso saber se posso chegar no aeroporto de congonhas e comprar a passagem de ônibus pro aeroporto de GRU com meia hora de antecedência ou tenho que chegar com mais tempo?!! ','carlaweber70@hotmail.com','3','11 9 4160 5852','1451822573')||||DB]]></d>
+<d><![CDATA[||||201.69.131.226||03/01/16 11:30:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Brigitte Langreney','Sobre o trajeto Congonhas Cumbica, 
+O ônibus sai de que local de Congonhas? 
+Hoje domingo são os mesmos horários?
+O ônibus vai até o terminal 3 em Cumbica?
+
+Obrigado,
+
+Brigitte Langreney
+
+','arqbri@hotmail.com','3','011 41212964','1451827803')||||DB]]></d>
+<d><![CDATA[||||181.110.155.244||03/01/16 11:34:00||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Federico','I need transportation for 2 people from Guarulhos international (12/1/2016, 1.40 my plane arrives) to Congonhas cgh. And i need to get there around 4.30 am to get to my other plane.
+
+I saw you offer a service at 3 am. I want to use that service. How can i do it? Do i have to book it from here and pay when we get there or do i pay for the service directly here today?. How much dos it costs?
+
+Thank you','F.vaschetto@hotmail.com.ar','7','+541140289316','1451828040')||||DB]]></d>
+<d><![CDATA[||||201.55.6.207||03/01/16 11:53:43||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('RAQUEL','Preciso pegar o ônibus que sai amanhã dia 04/01 ás 05:40 da manhã, mas no site não está disponível para venda este horário.
+Ele está confirmado para sair?
+','raquelq@uol.com.br','7','11998512729','1451829223')||||DB]]></d>
+<d><![CDATA[||||201.69.111.210||03/01/16 12:47:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Monica alves bueno','Tenho um voo hj as 3 da manha em GRU...quero saber qual horario do buservice posso pegar em congonhas p chegar a tempo, estou ligando no telefone e ngm atende','monicabueno_quimica@yahoo.com.br','3','983690220','1451832437')||||DB]]></d>
+<d><![CDATA[||||187.75.63.69||03/01/16 13:01:44||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elayne Carvalho','Qual é o valor da passagem para criança de 10 anos? ','elayne-carvalho@hotmail.com','3','952152824','1451833304')||||DB]]></d>
+<d><![CDATA[||||191.197.141.107||03/01/16 18:22:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Franna','Gostaria de informações de valores de passagens para crianças de 10,11 e 15 anos. E o mesmo valor para adultos?','franna.fardin@uol.com.br','3','11 96185-9053','1451852578')||||DB]]></d>
+<d><![CDATA[||||190.161.105.79||03/01/16 21:52:44||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Camila Pérez Arriaza','Hello, I have a question about the route between Guarulhos airport to Congonhas , as I travel on 28/01 and have only three hours to go from one airport to another, so I need to know how long the journey takes and if in case there are traffic problems (as the time interval is between 18:10 to 21:00 ) what can I do in case of missing my flight.
+
+Attent to your  comments, thanks. ','camila.perez.arriaza@gmail.com','7','02-27762614','1451865164')||||DB]]></d>
+<d><![CDATA[||||191.23.81.163||04/01/16 00:35:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('esther maria ','gostaria de saber em qual local consigo comprar a passagem para o transporte que sai da barra funda e vai ate o aeroporto terminal 2 em guarulhos. Qual o horario que funciona o posto de venda? e qual o valor ? e embarcando em guarulhos aonde eu pego o transporte?','estrela_sp@msn.com','3','996880092','1451874903')||||DB]]></d>
+<d><![CDATA[||||181.171.49.41||04/01/16 01:06:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('edgardo','POR FAVOR NO ENCUENTRO MANERA DE INGRESAR A TOMAR PASAJES DESDE EL AEROPUERTO DE GUARUHLOS A SANTOS. ES UNA EMPRESA QUE ME LA HAN RECOMENDADO. 
+QUIERO CONSULTAR HORARIOS Y REALIZAR RESERVA. NO ENCUENTRO LA MANERA DE INGRESAR. POR FAVOR ME DAN DATOS.
+MUCHAS GRACIAS
+OBRIGADO','edchiple@hotmail.com','7','54351156194534','1451876777')||||DB]]></d>
+<d><![CDATA[||||179.242.230.23||04/01/16 02:21:15||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ana carolina','Boa noite,
+
+Peguei um onibus que saiu do maksoud plaza para o aeroporto de guarulhos, no horario das 22:10.
+Gostaria de deixar relatado minha insatisfacao e receio com o servico oferecido pela vossa empresa. O motorista, que me pareceu muito afobado, querendo chegar logo ao destino, dirigia imprudente, sempre querendo "passar em cima" dos carros na rua, grudava exageradamente nos veiculos a frente e pasmem, brigou de bate boca, xingou um motorista de taxi ao chegar no aeroporto. O motorista entrou na frente do onibus( nao estaav errado), o motorista ao inves de freiar, acelerou e deu varios sinais de farol alto, fora discutir com o motorista. Acredito que nao seja politica da empresa esse tipo de serviço. Mesmo constrangida, e assustada, agradeci ao motorista, porem, irei pensar duas vezes antes de pegar novamente este transporte, e nao indico para ninguem. Muito perigoso para nos passageiros sermos expostos a este tipo de situacao. Espero que esse recado seja passado para o setor responsavel, pois nao e uma atitude normal. Obrigada, Ana Carolina','Carolana10@hotmail.com','3','27993129794','1451881275')||||DB]]></d>
+<d><![CDATA[||||179.208.237.9||04/01/16 08:02:19||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Victor Richarte Martinez','Bom dia,
+
+
+
+Gostaria de agradecer o serviço prestado pelo senhor Marcio (e sua equipe), da unidade do aeroporto de Guarulhos, que gentilmente me atendeu no sábado, dia 02 de janeiro, a respeito de uma pasta pessoal esquecida em um dos ônibus no dia 30 de dezembro. Meus pertences foram devolvidos, sem avarias.
+
+
+
+Parabéns à Serveng Transportes por contar com funcionários e processos competentes e honestos. Que iniciativas e ações como essas sejam espelhadas em outras organizações em nosso país
+
+
+
+Atenciosamente
+
+Victor Richarte Martinez
+
+​','victor.richarte@gmail.com','3','(11)989053693','1451901739')||||DB]]></d>
+<d><![CDATA[||||191.184.194.183||04/01/16 10:43:57||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Soraya','Por favor, gostaria de saber as opções de embarque para o litoral paulista a partir de Guarulhos.
+Grata','sorayasaopauli@hotmail.com','7','67 96429157','1451911437')||||DB]]></d>
+<d><![CDATA[||||177.72.115.76||04/01/16 10:48:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('CARLOS DINIZ','bom dia , estou aqui para fazer uma reclamação , deixei meu carro no dia 23/12/2015 no seu estacionamento para ser retirado no dia 1/1 2016 , conforme acordado com seus funcionários e até mesmo , no site de vcs , consta que o veiculo seria lavado , com um aviso previo da minha chegada , porem liguei de recife quando embarquei , e sua funcionaria disse que era para ligar quando chegasse em guarulhos , pois bem minha filha ligou , e a van foi nos buscar , até ai tudo bem , mas quando chegamos em seu estabelecimento , meu carro estava sujo , e com os bancos fora do lugar , e o apinel que é digital todo remexido, ou seja , tudo fora do lugar , e ainda nem sei se não andaram com meu carro , assim sendo , tenho plena certeza que sua empresa é uma empresa seria , eu gostaria que fosse tomadas providencias a respeito para que não ocorra com outros clientes , meu carro é uma  doblo placa ftt 3620 , e quam acertou toda negociação com vcs , foi minha filha , srt , kelly cristina nunes , desde já agradeço a atenção .e aguardo resposta .','chaveiro.diniz@gmail.com','3','1147038271','1451911728')||||DB]]></d>
+<d><![CDATA[||||189.32.224.246||04/01/16 13:29:52||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Beatriz Galvão','Boa tarde.
+
+Escrevo a fim de confirmar se a linha Aeroporto de Guarulhos para Aeroporto de Congonhas continua operando diariamente, conforme consta no site. A saber, não consegui contato pelo 0800 e gostaria de verificar se não houve mudança de horários.
+
+Desde já agradeço!
+
+Beatriz','beatrizgalvao@gmail.com','3','54 8110-2575','1451921392')||||DB]]></d>
+<d><![CDATA[||||189.121.39.89||04/01/16 13:40:24||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Mario','De qual terminal sai o ônibus de vocês para Congonhas?','mdcfn@me.com','3','(11) 996543321','1451922024')||||DB]]></d>
+<d><![CDATA[||||201.18.116.188||04/01/16 15:51:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Paloma Dagher ','Boa tarde. Gostaria de saver como faço pra comprar passagem de ônibus dentro do aeroporto de guarulhos. Onde há postos de vendas ? ','palomadagher@hotmail.com','7','91982318709','1451929908')||||DB]]></d>
+<d><![CDATA[||||187.105.137.3||04/01/16 17:45:01||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Paulo Soria','Boa tarde
+Moro no Tatuapé e tenho um vôo com minha família, saindo de Congonhas, no dia 23/01 as 15:00. Gostaria de pegar esse ônibus para não depender de taxistas. Há itinerário ou mesmo opção para isso?
+Somos em quatro pessoas. Qual o custo?
+No aguardo
+Obrigado
+Paulo Soria','pssoria@hotmail.com','7','11 99228-4500','1451936701')||||DB]]></d>
+<d><![CDATA[||||181.171.49.41||05/01/16 00:45:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('edgardo','POR FAVOR NECESITO SABER HORARIOS DE OMNIBUS DESDE EL AEROPUERTO DE GUARULHOS A SANTOS DURANTE EL MES DE ENERO. GRACIAS.
+OBRIGADO
+EDGARDO','edchiple@hotmail.com','7','54351156194534','1451961949')||||DB]]></d>
+<d><![CDATA[||||181.171.49.41||05/01/16 00:47:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('edgardo','POR FAVOR NECESITO SABER HORARIOS DE OMNIBUS DESDE EL AEROPUERTO DE GUARULHOS A SANTOS DURANTE EL MES DE ENERO. GRACIAS.
+OBRIGADO
+EDGARDO','edchiple@hotmail.com','7','54351156194534','1451962056')||||DB]]></d>
+<d><![CDATA[||||177.146.227.237||05/01/16 06:36:12||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Andre Amighini','Atendimento da Loja de Congonhas está cada dia pior. Aguardando a 10 minutos an fila e o funcionario fechado an sala comendo, sends que faltavam 5 min para a saida do onibus.
+
+Cliente que estava antes an fila reclamou e ainda foi xingado pelo atendente e por um carregador de Malas da airport service que estava proximo.
+','amighini@yahoo.com','3','11984898050','1451982972')||||DB]]></d>
+<d><![CDATA[||||177.146.227.237||05/01/16 06:39:18||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rodrigo Gouvea dos Santos','Bom dia,sou usuario de muitos anos deste servico,e sempre me atendeu bem.Mas tenho tido problemas repetidos no guiche do aeroporto de Congonhas,e como e a terceira que o mesmo problema ocorre,com o mesmo funcionaro,venho a reclamar.Este ocorrido foi hj,05/01/2016.Cheguei no balcao as 06:14 da manha,para pegar o onibus das 06:30 para Guarulhos.?Da mesma forma em que ocorreu por 2 ocasioes anteriores e com o mesmo funcionario,nao havia ninguem no balcao,somente uma placa de "volto logo".Apos 10 miinutos em pe aguardando,e com a fila aumentando,as 06:25 resolvi entrar no guiche e chamar da sala o funcionario que estava la,calmamente tomando seu justo cafe;creio que os usuarios,como eu,nao tenham que ficar 10 minutos ou mais de pe,aguardando o funcionario tomar seu justo cafe,ainda mais para um onibus que sai em 5 minutos,e com a fila grande! Acabou que,com esta espera,nao consegui tomar meu cafe e ir ao banheiro.E justo que o funcionario tome seu cafe,mas tem de haver um respeito ao usuario que fica em pe esperando,como ocorreu hoje e em outras 2 vezes anteriores.','Rodrgouvea@ig.com.br','3','21-27092833','1451983158')||||DB]]></d>
+<d><![CDATA[||||177.170.50.65||05/01/16 10:27:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Mariana ','Gostaria de deixar a reclamação e a sugestão para que a empresa aceite trocar o bilhete do passageiro que perdeu o ônibus pretendido.
+Comprei o bilhete para uma viagem hoje, saindo do aeroporto de Guarulhos. Quando cheguei à plataforma o ônibus estava saindo. Corri, mas não deu tempo (não sei se o motorista percebeu ou não, mas isso não vem ao caso). Perguntei para um funcionário qual seria o próximo horário e o mesmo me respondeu (sem tirar os olhos do celular) que seria dentro de 1h e deveria trocar a passagem. 
+Fui ao guichê e perguntei se poderia trocar por outro itinerário, já que aquela linha em questão demoraria 1h para a saída. A atendente disse precisar da autorização do gerente para realizar tal operação e o mesmo não concedeu. Falei com ele por telefone e ele insistiu que não era possível, por política da empresa. 
+Sugiro que a empresa aceite fazer tal troca, visando um melhor atendimento ao consumidor, uma vez que não há controle na quantidade de passageiros dentro dos ônibus (e se houver lugar, qual seria o problema em realocar o passageiro em outro carro?), uma vez que o preço das passagens não muda de uma linha pra outra.
+Um melhor treinamento no atendimento ao consumidor também seria bem vindo, pois o gerente e o primeiro funcionário que não tirou os olhos do celular enquanto respondia à minha dúvida não foram muito atenciosos.
+Viajo bastante e estou acostumada com a empresa é justamente por isso escrevo esta reclamação. Num momento em que há outras opções de transporte, acredito ser importante repensarem certos procedimentos.
+Att.
+','mari.shiraiwa@yahoo.com.br','3','993620039','1451996826')||||DB]]></d>
+<d><![CDATA[||||179.177.47.7||05/01/16 11:50:16||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('patricia ','ola bom dia
+
+vi num site que o trasnporte  airport bus service também passara pelo anhembi e o local da parada é na rua professor milton rodrigues e a passagem custa 36,50 e ao entrar no site de vocês , nao encontro esse rota e nem esse valor!
+poderia me ajudar!
+
+att
+Patrícia Madeira','patmadeira86@gmail.com','3','21972669074','1452001816')||||DB]]></d>
+<d><![CDATA[||||59.133.8.124||05/01/16 12:39:47||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Simone','Oi preciso pegar um onibus de gru para cumbica. E preciso saber se é permitido levar animais. ','simonehatamoto@ezweb.ne.jp','3','17 38381380','1452004787')||||DB]]></d>
+<d><![CDATA[||||200.217.164.99||05/01/16 13:49:23||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ANA PAULA DANTAS COELHO','Por favor, o serviço de vocês funcionará no dia 9 de fevereiro, terça-feira de carnaval? Estarei voltando de SP na data e gostaria de saber. Grata!','ana_pauladantas@yahoo.com.br','3','(85) 9 9621-6247','1452008963')||||DB]]></d>
+<d><![CDATA[||||179.35.152.239||05/01/16 17:43:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ana Angelica Manhani','Os ônibus são acessíveis para passageiro subir com cadeira de rodas?','angelicamanhani@hotmail.com','3','11 55115494','1452023013')||||DB]]></d>
+<d><![CDATA[||||64.215.22.65||05/01/16 18:31:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Samela','Boa Noite, Srs Gostaria de saber quanto é o translado do aeroporto de Guarulhos para Congonhas. Qual a estimativa de tempo ? Para eu chegar às 20h do dia 04/02/16, qual horário tenho que estar em Guarulhos?
+
+Obrigada,','sg-pedroso@uol.com.br','7','15988028367','1452025880')||||DB]]></d>
+<d><![CDATA[||||37.14.206.137||05/01/16 20:06:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('mariana','bom dia
+
+gostaria de saber se voces fazem o translado de Gru para congonhas , pois tenho uma conexao e estou viajando com um cachorrinho que ja foi aprovado pela cia aerea tam , tem kennel menos de 4 kilos .','maziinha17@hotmail.com','7','1','1452031608')||||DB]]></d>
+<d><![CDATA[||||177.32.84.110||05/01/16 21:07:35||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Oliver','Olá
+
+Na página Home, onde se compra virtualmente a passagem, eu não consigo colocar como local de \'Origem\' a Av.Paulista, local o qual é muito melhor para eu lograr chegar a tempo. Gostaria de saber como posso comprar a passagem neste local, por favor respondam brevemente, agradeço dês de já.','leee8free@gmail.com','7','11 37338121','1452035255')||||DB]]></d>
+<d><![CDATA[||||177.37.6.134||06/01/16 00:17:29||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Talles','Olá! Gostaria de saber a partir de qual idade as crianças devem pagar passagem para o traslado Tietê-Guarulhos. Obrigado!','talleslb@gmail.com','3','35*3521-4183','1452046649')||||DB]]></d>
+<d><![CDATA[||||179.149.50.145||06/01/16 01:14:15||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('José Hiromi Hamakawa ','Tomei o ônibus no dia 05/01/2016, Congonhas-Guardados, no horário das 22:50 cheguei as 23:35, bilhete n. 788064 e esqueci minha mochila no ônibus. Ao entrar no aeroporto lembrei voltei o ônibus já não estava, e reclamei na bilheteria, ela ligou e disse que o motorista já tinha entregue o ônibus e nada tinha encontrado. O que julgo ser pouco caso   pois não houve tempo nem do ônibus chegar na garagem pois fica na vila Maria e nem houve tempo do ônibus chegar pois a reclamação foi imediata. Assim quero fazer a reclamação pois acho que já "ganharam" minha mochila. Quero saber o número do ônibus e motorista para fazer uma queixa formal ao Processo. A mochila continha dois livros, um lampião elétrico, uma sandália Crosta, minha chave da mala ','jhhiromi@Gmail.com ','3','6599523323 ','1452050055')||||DB]]></d>
+<d><![CDATA[||||179.149.50.145||06/01/16 01:16:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('José Hiromi Hamakawa ','Tomei o ônibus no dia 05/01/2016, Congonhas-Guardados, no horário das 22:50 cheguei as 23:35, bilhete n. 788064 e esqueci minha mochila no ônibus. Ao entrar no aeroporto lembrei voltei o ônibus já não estava, e reclamei na bilheteria, ela ligou e disse que o motorista já tinha entregue o ônibus e nada tinha encontrado. O que julgo ser pouco caso   pois não houve tempo nem do ônibus chegar na garagem pois fica na vila Maria e nem houve tempo do ônibus chegar pois a reclamação foi imediata. Assim quero fazer a reclamação pois acho que já "ganharam" minha mochila. Quero saber o número do ônibus e motorista para fazer uma queixa formal ao Processo. A mochila continha dois livros, um lampião elétrico, uma sandália Crosta, minha chave da mala ','jhhiromi@Gmail.com ','3','6599523323 ','1452050218')||||DB]]></d>
+<d><![CDATA[||||179.149.50.145||06/01/16 01:18:14||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('José Hiromi Hamakawa ','Tomei o ônibus no dia 05/01/2016, Congonhas-Guardados, no horário das 22:50 cheguei as 23:35, bilhete n. 788064 e esqueci minha mochila no ônibus. Ao entrar no aeroporto lembrei voltei o ônibus já não estava, e reclamei na bilheteria, ela ligou e disse que o motorista já tinha entregue o ônibus e nada tinha encontrado. O que julgo ser pouco caso   pois não houve tempo nem do ônibus chegar na garagem pois fica na vila Maria e nem houve tempo do ônibus chegar pois a reclamação foi imediata. Assim quero fazer a reclamação pois acho que já "ganharam" minha mochila. Quero saber o número do ônibus e motorista para fazer uma queixa formal ao Processo. A mochila continha dois livros, um lampião elétrico, uma sandália Crosta, minha chave da mala ','jhhiromi@Gmail.com ','3','6599523323 ','1452050294')||||DB]]></d>
+<d><![CDATA[||||179.149.50.145||06/01/16 01:18:30||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('José Hiromi Hamakawa ','Tomei o ônibus no dia 05/01/2016, Congonhas-Guardados, no horário das 22:50 cheguei as 23:35, bilhete n. 788064 e esqueci minha mochila no ônibus. Ao entrar no aeroporto lembrei voltei o ônibus já não estava, e reclamei na bilheteria, ela ligou e disse que o motorista já tinha entregue o ônibus e nada tinha encontrado. O que julgo ser pouco caso   pois não houve tempo nem do ônibus chegar na garagem pois fica na vila Maria e nem houve tempo do ônibus chegar pois a reclamação foi imediata. Assim quero fazer a reclamação pois acho que já "ganharam" minha mochila. Quero saber o número do ônibus e motorista para fazer uma queixa formal ao Processo. A mochila continha dois livros, um lampião elétrico, uma sandália Crosta, minha chave da mala ','jhhiromi@Gmail.com ','3','6599523323 ','1452050310')||||DB]]></d>
+<d><![CDATA[||||187.112.22.165||06/01/16 01:38:24||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Bruno Mello','Bom dia, 
+gostaria de saber os horários dos ônibus que partem de Congonhas para Guarulhos no dia 4 de fevereiro (à tarde); e dos que fazem o caminho inverso (Guarulhos para Congonhas) na madrugada do 12 também de Fevereiro. Agradeço a atenção. Tenha um bom 2016!
+Atenciosamente, 
+Bruno Mello','bupaperylo@hotmail.com','3','81.99969-2929','1452051504')||||DB]]></d>
+<d><![CDATA[||||179.149.50.145||06/01/16 02:45:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('José Hiromi Hamakawa ','esqueci a mochila no ônibus no trajeto Congonhas-Guarulhos, no horário das 22:50, reclamei 10 minutos depois (23:35 em Guarulhos) e fui tratado com pouco caso pela atendente que nada fez para localizar minha mochila. Estou até esta hora tentando ser atendido,  são 2:41 do dia 06/01 e ainda não tenho notícia nenhuma. É preciso tomar providências com a atendente e o motorista. ','jhhiromi@Gmail.com','3','6599523323 ','1452055536')||||DB]]></d>
+<d><![CDATA[||||223.62.162.96||06/01/16 05:31:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('bong','Quero saber o primeiro ponto de onibus no aeroporto de Guarulhos, que vai ate PAULISTA.
+o primeiro ponto eh no Terminal 2 ?
+Se eu compro passagem por Web(online) vou direto para o onibus?
+Se eu nao consigo pegar o onibus reservado, posso pegar o proximo onibus se tiver lugar?
+Meu voo desce no Terminal 3, Onde devo pegar onibus?','bslsp@lyahoo.co.kr','7','821054361173','1452065462')||||DB]]></d>
+<d><![CDATA[||||179.209.40.66||06/01/16 07:51:00||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Arthur Cavalcante Martins','Bom dia,
+
+Peguei um ônibus ontem do aeroporto de guarulhos até a praça da república e esqueci minha mala no ônibus. Estava com pressa porque tive uma emergência. Estou tentando entrar em contato com vocês por telefone, mas não estou conseguindo. Por favor preciso saber se vocês guardaram a minha bagagem pra eu ir buscar. 
+O número da bagagem é: 950988
+O número do ticket de viagem é: 821650
+Comprei a passagem ontem (05/01) pras 20h40.
+
+Aguardo retorno o mais urgente possível. Estou desesperado.','arthur.mcavalcante@gmail.com','3','11 98593-9792','1452073860')||||DB]]></d>
+<d><![CDATA[||||177.139.97.127||06/01/16 08:53:31||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('tania marco','é possivel comprar a passagem da barra funda para guarulhos pela internet ?','taniamarco151@ig.com.br','7','1136124097','1452077611')||||DB]]></d>
+<d><![CDATA[||||31.25.94.152||06/01/16 12:50:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('MELIKA Akrami','Dear manager 
+Happy New Year.
+We need for 40 of our gusts are coming to Brazil some bus transfer services as bellow:
+SAO PAULO:
+GRU Airport- Hotel Maksoud Plaza- 02 FEB
+Hotel Maksoud Plaza- Hotel Royal Rio Palace( Rio De Janeiro)  04 FEB
+Hotel Royal Rio Palace- GIG Airport- 10 FEB
+IGU Airport- Hotel Wish Resort Iguacu- 10 FEB
+Hotel Wish Resort- IGU Airport- 13 FEB
+GRU Airport- Hotel Maksoud Plaza- 13 FEB
+Hotel Maksoud- GRU Airport- 15 FEB
+Please send us your list of prices.
+With Best Regards.
+','akrami.melika@gmail.com','7','+985137663080','1452091817')||||DB]]></d>
+<d><![CDATA[||||179.106.120.11||06/01/16 13:00:41||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Milena Quadros','Boa tarde.
+
+Gostaria de saber se existe algum itinerário que sai (origem) do Centro SP Republica e vai (origem) para o Aeroporto de Congonhas ? 
+
+Att
+Milena Quadros','milena.quadros@hotmail.com','7','11947240145','1452092441')||||DB]]></d>
+<d><![CDATA[||||179.106.120.11||06/01/16 13:03:01||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Milena Quadros','Boa tarde.
+
+Gostaria de saber se existe algum itinerário que sai (origem) do Centro SP Republica e vai (origem) para o Aeroporto de Congonhas ? 
+
+Att
+Milena Quadros','milena.quadros@hotmail.com','7','11947240145','1452092581')||||DB]]></d>
+<d><![CDATA[||||200.162.4.24||06/01/16 14:34:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('thiago','sou de sp capital e gostaria de ir ate o aerporto de congonhas qual a linha que faze este trageto','thiago.morato@hotmail.com','3','11942032503','1452098042')||||DB]]></d>
+<d><![CDATA[||||177.189.64.79||06/01/16 15:05:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('TANIA RAMPI','OLA
+dia 20 de dezembro eu tomei um bus na frente do Hotel Maksoud em torno das 14:30.
+acabei esquecendo uma necessaire cheia da maquiagem. um bolsa preta pequena que devo ter deixado no banco.
+achei que havia esquecido em casa mas retornei ontem e nao estava.
+Gostaria de saber se há um departamento de achados e perdidos? como eu poderia checar se encontraram algo?
+
+Muito Obrigada
+011 94115 7102
+
+Tania 
+','tania.rampi@telefonica.com','3','011 941157102','1452099946')||||DB]]></d>
+<d><![CDATA[||||189.33.104.88||06/01/16 17:33:35||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('eliane santo andre rocha','gostaria de saber se vcs fazem transfer do aeroporto de congonhas a guarulhos e vice versa...e qual o valor..grata..Eliane','esa.rocha@hotmail.com','7','11982261965','1452108815')||||DB]]></d>
+<d><![CDATA[||||186.218.32.137||06/01/16 21:38:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('André Siqueira','Bom dia! 
+
+Gostaria de saber, pela experiência de vocês, qual a duração da viagem do Air Bus Service de CONGONHAS para GUARULHOS, com saída 18:30 hs, na quarta feira, dia 27 de janeiro?
+
+Lembro que apesar do horário do rush, será final de janeiro!
+
+Qual seria a duração da viagem???
+
+Muito obrigado!
+
+','memenovemeia@gmail.com','7','67 9849-8282','1452123493')||||DB]]></d>
+<d><![CDATA[||||177.157.112.35||06/01/16 21:51:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Claudio','Tenho um vôo que chega em Guarulhos no dia 27/01, às 07:30 e preciso pegar outro em Congonhas às 11:00 do mesmo dia.
+Como não tenho certeza do tempo para desembaraçar a bagagem em Guarulhos, não há como marcar horário de passagem.
+É possível adquirir a passagem no próprio local de embarque do ônibus em Guarulhos?
+Se eu conseguir desembaraçar a bagagem até às 09, consigo pegar o ônibus e cheguar para o check-in em Congonhas até às 11?','cjinfo@gmail.com','3','6181375774','1452124293')||||DB]]></d>
+<d><![CDATA[||||200.158.43.150||06/01/16 22:21:34||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sérgio Marcondes Cardoso Filho','Consigo comprar antecipadamente duas passagens e garantir as duas vagas?','marcondesautomacao@gmail.com','7','17981322121','1452126094')||||DB]]></d>
+<d><![CDATA[||||179.155.116.50||06/01/16 23:27:34||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Henrique Miranda','Boa noite gostaria de  saber quanto tempo o onibus de mora para chegar no aeroporto de cumbica  saindo do tiete rodoviaria sendo que tenho que estar no aeroporto as 08:30','beatrizcoordenacao@outlook.com','7','34 3311 2256','1452130054')||||DB]]></d>
+<d><![CDATA[||||179.155.116.50||06/01/16 23:31:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Henrique Miranda','Boa noite gostaria de  saber quanto tempo o onibus de mora para chegar no aeroporto de cumbica  saindo do tiete rodoviaria sendo que tenho que estar no aeroporto as 08:30','beatrizcoordenacao@outlook.com','7','34 3311 2256','1452130266')||||DB]]></d>
+<d><![CDATA[||||186.79.112.59||06/01/16 23:37:25||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ANTONIO BENTO MIRANDA','No dia 5/01/2016 cheguei com a esposa e filho no Aroporto de Congonhas e tive que me deslocar a Guarulhos  para um voo para Chile visitar familiares. Utilizei o serviço da Arport Bus Service, pelo qual devo registrar um elogio especialmente ao motorista da Linha 957 no horário das 13:30, pois o mesmo mostrou-se extremamente educado e gentil informando como eu deveria fazer para deslocar até o terminal 3, e outras informações de me interesse. Posso crer que este deve ser a orientação que recebe da empresa que certamente tem um ótimo setor de seleção e treinamento.
+Não me lembro do nome do referido motorista, mas se os demais agirem como este, a empresa está de parabéns.
+ANTONIO Bento Miranda
+Psicologo
+Brasília ','Bento.abm@gmail.com','3','61 91472000','1452130645')||||DB]]></d>
+<d><![CDATA[||||179.97.169.241||07/01/16 01:48:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Andre Vicente','Olá,
+
+Eu peguei o último ônibus hoje (quarta-feira 06/01) saindo de Guarulhos sentido Av. Paulista, às 23:10
+
+Quando eu desci na minha casa, em frente ao hotel Linston na Augusta, percebi que o meu celular havia ficado no Onibus
+
+Como isso já aconteceu antes com minha carteira no mesmo horário e depois pude encontrar nos achados e perdidos, eu gostaria de saber se o meu celular teve o mesmo destino, e quando eu posso ir buscá-lo
+
+Obrigado!
+
+PS. é um iphone 4s preto','a.vicente.c@gmail.com','3','11 999917077','1452138518')||||DB]]></d>
+<d><![CDATA[||||191.181.94.40||07/01/16 08:19:35||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Edson Chaves','Bom dia,
+Prezados,
+Ontem minha Mae de nome Elisete utilizou o serviço Bus Service - saindo de Guarulhos as 16hs para a Barra Funda e infelizmente esqueceu uma bolsa no Onibus.
+Poderiam verificar por gentileza com urgência, pois estou tentando contato através do telefone 0800.. desde ontem que não responde as ligações no atendimento.
+Fico no aguardo do seu retorno.
+Att,
+Edson Chaves
+11-95487-0500','edsonschaves@uol.com.br','3','11-95487-0500','1452161975')||||DB]]></d>
+<d><![CDATA[||||186.200.36.85||07/01/16 08:57:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Tayana','Bom dia,
+
+Vocês têm ônibus saindo do interior para o aeroporto de GRU? Sorocaba ou Itu?
+Obrigada.','tayana_brasil@hotmail.com','3','11 999817820','1452164274')||||DB]]></d>
+<d><![CDATA[||||189.69.22.199||07/01/16 09:57:41||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elisete','Bom dia!  Gostaria de saber se o horário de saída dos ônibus que está no site procede.  Ex. 05h45; 7h00, 7h40. Obrigada!                                                                               ','elisetevsoares@ig.com.br','3','(011) 5058.42.33','1452167861')||||DB]]></d>
+<d><![CDATA[||||187.16.172.35||07/01/16 11:16:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Luiz Eduardo','Bom dia, pretendo pegar o onibus amanhã no WTC (Brooklin) para Guarulhos, e como estarei com malas, gostaria de saber exatamente aonde o táxi deve me deixar no WTC, de modo que eu não precise ficar carregando malas desnecessariamente. Vocês poderiam deixar um pouco mais claro no site aonde no WTC (que é um lugar grande com várias entradas) fica o ponto de partida do onibus...
+
+Obrigado, ','lefassis@gmail.com','7','11984568425','1452172582')||||DB]]></d>
+<d><![CDATA[||||187.125.23.146||07/01/16 11:24:11||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('FABIANO CHAVES SANTOS','Bom dia, 
+
+Existe alguma linha saindo do aeroporto de Guarulhos que passe próximo ao hotel Mercure São Paulo Alamedas (Rua Padre Manuel 202)?
+Criança de 9 anos paga o mesmo valor ? ','fcsantos2@hotmail.com','3','86999910133','1452173051')||||DB]]></d>
+<d><![CDATA[||||187.125.23.146||07/01/16 11:47:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('FABIANO CHAVES SANTOS','Bom dia, 
+
+Existe alguma linha saindo do aeroporto de Guarulhos que passe próximo ao hotel Mercure São Paulo Alamedas (Rua Padre Manuel 202)?
+Criança de 9 anos paga o mesmo valor ? ','fcsantos2@hotmail.com','3','86999910133','1452174466')||||DB]]></d>
+<d><![CDATA[||||200.201.171.107||07/01/16 12:16:51||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ANTONIO KEHDI NETO','Boa tarde. Gostaria de saber se o serviço de transfer entre os aeroportos de São Paulo é 24 horas. E qual o valor por pessoa?
+Grato.','antoniokehdi@uol.com.br','3','(16) 37617427','1452176211')||||DB]]></d>
+<d><![CDATA[||||187.35.83.23||07/01/16 15:05:44||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('marli ','BOA TARDE.
+NÃO MORO EM SP, QUERIA A INFORMAÇÃO DE ONDE POSSO EMBARCAR NO ÔNIBUS, SOU DO INTERIOR DE SP, VOU ATE O AEROPORTO DE GUARULHOS, E MINHA DUVIDA É SE NO TERMINAL RODOVIÁRIO DA BARRA FUNDA, ONDE O ÔNIBUS ME DEIXA , SE TEM ÔNIBUS DA BUS SERVICE ATE O AEROPORTO OU SE TENHO QUE ME DESLOCAR NO TERMINAL BARRA FUNDA ATÉ O BUS SERVICE PARA IR ATE O AEROPORTO?
+
+OBRIGADA.','marli-rb-sp@hotmail.com','7','015997295239','1452186344')||||DB]]></d>
+<d><![CDATA[||||201.6.138.227||07/01/16 15:46:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('fernanda','existe o roteiro terminal barra funda ate aeroporto de congonhas?','fe21@hotmail.com','7','11-996383663','1452188766')||||DB]]></d>
+<d><![CDATA[||||200.43.220.154||07/01/16 17:23:59||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Celeste morales','Hola, tengo pasaje  de viaje desde guaruhlos a av. Paulista. Lo compre a distancia con tarjeta de crédito pedido de compra numero 002232649A. Es para las 20.40 de hoy. Tengo problema  de demora de mi vuelo que estaba previsto para llegar a sao Paulo a las 20 hs. Puedo cambiar mi billete para el viaje posterior? Muchas gracias.','cele_m17@hotmail.com','7','0054 299 154537708','1452194639')||||DB]]></d>
+<d><![CDATA[||||189.121.35.130||07/01/16 21:48:08||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Luciana Nagayoshi Alves','Caros, boa noite
+Gostaria de notificar a minha completa insatisfacao e perplexidade ao servico prestado pelo motorista Fausto, no dia de hoje 07/01/2016 no horario de saida as 00:05 do aeroporto de Guarulhos, o qual iniciou o trajeto dentro do aeroporto do terminal 2 ao terminal 1 , com aceleracao inadequada, e curvas erradas, demonstrando notorio descaso com os passageiros.
+Durante o trajeto na estrada, a acelaracao acima de velocidade permitida se prorrogou, inclusive na marginal Tiete, com trechos de 50km/h e eu na primeira poltrona pude verificar no velocimetro que ele trafegava a 90km/h. 
+Dentro do centro de Sao Paulo, ao chegar na Praca da Republica, ele acelerou diante de um farol amarelo e freiou bruscamente  fazendo que uma senhora ao lado quase caisse da poltrona.
+E para finalizar o show de horror, ao entrar no tunel do aeroporto, acelerou muito, simulando praticamente uma montanha russa.
+Cheguei chocada a parada de Congonhas com a atitude de completo dolo, ou seja, ele assumiu o risco de conduzir o onibus de madrugada em alta velocidade e com manobras descabidas. 
+
+Como consumidora, portadora do bilhete pago, exijo providencias e retorno urgente via email.
+
+No aguardo urgente. 
+
+','luciana.0709@yahoo.com.br','3','11946090709','1452210488')||||DB]]></d>
+<d><![CDATA[||||191.180.94.220||07/01/16 23:19:45||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('carmen lynn pereira ramirez lima','Posso comprar na hora a passagem para ir ao aeroporto de guarulhos e senão quanto tempo antes tenho q comprar ?','lima_lynn@yahoo.com.br','7','958136680','1452215985')||||DB]]></d>
+<d><![CDATA[||||191.180.94.220||07/01/16 23:20:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('carmen lynn pereira ramirez lima','Posso comprar na hora a passagem para ir ao aeroporto de guarulhos e senão quanto tempo antes tenho q comprar ?','lima_lynn@yahoo.com.br','7','958136680','1452216003')||||DB]]></d>
+<d><![CDATA[||||201.239.115.212||08/01/16 02:48:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Javier Mauricio Viancha Gutierrez','Buen día,
+
+quisiera saber dónde puedo comprar dos tiquetes para el transfer desde la Av. Paulista esquina Rua Augusta hacia el aeropuerto Guaruhlos.
+No se cuál es el punto de venta mas cercano o si lo puedo comprar en el bus mismo.
+
+Muchas gracias. Saludos,
+J. Viancha
+','viancha@gmx.de','7','+56074235535','1452228536')||||DB]]></d>
+<d><![CDATA[||||115.166.43.214||08/01/16 07:50:47||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Mayra Noronha','Bom dia, gostaria de saber qual o limite de bagagem para o trecho Aeroporto Internacional de Guarulhos para a rodoviaria Tiete. 
+Obrigada,
+Mayra','mayranoronha@gmail.com','3','03199545557','1452246647')||||DB]]></d>
+<d><![CDATA[||||177.152.141.5||08/01/16 09:37:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('rodrigo silva','Venho por meio desta para comunicar o grande interesse que tenho de fazer parte desta equipe, gostaria de uma oportunidade de mostrar meu potencial nesta renomeada empresa, espero ter uma chance de poder me apresentar melhor e expor minhas ideias.
+Desde já agradeço a atenção.','rodrigo06011994@gmail.com','7','28777754','1452253040')||||DB]]></d>
+<d><![CDATA[||||24.79.105.66||08/01/16 15:05:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Leonardo Deornelas','Olá, boa tarde!
+
+Gostaria de saber se vocês oferecem linha de transporte do aeroporto de Congonhas até o aeroporto de Guarulhos e, se sim, qual o valor do serviço. No caso, seria para 2 adultos e 3 crianças.
+
+Muito obrigado e aguardo retorno.','leonardo.projeto2013@hotmail.com','3','1 (204) 998-4581','1452272726')||||DB]]></d>
+<d><![CDATA[||||152.250.19.43||08/01/16 20:54:52||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Evandro Vieira','Boa noite, senhores.
+Estou com uma dúvida referente a passagens.
+Chegou em São Paulo, no Terminal Tietê, domingo, dia 10/01/16. por volta das 17h30 e gostaria de saber se no dia, no terminal posso comprar passagens na hora saindo do terminal para o aeroporto de Guarulhos.
+
+Minha dúvida também é em relação aos horários. os horários que estão no site são válidos para todos os dias, inclusive finais de semana e feriados?
+
+Aguardo a gentileza de um retorno o quanto antes e agradeço a atenção.
+
+
+Att
+
+Evandro Vieira','evandrovieirasrv@gmail.com','3','(16) 99113 2324','1452293692')||||DB]]></d>
+<d><![CDATA[||||152.250.19.43||08/01/16 20:56:47||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Evandro Vieira','Boa noite, senhores.
+Estou com uma dúvida referente a passagens.
+Chegou em São Paulo, no Terminal Tietê, domingo, dia 10/01/16. por volta das 17h30 e gostaria de saber se no dia, no terminal posso comprar passagens na hora saindo do terminal para o aeroporto de Guarulhos.
+
+Minha dúvida também é em relação aos horários. os horários que estão no site são válidos para todos os dias, inclusive finais de semana e feriados?
+
+Aguardo a gentileza de um retorno o quanto antes e agradeço a atenção.
+
+
+Att
+
+Evandro Vieira','evandrovieirasrv@gmail.com','7','(16) 99113 2324','1452293807')||||DB]]></d>
+<d><![CDATA[||||186.220.11.170||08/01/16 21:44:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Keila Fabiana Duarte','Prezados, 
+Escrevo para notificar o incomodo causado no dia 07/01/16 - em todo trajeto de  saida do aeroporto de Guarulhos - 00:05, com destino ao aeroporto de Congonhas. 
+Ao iniciar o trajeto, o motorista do onibus (Fausto), acelerava em cima dos carros que nao davam passagem.
+Depois transitou pelas rodovias, avenidas e ruas de Sao Paulo extremamente fora de si, acelerando e freando logo em seguida no farol que mudava do amarelo para o vermelho. Estava acima da velocidade, pois ja peguei este onibus varias vezes, e nunca tinha visto ninguem dirigir com tamanha irresponsabilidade.
+Seria interessante rever o TESTE PSICOTECNICO deste respectivo motorista, uma vez, que de madrugada, com o onibus lotado de passageiros, ele agiu como tamanho desprezo pelas nossas vidas de clientes desta empresa e consumidores. 
+Corri para pagar e pegar este onibus, apos horas de voo , para ter tranquilidade e me deparei com este maluco ao voltante.
+Favor agir prontamente e tomar providencias necessarias quanto a este senhor.
+No aguardo. 
+','keila2908@gmail.com','3','11981652908','1452296653')||||DB]]></d>
+<d><![CDATA[||||200.192.240.82||08/01/16 22:22:44||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rosana Campos Paschoalino','Olá. Gostaria de saber até que horas o guichê de vocês na Barra Funda fica aberto? Chego em São Paulo 8 e meia da noite e preciso em seguida comprar minha passagem para Guarulho com vocês.','rosanacpaschoalino@gmail.com','3','1433225826','1452298964')||||DB]]></d>
+<d><![CDATA[||||66.102.8.158||09/01/16 00:18:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Larissa','Boa noite.
+Eu gostaria de saber se vocês tem transporte saindo do aeroporto de Congonhas para a Barra Funda.
+
+Att,
+
+Larissa','saito.lyt@gmail.com','3','11985430937','1452305883')||||DB]]></d>
+<d><![CDATA[||||189.40.38.238||09/01/16 08:18:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Grasielw','Olá gostaria de saber qual é o primeiro horário que sai da Paulista para o Congo nas. 
+Até
+GRASIELA Rodrigues.','grasirod@yahoo.com.br','7','51 94322979','1452334720')||||DB]]></d>
+<d><![CDATA[||||201.6.138.249||09/01/16 11:57:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Andrezza','Gostaria do telefone de contato.','andrezzapatricia35@gmail.com','3','1195998-6746','1452347833')||||DB]]></d>
+<d><![CDATA[||||81.153.110.184||09/01/16 12:48:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('mary gostelow','I want pickup from Guarulhos to go to Emiliano Hotel  (arriving Sat 16 January on VP AD4231) thanks','gostelow@aol.com','7','44-1305 848193','1452350902')||||DB]]></d>
+<d><![CDATA[||||179.241.142.85||09/01/16 15:22:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Mario Gustavo Brum ','Meu vôo chega segunda as 7:20 e vou para o Brokling. A linha que sai as 7:30 é bem pontual na saída ou há uma tolerância na saída que eu pudesse pegar esse ônibus? É qual a demora no trajeto nesse dia e nesse horário.  Obrigado.... ','mariogustavobrum@gmail.com','7','(51) 8176 8540','1452360129')||||DB]]></d>
+<d><![CDATA[||||187.38.155.180||09/01/16 16:57:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Norberto Peres','Tenho 4 passagens de conconhas para cumbica para amanhã dia 10 e não irei utilizar. Como devo proceder para ressarcimento dos valores já pagos','nperes@uol.com.br','3','11992524313','1452365840')||||DB]]></d>
+<d><![CDATA[||||187.111.182.103||09/01/16 20:49:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lucimara','O onibus q sai da barra funda ate o aeroporto de guarulhos aai da rodoviaria?','lu_lucimarasantos@hotmail.com','3','15981649834','1452379789')||||DB]]></d>
+<d><![CDATA[||||213.229.108.225||10/01/16 10:18:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elen Souza','Preciso pegar esse ônibus até a Rodoviária Tiete. Eu posso comprar  a passagem na hora , ou teria que comprar  pelo site?
+DESDE JÁ AGRADEÇO.','elen-bianca@hotmail.com','3','3791537972','1452428297')||||DB]]></d>
+<d><![CDATA[||||201.191.125.129||10/01/16 12:09:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('María del Pilar Rojas Cambronero','Prezados Senhores, eu agradeceria muito se eu posso relatar que eu preciso para começar ônibus do Aeroporto de Guarulhos para o seguinte endereço: 717 Filadelfo Azevedo Professor Vila Nova Conceição I.
+
+
+Chegou ao Brasil na sexta-feira, janeiro 15 às 6 da manhã
+
+Eu Sou da  Costa Rica
+
+Muito Obrigada','Projascam@yahoo.com','7','506(83137644)','1452434942')||||DB]]></d>
+<d><![CDATA[||||189.33.107.53||10/01/16 12:40:21||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('manoel messias de souza cruz','Esqueci dentro do ônibus um celular de marca Samsung hoje (10/01/2016)
+Ônibus que partiu de Guarulhos sentido Congonhas às 10h30 Plataforma 5 
+nº de controle do formulário:826746 ','mmessias18@bol.com.br','3','966651799','1452436821')||||DB]]></d>
+<d><![CDATA[||||177.98.164.222||10/01/16 23:16:37||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jose','Criança de 06 anos paga passagem','jccsegundo@ig.com.br','3','+5511954016845','1452474997')||||DB]]></d>
+<d><![CDATA[||||201.48.247.23||11/01/16 08:07:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcela Ribeiro','Olá, bom dia. No dia 02/fevereiro chegarei na rodoviária do Tietê por volta das 05:00, e meu voo no Aeroporto de Guarulhos é as 09:00. Olhei em alguns sites que informaram que o transporte da rodoviária para o Aeroporto de Guarulhos inicia ás 06:00, e que essa linha vai direto de um local para o outro. 
+Essa informação procede?
+Os valores dessa linha que estão no site estão atualizados ou há alguma mudança? 
+Em que local da Rodoviária posso comprar a passagem? 
+
+Aguado retorno. Desde já agradeço.
+Att,
+Marcela Ribeiro.','marcela_ribeiro6@hotmail.com','7','(16) 98808-6493','1452506876')||||DB]]></d>
+<d><![CDATA[||||191.247.228.52||11/01/16 10:31:34||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Adriana Lemos','Gostaria de saber se consigo comprar bilhete para aeroporto de Cumbica no dia 14/1 na barra funda....preço ....horários e onde adquiro ....
+Não consegui falar no 0800
+Aguardo contato
+Att
+Adriana','Adriatlemos@hotmail.com','3','11974139689','1452515494')||||DB]]></d>
+<d><![CDATA[||||200.149.37.142||11/01/16 11:08:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Samuel Barbosa dos Santos ','Bom dia! 
+
+
+favor informar Ônibus, que sai da barra funda a Aeroporto.','bspsamuel@gmail.com','7','11 98911-0661','1452517689')||||DB]]></d>
+<d><![CDATA[||||200.149.37.142||11/01/16 11:14:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Samuel Barbosa dos Santos ','Bom dia! 
+
+
+favor informar Ônibus, que sai da barra funda a Aeroporto.','bspsamuel@gmail.com','7','11 98911-0661','1452518062')||||DB]]></d>
+<d><![CDATA[||||191.32.49.21||11/01/16 11:46:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Edgar Quadros','Na linha Guarulhos / Av. Paulista, é possível descer durante o trajeto ou somente no terminal da Av. Paulista ??','edgar@wecom.com.br','3','5195418859','1452520006')||||DB]]></d>
+<d><![CDATA[||||57.68.64.100||11/01/16 12:04:27||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Douglas','Bom dia!
+
+O 0800 informado ao lado não funciona? Tento ligar e desligam na minha cara. Gostaria de saber se é possível embarcar no onibus na região da Paulista e se sim onde? Estou na AL Santos 1940 próximo ao hotel Renaissance. Devo comprar a passagem antecipadamente? Onde? Obrigado','douglascamargo@hotmail.com','7','011966340811','1452521067')||||DB]]></d>
+<d><![CDATA[||||201.26.28.192||11/01/16 14:12:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('jeane','estou na av engenheiro luis carlos berrini 1645 quero ir para o aeroporto de guarulhos que rua o onibus passa','jeane.p@hotmail.com','6','986645351','1452528722')||||DB]]></d>
+<d><![CDATA[||||179.110.187.133||11/01/16 16:31:45||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ester fidelis','gostaria de saber se tem paasagem para bragança paulista','esterfidelis7460@gmail.com','3','11 966522226','1452537105')||||DB]]></d>
+<d><![CDATA[||||66.102.8.146||11/01/16 16:44:18||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Leonardo','Deixei meu ipad no ônibus que saiu de GRU para CGH as 14h
+Estou desesperado. Sentei na janela do lado esquerdo... Depois do meio...tenho muito trabalho e não consigo ajuda','Leonardo.gomes01@tam.com.br','3','556581188159','1452537858')||||DB]]></d>
+<d><![CDATA[||||201.52.255.133||11/01/16 17:48:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Cristina Lira','Boa tarde
+
+Fizemos uma viagem para fins empresarial e preciso de um recibo ou nota fiscal de compra, o numero de identificação do meu bilhete é o seguinte nº 332007
+
+Por gentileza consegue me ajudar
+
+Agradeço desde já atenção voltada a minha solicitação
+
+ ','mkt@anggulo.com.br','7','11 50312707','1452541733')||||DB]]></d>
+<d><![CDATA[||||177.33.171.179||11/01/16 17:51:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('glauce amora','desejo saber horarios e preços  locais de onibus de sao paulo zona norte para guarulhos, aeroporto','glauceamora@uol.com.br','3','11-977185','1452541862')||||DB]]></d>
+<d><![CDATA[||||186.220.180.79||11/01/16 23:57:29||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Maria Luiza Queiroz','Boa noite, hoje a noite 11/01 vim de Guarulhos as20:30 tomei um shuttle da T1 até o terminal de ônibus e logo um ônibus até Guarulhos. Tenho quase certeza que esqueci uma máquina de fotos CANON EOS grande numa bolsinha preta no shuttle da T1 ao aeroporto. Vcs poderiam por favor verificar com o motorist desse turno ou no achados e perdidos se alguém encontrou uma camera? Podem me responder por email? Desde já agradeço a atenção,
+Obrigada 
+Luiza
+','luiza.queiroz@disney.com','3','11955787427','1452563849')||||DB]]></d>
+<d><![CDATA[||||189.47.116.11||12/01/16 08:39:08||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('OLÍVIA DE SOUSA PEDRINHO','Bom dia, gostaria de saber como é o procedimento em caso de reembolso de passagem de onibus, pois comprei através do cartão de crédito mas não vou precisar mais da mesma ?','oliviapedrinho@ig.com.br','3','018996545859','1452595148')||||DB]]></d>
+<d><![CDATA[||||143.106.170.20||12/01/16 08:40:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('WAshington Botine','Bom dia, Gostaria em saber se o onibus que passa na paulista, se ele faz o embarque de mala de porão? quais o ponto que faz de emabarque com malas? meu endereço de referencia é rua Fernando de Alburque, 122 Hotel Heritage, obrigado','washington.botine@fatec.sp.gov.br','3','19992124029','1452595210')||||DB]]></d>
+<d><![CDATA[||||201.86.205.186||12/01/16 15:15:59||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Fernanda Galvão Dewitte','Boa tarde,
+Tentei efetuar compra de traslado de CGH para GRU pelo site, no último domingo, 10/1, mas ao final da transação deu mensagem de erro e que teria que tentar novamente. Repeti o processo e deu a mesma coisa. Desisti e fui de taxi para Guarulhos. Porém ontem vi no meu email a confirmação de compra de duas passagens, as quais já constam na próxima fatura do meu cartão de crédito. Estou tentando ligar para vcs, mas está sempre ocupado. 
+Solicito o estorno dessas duas compras, visto que houve erro no site, onde não deu aviso de compra concluída.
+CPF: 008.554.200-81
+Grata,
+Fernanda. ','dra.fernandagalvao@gmail.com','3','51-99904404','1452618959')||||DB]]></d>
+<d><![CDATA[||||189.34.52.177||12/01/16 15:48:29||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Andréia Jacomel','Boa tarde.
+Fiz uma compra hoje de manhã pelo site, para ir do aeroporto de Congonhas até o aeroporto de guarulhos, porém saiu no comprovante terminal 1 e eu preciso ficar no terminal 2 (TAM).
+Como devo me proceder?
+É necessário e pode fazer a troca de ônibus?
+Obrigada
+Andreia','Andreiajacomel@hotmail.com','7','48.99422474','1452620909')||||DB]]></d>
+<d><![CDATA[||||189.44.94.50||12/01/16 16:20:41||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ANDRE ARMELIN ','Olá boa tarde me chamo André estou na cidade de  Sorocaba e pretendo ir para Guarulhos, olhando e-mail de empresa notei que vocês saem da Barra Funda com destino a Guarulhos que é ótimo porem me surgiu um dúvida sobre o valor de mais ou menos 47 reais isso se confirma ? 
+
+fico no aguardo. 
+
+obrigado!
+','ANDREARMELIN3028@GMAIL.COM','3','*************','1452622841')||||DB]]></d>
+<d><![CDATA[||||179.217.105.94||12/01/16 17:14:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('carla marangoni','Boa tarde, estou com uma dificuldade de locomoção.
+Chego dia 20/01 as 06Hs aeroporto congonhas, e não sei como chegar de Onibus a Sao José dos Campos,
+Vcs podem me orientar ou ajudar','carlla@1234voce.com.br','7','65 9202 0222','1452626050')||||DB]]></d>
+<d><![CDATA[||||201.26.11.176||12/01/16 18:37:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Leandro Da Silva Notário','Vocês Oferecem o Serviço Da Barra Funda Para Qualquer Um Dos Aeroportos???','Leandro_notario@hotmail.com','7','018997128371','1452631069')||||DB]]></d>
+<d><![CDATA[||||179.219.189.239||12/01/16 18:47:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('carolina ','Ola. Gostaria de saber se há alguma linha que saia do aeroporto de congonhas e deixe passageiro na avenida Paulista,  hotel melia Paulista. Se há,  qual horario de saída,  existe no sentido inverso tb e qual o valor. 
+Obrigado. Carolina','carolina_prestes@ig.com.br','3','5198382294','1452631669')||||DB]]></d>
+<d><![CDATA[||||186.108.198.195||12/01/16 19:47:05||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('carolina','eu vou chegar no guarulhos no dia 14 de janeiro as 19.50, e preciso viajar para tiete. Gostaria de pegar u onibus das 20.30. Posso comprar a pasagem alí na hora? A onde fica sua oficina dentro do aeroporto? Espero resposta! Obrigada!','contacto@carolinachrem.com.ar','7','348444723','1452635225')||||DB]]></d>
+<d><![CDATA[||||201.27.186.56||12/01/16 21:52:34||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('rogerio vicente da silva','Prezado Pessoal da empresa de Onibus Airport Busservice, Eu liguei pra saber o horario de saida de onibus de congonha a guarulho e perguntei tambem para um fucionario se eu poderia usar a carteira passe livre que e valido para usa ele mim informou que nesta empresa não aceitaria. eu queria saber porque nesta empresa não aceitar.eu liguei 21:05  Aguardo um resposta o mas breve possivel.','rogeriovicente04@gmail.com','3','(11)96722-1444','1452642754')||||DB]]></d>
+<d><![CDATA[||||126.168.24.207||12/01/16 23:03:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('creuza megumi','A empresa presta serviço de transporte de ida e volta, do aeroporto internacional de Cumbica (Guarulhos) até o aeroporto de Congonhas (São Paulo)? Verifiquei o site da referida empresa e os horários do mesmo; gostaria da confirmação de vossa empresa por email!
+Obs. Houve uma informação duvidosa, por este motivo, confirme a minha duvida.
+
+OBRIGADO!   CMK
+','creuza.megumi@hotmail.com','3','não há','1452647029')||||DB]]></d>
+<d><![CDATA[||||177.25.231.40||12/01/16 23:22:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Maria da graça Quirino ','Estou em Higienópolis,  rua Maranhão, tenho um voo no aeroporto internacional de guarulhos dia 14 às 17:30 
+, onde pego um ônibus para lá e qual o melhor horário 
+Obrigada 
+Graça ','Mg.quirino@hotmail.com','7','16 997717660','1452648173')||||DB]]></d>
+<d><![CDATA[||||191.247.231.18||13/01/16 05:48:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Eduardo Faria','Reclamacao.
+
+No dia 13/01/2016   
+Onibus horario 05h30
+
+O onibus estava desligado e iniciou-se o embarque as 05:26.
+
+O onibus estava quente, cheio de pernilongos, saiba-se que estamos em plena crise sanitaria referente  a dengue.
+Saiba-se que com temperaruras abaixo de 25 graus o mosquito nao pica, dentro do onibus estava com 28 graus .
+Apos a partida e inicio de viagem nao foi ligado o ar condicionado,sendo necessário a solicitacao ao motorista.
+O onibus tambem saiu atrasado 4 minutos.
+Lembrando que trata-se de ligacao entre aeroportos,portanto conectando passageiros a voos,funcionarios a seus trabalhos,atrasos na partida, nao sao toleráveis...aguardando termino de.conversa entre funcionarios...principalmente que haviam apenas 7 passageiros, levando-se enconta o preço da passagem o serviço prestado deve ser de responsabilidade e com qualidade....passageiro tendo que ficar confinado num ambiente quente e ainda ter que lembrar o responsavel para ligar o ar....isso nao é a primeira vez que acontece.
+
+Obrigao.','faria2@yahoo.com','3','19991202875','1452671302')||||DB]]></d>
+<d><![CDATA[||||191.247.228.1||13/01/16 06:13:19||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Eduardo Faria','Referente a minha reclamacao feita anteriormente,faltou informar o trajeto :
+
+Congonhas Guarulhos
+Horario 05:30
+Data 13-01-16.','faria2@yahoo.com','3','19991202875','1452672799')||||DB]]></d>
+<d><![CDATA[||||201.93.55.50||13/01/16 09:41:28||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Juvenal Tavares','Olá muito bom dia, gostaria de saber se os Srs estão contratando motorista, sou habilitado a mais de vinte anos com a categoria E, tenho disponibilidade de horários e com experiência em veículos pesados ,experiência em transporte de passageiros, obrigado e aguardo ansiosamente o contrato.','Juvenal.t.c@hotmail.com','7','11.58341584','1452685287')||||DB]]></d>
+<d><![CDATA[||||200.19.255.70||13/01/16 11:14:41||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Walter Augusto','Quero comprar, pela internet,  3 passagens do aeroporto Guarulhos para aeroporto Congonhas, para SABADO 16/janeiro as 17:30h, como proceder?','dqmwar@furg.br','7','53 84184167','1452690881')||||DB]]></d>
+<d><![CDATA[||||95.245.84.108||13/01/16 12:23:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Eugenio Puglisi','Hi
+Kindly
+I would to know some information about the  bus stops of your company at the airport international Guarulhos of Sao Paulo.
+I want to know if there is  the bus stop of your company Airport Bus Service for to go at the center of the city of Sao Paulo Republica,  at Terminal 3.
+Waiting for your response
+Thank you in advance
+Best regards
+Eugenio P from italy','eugenio.puglisi@live.it','7','+393934461105','1452694993')||||DB]]></d>
+<d><![CDATA[||||186.136.81.132||13/01/16 15:14:28||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Martin','Buenas tardes. Quisiera saber sobre el traslado desde el Aeropuerto Guarulhos hacia Aeropuerto Congonhas. 
+Como el avion el cual llego es a las 00.00 hs, seria recomendable viajar en el bus que sale 01.30.
+Por lo que veo en la pagina tiene un *. Que significa? Sale desde Guarulhos, pasa por Tiete o Republica y luego sigue viaje hacia Congonhas?.
+
+Gracias
+
+Espero respuesta','sampietromartinandres@gmail.com','7','1131822246','1452705268')||||DB]]></d>
+<d><![CDATA[||||189.18.177.12||13/01/16 15:51:43||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Henrique Claudio Vicentini','Boa tarde,
+
+Eu estou na Rua Itararé 177 e pretendo estar no Aeroporto Internacional de Guarulhos no dia 17/01/2016 antes das 11:00. Gostaria de saber qual linha e horário vocês recomendam e onde a pego.
+
+Desculpem o e-mail, mas tive dificuldades para encontrar essas informações pelo site.
+
+Att,
+Henrique','hcvicentini@hotmail.com','3','(11) 981865655','1452707503')||||DB]]></d>
+<d><![CDATA[||||200.129.246.197||14/01/16 09:35:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lucas','Bom dia
+
+Qual o valor da tarifa para crianças?
+
+Att,','lc_ufmt@hotmail.com','3','65 3313 7220','1452771358')||||DB]]></d>
+<d><![CDATA[||||186.210.217.241||14/01/16 10:08:34||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Dhioge Barbosa','Não há como comprar passagem no site, saindo da Avenida Paulista para o Aeroporto de Guarulhos? Preciso de urgência na resposta. Grato!','dhioge_barbosa@yahoo.com.br','3','(34)999637657','1452773314')||||DB]]></d>
+<d><![CDATA[||||138.36.32.154||14/01/16 11:38:23||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marisa Soares Borges','Ola, por gentileza, eu sou de Curitiba e vou estar em SP chegando dia 28. eu preciso ir na av nove de julho, 3597, hotel ibis.
+Por favor, oriente-me, onde eu pego este onibus no aeroporto, ( em torno de onze da noite) para descer proximo a este endereço?
+Agradeço, pois eu nao conheço SP e nao sei encontrar os lugares. Preciso de sua ajuda. ','marissaborges@gmail.com','3','(41) 9231 7241','1452778703')||||DB]]></d>
+<d><![CDATA[||||177.74.61.230||14/01/16 11:38:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Thiago Cangussú Reis Pontes','Bom dia!
+
+Gostaria de obter mais informações sobre o serviço de taxi ofertados pela empresa. Tais como, se há necessidade de reserva? Quais horários fica disponível de origem guarulhos destino República, e quais horários no sentindo contrário para retorno inclusive horários e tarifas de madrugada. Como posso efetuar o pagamento? Obrigado!','tcrpontes@hotmail.com','7','91 98833-2838','1452778720')||||DB]]></d>
+<d><![CDATA[||||201.52.12.68||14/01/16 15:41:04||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ivone S. Barbosa','Prezados Senhores,
+
+Somos uma empresa em expansão, oferecemos vários imóveis a venda (chacaras, casas, terrenos, diversos)
+Gentileza de acessar nosso site  (www.goldenhammer.com.br)
+Aguardamos retorno.
+
+
+Ivone Barbosa  
+
+','diretoria@goldenhammer.com.br','7','11 2076-1237 - 2076-0904','1452793264')||||DB]]></d>
+<d><![CDATA[||||177.159.91.42||14/01/16 16:45:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('','','','3','','1452797148') <b>Column 'name' cannot be null</b>||||DB]]></d>
+<d><![CDATA[||||177.159.91.42||14/01/16 16:45:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('naoresponda@maladireta.inf','Bom dia, 
+
+Acessei o seu site e através do formulário de contato estou enviando esta proposta que pode ser do interesse de sua empresa. 
+
+Esse é o momento de aumentar a sua força comercial e prospectar novos clientes. A crise só vem para quem fica sentado esperando!
+
+Nossa empresa está a mais de 10 anos no mercado, e é especializada na venda de listas com cadastros de empresas para área comercial, telemarketing e mala direta postal, segmentadas por ramo de atividade e com dados completos como razão social, telefone, email, endereço completo e ramo. 
+
+Com um investimento baixo você terá acesso à milhares ou até milhões de novos potenciais clientes para o seu negócio, seja qual for o seu mercado! São 7.500.000 de cadastros completos de empresas brasileiras. Acesse nosso site e confira agora!http://www.maladiretabrasil.com 
+
+Obs: Não responda diretamente por este email. Para mais detalhes, acesse nosso site http://www.maladiretabrasil.com 
+
+Obrigado pela atenção! 
+Equipe Mala Direta Brasil 
+http://www.maladiretabrasil.com
+
+
+
+
+
+
+','naoresponda@maladireta.inf','3','40404040','1452797156')||||DB]]></d>
+<d><![CDATA[||||179.232.114.157||14/01/16 20:58:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('patricia','boa noite!
+gostaria de saber se tem como reservar uma passagem do terminal Barra Funda para o aeroporto de Guarulho, para o dia 03/02/2016 no horario de 6;20 da manha.obrigadaAguardo resposta.','patizapata@hotmail.com','7','963553277','1452812300')||||DB]]></d>
+<d><![CDATA[||||187.33.37.252||14/01/16 21:16:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elaine Cristina Freire de Lima','O serviço de transporte de vocês
+faz a linha congonhas para guarulhos?
+Quais os horários? ','ellaynecris@gmail.com','7','8799615416','1452813418')||||DB]]></d>
+<d><![CDATA[||||191.247.231.37||15/01/16 07:53:24||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Debora da Silva','Bom dia.
+
+Gostaria de saber se tem como comprar uma passagem pela internet. E como faço eu preciso comprar a passagem pra uma senhora e o que ela pode apresentar no aeroporto pra identificar que a passagem está comprada. Porque eu moro em São Paulo e ela virá de Recife.
+
+No aguardo.','deby_bh1@hotmail.com','3','11980974782','1452851604')||||DB]]></d>
+<d><![CDATA[||||201.81.78.91||15/01/16 10:31:32||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ana  Paula','Ola bom dia!
+
+Para pegar  o onibus  as 04:30 em Congonhas para Guarulhos  pode comprar  antecipado a  passagem? 
+
+Obrigada
+Ana Paula Lima','apcl_analima@hotmail.com','3','11973426912','1452861092')||||DB]]></d>
+<d><![CDATA[||||177.99.119.56||15/01/16 13:26:55||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('naoresponda@maladireta.inf','Bom dia, 
+
+Acessei o seu site e através do formulário de contato estou enviando esta proposta que pode ser do interesse de sua empresa. 
+
+Esse é o momento de aumentar a sua força comercial e prospectar novos clientes. A crise só vem para quem fica sentado esperando!
+
+Nossa empresa está a mais de 10 anos no mercado, e é especializada na venda de listas com cadastros de empresas para área comercial, telemarketing e mala direta postal, segmentadas por ramo de atividade e com dados completos como razão social, telefone, email, endereço completo e ramo. 
+
+Com um investimento baixo você terá acesso à milhares ou até milhões de novos potenciais clientes para o seu negócio, seja qual for o seu mercado! São 7.500.000 de cadastros completos de empresas brasileiras. Acesse nosso site e confira agora!http://www.maladiretabrasil.com 
+
+Obs: Não responda diretamente por este email. Para mais detalhes, acesse nosso site http://www.maladiretabrasil.com 
+
+Obrigado pela atenção! 
+Equipe Mala Direta Brasil 
+http://www.maladiretabrasil.com
+
+
+
+
+
+
+','naoresponda@maladireta.inf','3','40404040','1452871615')||||DB]]></d>
+<d><![CDATA[||||187.112.206.27||15/01/16 15:42:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('André Alves','Sr./ Sra.
+Gostaria de agradecer ao condutor Antônio Pereira e ao ajudante Jonas, carro 37111 que fizeram de tudo para que eu não perdesse o ônibus que sairia de Guarulhos as 21:45 do dia 12/01, dia em que a Av. Paulista e arredores pararam em função dos protestos contra o aumento da passagem de ônibus. O motorista sempre mostrou-se muito educado, correto e solícito e o ajudante por diversas vezes desceu do ônibus para averiguar o movimento nas ruas paradas bem como solicitar aos demais veículos na rua que permitissem a rápida passagem do carro.
+O agradecimento inicia com o profissional (esqueci o nome) que faz o monitoramento das rotas. Estava na Frei Caneca e como o ônibus não vinha, o profissional orientou-me a descer até a Peixoto Gomide e pegar o carro 37111.
+Por um momento pensei que perderia o vôo. Parabéns pela pró-atividade.
+Obrigado,
+André Alves.','dereco@sti.com.br','7','4896629083','1452879726')||||DB]]></d>
+<d><![CDATA[||||187.112.206.27||15/01/16 15:42:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('andré alves','Sr./ Sra.
+Gostaria de agradecer ao condutor Antônio Pereira e ao ajudante Jonas, carro 37111 que fizeram de tudo para que eu não perdesse o ônibus que sairia de Guarulhos as 21:45 do dia 12/01, dia em que a Av. Paulista e arredores pararam em função dos protestos contra o aumento da passagem de ônibus. O motorista sempre mostrou-se muito educado, correto e solícito e o ajudante por diversas vezes desceu do ônibus para averiguar o movimento nas ruas paradas bem como solicitar aos demais veículos na rua que permitissem a rápida passagem do carro.
+O agradecimento inicia com o profissional (esqueci o nome) que faz o monitoramento das rotas. Estava na Frei Caneca e como o ônibus não vinha, o profissional orientou-me a descer até a Peixoto Gomide e pegar o carro 37111.
+Por um momento pensei que perderia o vôo. Parabéns pela pró-atividade.
+Obrigado,
+André Alves.','dereco@sti.com.br','6','4896629083','1452879778')||||DB]]></d>
+<d><![CDATA[||||187.112.206.27||15/01/16 15:43:16||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('andré alves','Sr./ Sra.
+Gostaria de agradecer ao condutor Antônio Pereira e ao ajudante Jonas, carro 37111 que fizeram de tudo para que eu não perdesse o ônibus que sairia de Guarulhos as 21:45 do dia 12/01, dia em que a Av. Paulista e arredores pararam em função dos protestos contra o aumento da passagem de ônibus. O motorista sempre mostrou-se muito educado, correto e solícito e o ajudante por diversas vezes desceu do ônibus para averiguar o movimento nas ruas paradas bem como solicitar aos demais veículos na rua que permitissem a rápida passagem do carro.
+O agradecimento inicia com o profissional (esqueci o nome) que faz o monitoramento das rotas. Estava na Frei Caneca e como o ônibus não vinha, o profissional orientou-me a descer até a Peixoto Gomide e pegar o carro 37111.
+Por um momento pensei que perderia o vôo. Parabéns pela pró-atividade.
+Obrigado,
+André Alves.','dereco@sti.com.br','3','4896629083','1452879796')||||DB]]></d>
+<d><![CDATA[||||179.97.161.96||15/01/16 16:51:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Estela oliveira da maia','Boa tarde, gostaria de saber se existe linha barra funda - congonhas no sábado.','maia240@msn.com','3','14 38441039','1452883906')||||DB]]></d>
+<d><![CDATA[||||177.99.119.56||16/01/16 14:50:05||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('naoresponda@maladireta.inf','Bom dia, 
+
+Acessei o seu site e através do formulário de contato estou enviando esta proposta que pode ser do interesse de sua empresa. 
+
+Esse é o momento de aumentar a sua força comercial e prospectar novos clientes. A crise só vem para quem fica sentado esperando!
+
+Nossa empresa está a mais de 10 anos no mercado, e é especializada na venda de listas com cadastros de empresas para área comercial, telemarketing e mala direta postal, segmentadas por ramo de atividade e com dados completos como razão social, telefone, email, endereço completo e ramo. 
+
+Com um investimento baixo você terá acesso à milhares ou até milhões de novos potenciais clientes para o seu negócio, seja qual for o seu mercado! São 7.500.000 de cadastros completos de empresas brasileiras. Acesse nosso site e confira agora!http://www.maladiretabrasil.com 
+
+Obs: Não responda diretamente por este email. Para mais detalhes, acesse nosso site http://www.maladiretabrasil.com 
+
+Obrigado pela atenção! 
+Equipe Mala Direta Brasil 
+http://www.maladiretabrasil.com
+
+
+
+
+
+
+','naoresponda@maladireta.inf','3','40404040','1452963005')||||DB]]></d>
+<d><![CDATA[||||201.42.168.13||16/01/16 20:57:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Alcemir Gomes de morais','Gostaria de saber se um bebê de 1 ano e 8 meses paga passagem de guarulhos - Congonhas.','moraisagdm@gmail.com','3','1735213587','1452985046')||||DB]]></d>
+<d><![CDATA[||||201.42.168.13||16/01/16 20:57:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Alcemir Gomes de morais','Gostaria de saber se um bebê de 1 ano e 8 meses paga passagem de guarulhos - Congonhas.','moraisagdm@gmail.com','3','1735213587','1452985076')||||DB]]></d>
+<d><![CDATA[||||187.2.12.187||16/01/16 21:16:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lais','Olá 
+
+Gostaria de saber o preço e horários do ônibus para o aeroporto de guarulhos saindo do metrô Tatuapé.
+
+Muito obrigada pela atenção,
+
+Lais Machado','ladnegro@gmail.com','7','1125941813','1452986198')||||DB]]></d>
+<d><![CDATA[||||50.5.125.98||17/01/16 13:22:52||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jim McDonagh','I had difficulty with your webpage. Can you tell me if it\'s possible to arrange transportation to the Staybridge Suites Sao Paulo? ','jvmcdonagh@gmail.com','3','15132525337','1453044172')||||DB]]></d>
+<d><![CDATA[||||50.5.125.98||17/01/16 13:36:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jim McDonagh','I had difficulty with your webpage. Can you tell me if it\'s possible to arrange transportation to the Staybridge Suites Sao Paulo? ','jvmcdonagh@gmail.com','3','15132525337','1453045000')||||DB]]></d>
+<d><![CDATA[||||201.29.213.159||17/01/16 14:07:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Cristiane','Olá,
+
+Gostaria de saber se existe o serviço que leve do aeroporto congonhas até o hotel Sheraton situado naAv das Nações Unidas.
+
+Obrigada','Cristalsonhos@hotmail.com','7','(21)24460859','1453046846')||||DB]]></d>
+<d><![CDATA[||||187.112.12.186||17/01/16 15:02:51||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Johanna Sales Pereira Aragão','Olá, como fazer para comprar 2 passagens para o trajeto Aeroporto Congonhas - Aeroporto Guarulhos, no horário das 21:00h da noite, no dia 02/06/2016?','johanna_aragao@hotmail.com','3','(83)988846325','1453050171')||||DB]]></d>
+<d><![CDATA[||||67.101.59.25||17/01/16 16:35:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Machah Colbert','Hello,
+Is it required to purchase tickets in advance of travel or can one purchase tickets upon arrival to Guarulhos International Airport? I will be arriving on February 24 and leaving on February 26.
+
+Thank you,
+Machah
+
+','mcolb@juno.com','3','202-667-7499','1453055713')||||DB]]></d>
+<d><![CDATA[||||190.55.182.179||17/01/16 16:39:52||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Walter Leonardo Lipari','Hola 
+
+Quisiera quisiera saber el costo del traslado para 2 personas desde aeropuerto Guarulhos hasta aeropuerto Congonhas 
+
+Gracias
+
+Walter
+','walterl.lipari@hotmail.com','7','541134205185','1453055992')||||DB]]></d>
+<d><![CDATA[||||177.134.23.162||17/01/16 20:24:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Patricia Sales ','Boa tarde,
+
+Venho por meio deste email solicitar providencias com relacao ao ocorrido do dia 11.01.16 da viagem de orgigem ao Aeroporto de guarulhos com destino ao Aeroporto de congonhas. 
+
+Eu e meu marido pegamos o onibus que quebrou perto da 1 da manha no centro velho de SP ( na rua de tras do poupa tempo) regiao muito perigosa com muitos usuarios de droga. Quando o onibus quebrou nos sentimos muito inseguros e com muito medo, esperamos um certo periodo para a chegada do onibus que iria prestar socorro, mas nao fomos capazes de esperar e correr o risco de algum ato de violência, pois estavamos totalmente vulneraveis dentro do onibus quebrado no meio da rua e sem nenhum tipo de segurança, portanto descemos e pegamos um táxi que nos cobrou 60,00 até o destino do aeroporto de congonhas.
+
+
+Gastamos na companhia de vocês duas passagens de 45,50 cada um, tenho os comprovantes. Após passarmos por esse tipo de situação, o transtorno e impossível vocês reverterem, portanto peço providências com relação ao custo que tivemos.
+
+Seguem dados abaixo:
+
+Origem: Guarulhos - aeroporto
+Destino: Congonhas 
+Bilhete de passagem rodoviário: 000000/825191
+N controle formulário: 825191
+Data viagem: 11.01.16
+Hora: 00:05
+Linha: AIG / Congonhas (v sp) 258
+Agência: 0302
+Agente: 2862
+Tarifa: 45,59
+Linha: 957
+
+Trib aproximado 16%
+
+Aguardo retorno com descrição de providências.','palvessales@gmail.com','3','11994553639','1453069457')||||DB]]></d>
+<d><![CDATA[||||191.255.144.240||17/01/16 20:35:58||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('julio cesar de lira santos','
+
+JULIO CESAR DE LIRA SANTOS
+
+
+End.: Rua  Camanducaia, n° 70, Ap. 54 A, COHAB 5 - Carapicuíba – SP
+39 Anos - Casado – 2 Filhos.
+Tel.: 4167 - 5059 
+Cel: 9 9807 - 3111 
+
+
+OBJETIVO 
+
+Motorista
+
+
+EXPERIÊNCIAS PROFISSIONAIS
+
+Starvesa Serv. Tec. Ac. De Veículos.
+Período: 10/02/1998 à 16/03/2001.
+Cargo: Motorista de Guincho.
+
+Transportes Jangada Ltda.
+Período: 06/04/2001 à 15/08/2006.
+Cargo: Motorista Fret. Turismo.
+
+Expresso Brasileiro Viação Ltda.
+Período: 18/12/2006 à 25/02/2011.
+Cargo: Motorista Rodoviário.
+
+Expresso Brasileiro Viação Ltda.
+Período: 07/06/2011 à 08/10/2014.
+Cargo: Motorista Rodoviário
+
+
+CURSOS
+
+-  Condução Segura e Econômica.
+-  Meio Ambiente.
+- Direção Defensiva.
+- Transportes Coletivos.
+                                                              - MOOP.
+
+
+•	VEÍCULOS OPERADOS
+
+•	- Double Deck.
+•	- Volvo B 12 R Automático.
+•	- Scania K 124 Câmbio Confort Shift.
+•	- Scania k 360 Câmbio C.S.
+•	- Scania k 380 Câmbio C.S.
+•	- Scania K 113 Câmbio Normal.
+•	- Mercedes O 400, O 500 e O 500 RS.
+	
+','juliocesar.llyra@gmail.com','7','1141675059-11998073111','1453070158')||||DB]]></d>
+<d><![CDATA[||||191.255.144.240||17/01/16 20:37:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('julio cesar de lira santos','
+
+JULIO CESAR DE LIRA SANTOS
+
+
+End.: Rua  Camanducaia, n° 70, Ap. 54 A, COHAB 5 - Carapicuíba – SP
+39 Anos - Casado – 2 Filhos.
+Tel.: 4167 - 5059 
+Cel: 9 9807 - 3111 
+
+
+OBJETIVO 
+
+Motorista
+
+
+EXPERIÊNCIAS PROFISSIONAIS
+
+Starvesa Serv. Tec. Ac. De Veículos.
+Período: 10/02/1998 à 16/03/2001.
+Cargo: Motorista de Guincho.
+
+Transportes Jangada Ltda.
+Período: 06/04/2001 à 15/08/2006.
+Cargo: Motorista Fret. Turismo.
+
+Expresso Brasileiro Viação Ltda.
+Período: 18/12/2006 à 25/02/2011.
+Cargo: Motorista Rodoviário.
+
+Expresso Brasileiro Viação Ltda.
+Período: 07/06/2011 à 08/10/2014.
+Cargo: Motorista Rodoviário
+
+
+CURSOS
+
+-  Condução Segura e Econômica.
+-  Meio Ambiente.
+- Direção Defensiva.
+- Transportes Coletivos.
+                                                              - MOOP.
+
+
+•	VEÍCULOS OPERADOS
+
+•	- Double Deck.
+•	- Volvo B 12 R Automático.
+•	- Scania K 124 Câmbio Confort Shift.
+•	- Scania k 360 Câmbio C.S.
+•	- Scania k 380 Câmbio C.S.
+•	- Scania K 113 Câmbio Normal.
+•	- Mercedes O 400, O 500 e O 500 RS.
+	
+','juliocesar.llyra@gmail.com','7','1141675059-11998073111','1453070240')||||DB]]></d>
+<d><![CDATA[||||73.220.41.207||18/01/16 02:38:00||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lidiane Regina da Silva','Estou desembarcando dia 21/01 pela manhã no aeroporto internacional de Guarulhos e quero saber qual terminal que eu posso utilizar  o serviço do bus, onde compro a passagem?? E estou com 3 malas de 32 Kg tem algum problema?','lidhyamorim@hotmail.com','7','17- 997910748','1453091880')||||DB]]></d>
+<d><![CDATA[||||64.62.219.168||18/01/16 08:29:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Cristiane','Bom dia, 
+Eu irei para o Aeroporto de Guarulhos dia 28 partindo da Barra Funda. 
+O onibus para no terminal 3?','cristiane.talbuquerque@yahoo.com.br','7','15 997248108','1453112946')||||DB]]></d>
+<d><![CDATA[||||186.203.217.51||18/01/16 09:51:45||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jeferson Pagani Castelani','Bom dia,
+Estarei viajando neste próximo sábado dia 23/01, sendo que meu voo sai as 06:30 da manhã precisando assim estar no aeroporto de Congonhas ate as 4:00. Moro na Vila Mariana, aonde seria o local mais próximo para eu pegar o ônibus de vocês, poderiam me ligar? ','jeferson@dabasons.com.br','7','11948246104','1453117905')||||DB]]></d>
+<d><![CDATA[||||201.83.154.249||18/01/16 10:08:12||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Pablo Ruiz','Oi Amigos da Airport Bus Service, nos somos a Street of Sao Paulo, uma pequena empresa especializada em Tours de Graffiti no Sao Paulo e gostariamos de fechar alguma parceria com voces. 
+
+Vamos marcar uma reuniao para nos conhecer e nos mostrar o projeto pra voces?
+
+https://www.facebook.com/streetsofsaopaulo/
+
+
+Muito Obrigados!
+
+
+Ate Mais','daspablita@gmail.com','6','11 958915098','1453118892')||||DB]]></d>
+<d><![CDATA[||||177.79.27.79||18/01/16 11:33:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Kelly karine ','Bom dia. Eu gostaria de saber quanto tempo faz da rodoviária barra funda para o aeroporto cumbica Guarulhos? E qual o valor?','kellykarine_souza@hotmail.com','7','(015)99728-7368','1453123983')||||DB]]></d>
+<d><![CDATA[||||200.250.232.240||18/01/16 12:58:57||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('VERA LUCIA MAGALHAES','Recebi a confirmação de compra do localizador HXJ177B para o dia 19/2, porém minha filha nao utilizara mais a passagem. Como posso receber o reembolso do valor de R$ 45,50, que ja foi debitado em meu cartao de credito VISA.
+aguardo retorno pfvr, por fone ou email.
+
+grata','veralucia@grupoboticario.com.br','3','4134067014','1453129137')||||DB]]></d>
+<d><![CDATA[||||177.89.38.47||18/01/16 13:08:59||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sandra Souza','Gostaria de saber se o ônibus vai de GUARULHOS até o TRANSAMÉRICA EXPO CENTER - Bairro Ibirapuera ou próximo?','sandra@sbsrepresentacoes.com.br','7','84 99418-1424','1453129739')||||DB]]></d>
+<d><![CDATA[||||189.86.142.2||18/01/16 13:35:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Aldine Leonhardt','Boa tarde, tenho algumas dúvidas em relação ao transporte.
+Em que local do Aeroporto de Guarulhos a empresa fica? E a venda de passagens é onde?
+
+Precisarei retornar da Rodoviária do Tietê ao Aeroporto de Guarulhos, neste sábado à tarde.
+Pegando a linha das 15:15h, eu consigo chegar ao aeroporto até as 16:30h, mesmo em função do trânsito?
+E nesta situação, onde é realizada a compra de passagens?
+
+Obrigada','aldine.leonhardt@hotmail.com','3','5199905884','1453131326')||||DB]]></d>
+<d><![CDATA[||||189.100.112.190||18/01/16 13:42:02||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('natalia','Boa tarde,
+
+Gostaria de saber se o serviço de onibus para o aeroporto de guarulhos, partindo da Paulista estara funcionando dia 20/01, quarta- feira, no horario das 7:40 da amnha?
+Obrigada','nathyjab@hotmail.com','3','1131676705','1453131722')||||DB]]></d>
+<d><![CDATA[||||177.22.144.190||18/01/16 16:41:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elisangela Lemos dos Santos','Boa Tarde!
+Gostaria de saber se, vocês fazem o eixo Term Tietê- Aeroporto de Congonhas, quais horários e taxa?
+
+Obrigada.
+
+Elisangela Lemos.','estrelaelis_04@yahoo.com.br','3','98291-1032','1453142500')||||DB]]></d>
+<d><![CDATA[||||177.140.47.37||18/01/16 17:01:11||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('cristina aparecida morales santos','  MORALES ADVOCACIA
+ 
+O escritório tem um perfil jovem e dinâmico, sendo reconhecido por seu profissionalismo, por sua abordagem moderna e objetiva da advocacia.
+Atendimento abrangente aos nossos clientes, sempre focado na celeridade e excelência da qualidade, solucionado litígios de demandas judiciais de maneira eficaz e transparente, a nossa maior referencia é os inúmeros de Conciliações, caso haja interesse em uma Assessoria Jurídica, podemos marcar uma reunião. Atenciosamente
+						                Contatar       
+DRA. CRISTINA AP. MORALES
+TEL.: 2954-5077 
+
+Rua José Whasth Rodrigues, nº 55 – Vila Maria – São Paulo- SP.
+Tel.: 2954-5077 ou Celular e whatsapp 9.9790-4083
+E- mails cristinamorales@ig.com.br ou cristinamorales@adv.oabsp.org.br
+                                        
+                                                                        
+	          	 “O Senhor é meu Pastor, nada me faltarás” salmo 23 
+','cristinamorales@ig.com.br','7','1136248347','1453143671')||||DB]]></d>
+<d><![CDATA[||||177.79.23.81||18/01/16 17:36:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ligia aparecida scaraboto','Boa noite preciso saber os horários de ônibus p guarulhos q passa na avenida  Goiás em sao Caetano. ... e em qual altura ele para na av Goiás.  Obrigada','ligia-ligia79@hotmail.com','3','11 997125336','1453145782')||||DB]]></d>
+<d><![CDATA[||||138.94.113.26||18/01/16 19:26:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Paulo Henrique Pereira','Olá,quero oferecer serviço de tapeçaria em geral em ônibus..
+','paulokbal@hotmail.com','7','46486465','1453152414')||||DB]]></d>
+<d><![CDATA[||||189.33.173.178||18/01/16 22:05:31||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('FA EXPRESS','F.A EXPRESS
+A empresa  que contrata  nossos serviços precisa acreditar que sua entrega chegará ao destino a tempo e em perfeitas condições.
+Nossos serviços incluem o transporte desde pequenas entregas e coletas de documentos a cartórios, fóruns, bancos e escritórios, brindes, convites até encomendas maiores de pacotes de lojas físicas ou virtuais, particulares entre outros.
+Atendemos a pessoas físicas e jurídicas, , de segunda a sexta e feriados datas pré-agendadas.
+Trabalhamos com o sistema de cobrança ponto a ponto para motoboy. São serviços esporádicos, no qual o valor é definido no momento do contato e depende dos locais onde serão recolhidas e entregues as encomendas.
+Possuímos também contratos mensais, caso a empresa possua uma grande quantidade de encomendas a serem enviadas e/ou coletadas.
+Atuamos na Grande São Paulo, litoral e interior, desde que partindo da capital. 
+Nossos motoristas e motoboy\'s são habilitados, conhecedores das rotas e seguem todas as exigências legais previstas em lei. 
+Consultem-nos. Teremos muita satisfação em atendê-los com EFICIÊNCIA, CLAREZA DE INFORMAÇÕES e SIMPATIA.
+ 
+Sistema de Pontos
+ - Mínimo de 02 pontos por solicitação: Considera-se 01 ponto o local da coleta e 01 ponto o local da entrega. O número de pontos por serviço pode variar conforme a distância. 
+  - Espera: Tolerância de 25 minutos. Após esse período, será cobrado um ponto adicional, mediante o contato com o cliente anteriormente. 
+ - Adicional de 50% sobre o valor do serviço para todas as solicitações realizadas após as 18h.
+ - Conheça nossa nova modalidade de atendimento D+1: Retiramos na data(até as 18h) e entregamos no dia seguinte mínimo de cinco endereços.
+   -convites e brindes (mínimo de 20 entregas/dia com custo reduzido)
+•          Coleta de contratos
+•          Entrega de talões de cheques
+•          Entregas de cartões de credito
+•          Serviços especiais a clientes VIP
+•          Malotes
+•          Coleta de material para exame
+•          Entrega de laudos
+•          Transporte de material para analises
+•          Serviços especiais personalizados
+•          Coleta e entrega de malotes
+•          Transporte de material promocional
+•          Transporte de fotolitos
+•          Malas diretas
+•          Distribuição de brindes e revistas
+•          Entrega de convites
+•          Protocolo e check-list das operações
+
+Especialistas em entregas de convênios para hospitais , clinicas e Laboratorios.
+( Trabalhamos 10 anos com o Hospital IBCC)
+
+Forma de Pagamento.
+ 
+A Forma de Pagamento pode ser feita quinzenal ou mensalmente faturados todo dia 15 e 30 de cada mês e com vencimento de 05( cinco) dias úteis.
+Consulte nossos planos, temos certeza que um deles se engloba à sua Empresa.
+ 
+Qualquer informação ou dúvida adicional, entrar em contato conosco:
+R Vargem grande nº46 Tatuapé (11) 2387-3038/ 94605-7388  ou solicite a visita de nosso representante.
+
+A F.A EXPRESS, agradece antecipadamente a atenção .
+
+Atendimento on line : http://faexpress01.wix.com/faexpress (Faca seu pedido on line), fa_express@yahoo.com.br.
+
+Entre em contato com nosso Televendas.
+ 
+
+
+','fa_express@yahoo.com.br','7','(11) 2387-3038','1453161931')||||DB]]></d>
+<d><![CDATA[||||85.244.96.197||19/01/16 08:01:15||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcus Patuzzo','Gostaria de saber usando a vossos serviços, qual a melhor maneira de viajar do Aeroporto de Viracopos para o Aeroporto de Congonhas ?
+
+Obrigado pela a atenção','marcuspatuzzo@hotmail.com','7','0351962859632','1453197675')||||DB]]></d>
+<d><![CDATA[||||189.3.39.178||19/01/16 10:10:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jorge Barbosa de Medeiros','Minha filha está chegando às 19h em Congonhas e o voo para Recife sai as 22h. O traslado de Congonhas para Guarulhos, nesse horário, dura quanto tempo em média? Tem metro entre os aeroportos? desde já, agradeço a atenção.
+
+Jorge','jorgebmedeiros@gmail.com','3','81999113007','1453205433')||||DB]]></d>
+<d><![CDATA[||||191.37.40.14||19/01/16 10:12:24||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcelo Claudne Sanches','Por gentileza gostaria de saber os horários e o calor de ônibus que sai do Terminal Barra Funda até o Aeroporto de Congonhas','marcelosantaesmeralda@hotmail.com','3','14-997267524','1453205544')||||DB]]></d>
+<d><![CDATA[||||177.81.61.91||19/01/16 12:47:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Tatiana Groff','Ola pessoal, gostaria de confirmar que hs sai o primeiro onibus para Guarulhos de vcs? Via Republica?
+
+Att, Tatiana.','tgroff77@gmail.com','3','11 98965 5480','1453214846')||||DB]]></d>
+<d><![CDATA[||||177.64.40.240||19/01/16 13:22:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('NELL BUSS REFORMADORA','A NELL BUSS REFORMADORA é uma prestadora de serviços para empresas. 
+Fundada em 1996, tem como missão atuar no segmento de reformas de ônibus – Caminhões. 
+Temos varias formas de atender às necessidades dos nossos clientes, com elevado padrão de qualidade.
+
+www.nellbuss.com.br
+','contato@nellbuss.com.br','7','(11) 99312-7905','1453216930')||||DB]]></d>
+<d><![CDATA[||||201.6.137.181||19/01/16 15:21:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Paulo schulz','Olá, gostaria de saber se eu pegar o ônibus em direção a guarulhos eu posso comprar a passagem na hora ou tem pontos de venda?','paulo.nespolo.m@hotmail.com','7','4497370017','1453224100')||||DB]]></d>
+<d><![CDATA[||||201.13.41.80||19/01/16 20:24:37||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Pauloroberto Paulo','Telefone pra entrar em contato','paulorobertop42@gmail.com','3','11 975086264','1453242277')||||DB]]></d>
+<d><![CDATA[||||2.234.145.168||20/01/16 05:52:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Renata Carpinetti ','Bom dia,gostaria de saber se posso viajar do aeroporto de guarulhos até a rodoviária do tietê com meu cachorro dentro do ônibus. Eles têm toda documentação e bolsa de transporte pois viajaram comigo para a Europa. Obrigada.','recarpinetti@yahoo.com.br','3','+553599905347','1453276366')||||DB]]></d>
+<d><![CDATA[||||187.57.208.227||20/01/16 09:58:51||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('paulo','Thor Comércio de Buchas de Borracha
+ 
+Somos uma empresa que atua no fornecimento de buchas de Poliuretano (PU) para suspensão de ônibus, carretas, vans , micro- ônibus, ônibus e utilitários;  com grande experiência no ramo.
+Fabricamos buchas de ótima qualidade, em matéria-prima de primeira linha, bem conceituada. Nossos produtos têm uma ótima aceitação pelo mercado consumidor.
+Atuamos em São Paulo, com valores e prazos bastante competitivos, fornecendo buchas para muitas garagens de ônibus e empresas do ramo, tipo COOPERPAM, COOP. PAULISTANA, DISTRIBUIDORA DE PEÇAS MORELATE , etc.
+Aguardamos contato pelos telefones 2916-8600/2302-2336
+Email= paulo.thorbuchas@gmail.com  thor_buchas@yahoo.com.br','paulo.thorbuchas@gmail.com','7','1129168600','1453291131')||||DB]]></d>
+<d><![CDATA[||||177.139.176.138||20/01/16 11:04:21||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('PRISCILA VACCARO','Bom dia,
+Meu nome é Priscila Vaccaro e trabalho no Sindicato dos Artistas e Espetáculos de São Paulo - SATED/SP.
+Em setembro desse ano vamos ter um congresso mundial que será realizado em São Paulo com participação de mais de 200 pessoas vindas de outros países para o Congresso. 
+Os convidados estarão hospedados no hotel Hilton Morumbi.
+Vamos oferecer o transporte - Airport Bus Service para os participantes do evento - Aeroporto de Guarulhos/ Hotel Hilton Morumbi/ Aeroporto de Guarulhos.
+O pagamento do transporte será pago por nós SATED/SP - organizadores desse evento.
+Minha pergunta é - podemos fazer o pagamento das passagens antecipadamente para que os convidados não paguem o transporte ? existe essa possibilidade dos convidados chegarem no ponto de encontro do Airport Bus Service já com um ticket pré pago ?
+Podemos comprar 200 passagens - porém sem horários definidos ? Pois cada convidado virá de uma parte do mundo. 
+Fico no aguardo.
+Obrigada
+Priscila Vaccaro.
+','producao@satedsp.org.br','7','11 99898 3575','1453295061')||||DB]]></d>
+<d><![CDATA[||||200.136.27.146||20/01/16 13:38:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elaine Ap Bonatti','Por gentileza onde ficar o ponto onde posso pegar o Onibus Airpot Bus Service do Terminal B Funda para Aeroporto de Guarulhos','laninhabo@gmail.com','7','985377473','1453304318')||||DB]]></d>
+<d><![CDATA[||||177.38.36.194||20/01/16 15:50:46||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('André Andrade','Boa tarde,
+Irei fazer uma viagem em Junho e precisarei trocar de aeroporto. Gostaria de saber se é possível comprar as passagens pela internet ou de forma antecipada, pois pelo que vi no site o horário de funcionamento é das 07h às 19h e eu só estaria chegando em Guarulhos de 03h20 e precisaria estar em Congonhas às 07h25 para pegar outro voo para Porto Alegre.
+Certo da atenção.
+
+André Andrade','andreandrade13@gmail.com','3','(81)999783537','1453312246')||||DB]]></d>
+<d><![CDATA[||||187.85.218.67||20/01/16 23:56:35||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Juan Manuel Cano Sanchiz','Por gentileza, queria saber qual é o horário de atendimento do guichê da Barra Funda. Queria pegar o ônibus para o aeroporto de Guarulhos que sai da Barra Funda às 06:20. Não consigo comprar a passagem com antecedência, pois não tenho cartão de crédito e moro no interior do estado. Assim sendo, será que chegando na Barra Funda às 05:40 consigo comprar a passagem para pegar o primeiro ônibus da manhã direção aeroporto? Fiquei pensando que talvez o guichê esteja fechado tão cedo assim.
+Desde já agradeço ','laciudadcritica@gmail.com','3','11981349780','1453341395')||||DB]]></d>
+<d><![CDATA[||||190.42.24.146||21/01/16 02:27:43||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '87' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.177.35.252||21/01/16 02:27:43||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '95' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||190.42.24.146||21/01/16 02:27:43||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||190.42.24.146||21/01/16 02:27:43||select id, name, address from route_hotel where ref_route = '87' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||190.42.24.146||21/01/16 02:27:43||select id, name, city from route_street where ref_route = '87' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.177.35.252||21/01/16 02:27:43||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.177.35.252||21/01/16 02:27:43||select id, name, address from route_hotel where ref_route = '95' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.177.35.252||21/01/16 02:27:43||select id, name, city from route_street where ref_route = '95' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||152.254.67.114||21/01/16 08:28:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lais','Gostaria de comprar uma passagem pelo site partindo da Av paulista para Guarulhos. Entretanto no site não existe a opção da partida da Av paulista. Seria república? Grata','laibrito@hotmail.com','3','11942733689','1453372113')||||DB]]></d>
+<d><![CDATA[||||200.178.15.66||21/01/16 10:31:01||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.57.5.232||21/01/16 10:45:27||select id, title, `desc`, link from store order by rand() <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.10.86.228||21/01/16 12:10:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcos','Estou muito decepcionado com o atendimento nos balcões dos aeroportos. 
+Comprei um ticket de CGH/GRU no valor de R$ 42 no  dia 08/01 e acabei não precisando usar e sendo informado de sua validade por 1 (um) ano.
+Quando mais precisei em cima da hora faltando alguns minutos para saída deGRU /CGH, fui informado que não poderia usar o trecho invertido.
+Ora! se é  um bilhete tarifa cheia, que diferença  fazia  usar naquele trecho ? Até  onde sei ,valcher (papel dinheiro ) é  válido  no momento em que os percursos não  alteram (CGH/GRU/CGH).
+Perdi meu vôo último do dia, me stressei aos extremos e solicitei o extorno do valor pago tendo como resposta, a não possibilidade de receber.
+Como posso fazer propaganda dessa empresa a bordo uma vez que sou aeronauta e muito solicitado por passageiros afim de transportes ligando os dois aeroportos se eu mesmo não tive um tratamento competente?  Que devo dizer aos paxs  !  Muito caro para um percurso de 25km ! Cuidado só  serve para um trecho mesmo tendo validade de um ano ! Não devolvem o dinheiro em caso de desistência ! ou devo sugerir  que procure o uber que em três pessoas sai muito mais em conta !
+Por favor , se atualizem ! de mais autonomia para seus funcionários para autorizarem inversão  de trecho , ressarcimento em caso de desistência , pacotes promocionais acima de três passageiros, porque se não,   a concorrência está aí  de forma oculta e ate informal aproveitando-se dessas falhas primárias da Airport Bus Service .
+Tenho desejo de continuar usando o conforto de seus veículos mesmo com um custo elevado para o percurso CGH/GRU/CGH ,comparado com trechos mais longos feito por outras empresas, mas confesso de que se nada mudar , vou optar pelos transportes informais .
+Grato 
+Marcos
+
+','ana.marcos@oi.com.br','3','11954526141','1453385433')||||DB]]></d>
+<d><![CDATA[||||200.69.228.233||21/01/16 13:31:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lucas','Oi, quero saber se quando chegar ao aeroporto é possivel fazer o pagamento com cartao de credito para o Onibus de Guarulhos-Praça da Republica?
+brigado, agradeço sua resposta','lucasmgatica@gmail.com','7','+54 351 6642016','1453390298')||||DB]]></d>
+<d><![CDATA[||||179.40.147.225||21/01/16 14:14:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('natalia','Hola,el dia 23/02/16 estaremos llegando al aeropuerto de guarulhos rumbo a ilhabela.queria saber si desde el aeropuerto cuentan con transporte directo a la balsa?me podrían decir el valor también?somos 2 adultos y una beba.Aguardo y gracias!','natmr80@hotmail.com','7','541138001349','1453392893')||||DB]]></d>
+<d><![CDATA[||||191.17.135.171||21/01/16 18:45:05||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Danilo Lima','Boa noite esse onibus sai do aeroporto quem esta no aeroporto pega ele como facilidade','danlima1212@hotmail.com','7','971444050','1453409105')||||DB]]></d>
+<d><![CDATA[||||187.37.201.13||21/01/16 19:03:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Fernanda','Caros, boa noite.
+
+Gostaria de saber se ainda existe o ônibus de linha que vai da estação Tatuapé até Cumbica.
+
+Grata,
+
+Fernanda','fernandanahas@gmail.com','3','11976057769','1453410197')||||DB]]></d>
+<d><![CDATA[||||200.178.129.120||22/01/16 08:59:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Letícia','Olá, o meu animal de estimação que veio junto comigo no vôo pode ser levado no ônibus?','leticia@leticialoh.com.br','3','51 83191994','1453460388')||||DB]]></d>
+<d><![CDATA[||||201.94.155.51||22/01/16 11:33:23||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('FELIPE CHAVES','Gostaria de saber o preço mensal para utilização da linha:
+
+Aeroporto Guarulhos - Brooklin Novo.
+
+
+Att,
+
+felipe.chaves@br.abb.com
+','felipe.chaves@br.abb.com','3','11 989730644','1453469603')||||DB]]></d>
+<d><![CDATA[||||191.242.32.166||22/01/16 12:10:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('fernando tassio muniz silva','sobre vagas para emprego!','fernando_fer14@hotmail.com.br','7','19988964615','1453471838')||||DB]]></d>
+<d><![CDATA[||||201.6.138.139||22/01/16 13:23:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('leandro dantas barreto','Leandro Dantas Barreto 
+Eu utilizo cadeira de rodas
+
+ Brasileiro, 
+ Casado, 32 anos. Rua Morubixaba, 198 – Bloco 10 Ap. 04 São Paulo - SP  
+Cep: 08280-630 dantasbarreto@yahoo.com.br  
+Tel.: (11) 2254-6723 /  (11) 9 8650-2712  (11) 96740-2712
+            
+Área de Interesse 
+Atendimento ao Público 
+      
+FORMAÇÃO   ACADÊMICA 
+Ensino Médio Completo 
+ETE Camargo Aranha                                 
+2004/2006 
+Tozzini Freire Teixeira da Silva - Advogados junho/2005-agosto/2005 
+Auxiliar de Biblioteca 
+• Controle, cadastramento e manutenção do sistema de livros do escritório.  
+
+Santander Brasil  Fev/2009-Ago/2013  
+Auxiliar Administrativo  BANCO SANTANDER   
+• Atendimento de interessados no financiamento de caminhões; 
+• Solicitações de extratos sobre condições dos caminhões financiados; 
+• Atualização de relatórios sobre o andamento dos processos dentro e fora do banco; 
+• Recebimento de malotes e andamento deles dentro do setor.  
+ 
+Hospital das Clínicas Mar/2005-junho /2005”  
+Auxiliar de Biblioteca (Voluntário) 
+• Controle, cadastramento e manutenção do sistema de livros da biblioteca.  
+• Atendimento aos interessados em utilizar os livros da biblioteca.  
+Livraria Cultura  
+Auxiliar administrativo 21/de outubro de 2013 a 17 de julho de 2014 
+Assistente da empresa, eu fazia trabalho de mensageiro   
+BK Consultoria  
+Atendimento ao público 22/07/2014 a 04/09/2014 
+supervisor de aeroporto  
+URANET  12/12/2014 a 05/01/2016
+Auxiliar administrativo  
+PERFIL  PESSOAL 
+ Responsabilidade;  Força de vontade;  Pontual;  Bem humorado;  Facilidade em Trabalho em equipe.  
+CURSOS COMPLEMENTARES  
+ Cursos de Libras (Concluído em Dezembro/2008); 
+ Cursos de Informática – Internet e Windows– Data Byte (Concluído em Novembro/2009); 
+ Conhecimento de Pacote Office – Nível Avançado. 
+INFORMAÇÕES COMPLEMENTARES 
+ Candidato com Mobilidade Reduzida – Membros superiores com deformidade congênita ou adquirida, mas com capacidade para efetuar as mais diferentes tarefas.  
+ Eu utilizo cadeira de rodas
+','dantasbarreto@yahoo.com.br','7','11986502712','1453476218')||||DB]]></d>
+<d><![CDATA[||||177.113.74.69||22/01/16 17:04:41||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sara stopiglia ','Prezados, 
+Gostaria de embarcar na Paulista, como faço para adquirir o bilhete de embarque no ônibus para Guarulhos?
+Grata, ','sarastopiglia@yahoo.com.br','3','11 981964901','1453489481')||||DB]]></d>
+<d><![CDATA[||||186.223.32.185||22/01/16 20:52:32||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Fernanda','Boa noite,
+Gostaria de saber se o AirPort Service que sai da rodoviária do Tietê vai até o terminal 3 do aeroporto de guarulhos ou como faço para ir até este terminal.
+Desde já agradeço a atenção,
+Fernanda Bazon','fernandavmbazon@yahoo.com','7','19981106206','1453503152')||||DB]]></d>
+<d><![CDATA[||||200.232.163.39||23/01/16 08:07:22||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcos','Prezados.
+
+Os horários que constam no site é válido para todos os dias da semana?
+
+Grato.','mflreis@hotmail.com','3','6599911246','1453543642')||||DB]]></d>
+<d><![CDATA[||||179.208.170.200||23/01/16 10:27:51||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('martha klein','gostaria de confirmar saida de onibus com direção p garulhos as 5:10hs, na portado Maksoud hotel na rua carlos do pinhal.
+martha','marthanklein@gmail.com','3','11 984158070','1453552071')||||DB]]></d>
+<d><![CDATA[||||177.94.42.145||23/01/16 11:10:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rodrigo','Bom dia,
+Gostaria saber, se há algum horário após as 22:40 como consta no site.
+alg ônibus com horário especial na madrugada, até o aeroporto de guarulhos.
+Preciso chegar lá as 5:00 da manhã.
+
+Abraços e no aguardo
+','Rodrigo.davi@abbrasil.com.br','3','14 99772-8549','1453554656')||||DB]]></d>
+<d><![CDATA[||||74.65.133.131||23/01/16 13:32:21||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ben Rollins','I need information on buying a bus ticket to get from GRU to Paulista Av. I arrive in Sao Paulo on the 30th of this month and need to meet my friend. I\'m landing in GRU; he\'s closer to CGH. 
+Do I need to buy my ticket at the airport, buy it ahead of time? Can I buy it when I land?
+I\'ve never traveled abroad and need all the help I can get. I can\'t guarantee if I\'ll land on time and don\'t want to miss my bus, I\'d rather buy it when I get there if it\'s an option. Weather might delay my flight. ','sdben78@gmail.com','3','1-619-335-0417','1453563141')||||DB]]></d>
+<d><![CDATA[||||201.50.162.100||23/01/16 15:55:07||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Daniel Silva Soares ','Boa tarde 😊
+Eu gostaria de saber como faço para entregar meu currículo para análise na empresa. Estou interessado em fazer parte dessa equipe.
+
+Obrigado pela atenção 👍 ','dan.soares2009@hotmail.com','3','077988719777','1453571707')||||DB]]></d>
+<d><![CDATA[||||177.133.173.91||23/01/16 18:15:49||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('rodrigo fernandes','Boa Tarde. Olhei as linhas e preços dos translados. Vocês não fazem o translado Aeroporto de Congonhas - Terminal rodoviário do Tietê ?
+Obrigado desde já ','rodrigocpf2003@yahoo.com.br','3','16988480565','1453580149')||||DB]]></d>
+<d><![CDATA[||||191.54.249.93||23/01/16 19:41:28||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sara Vargas','Olá, quanto tempo leva em media o onibus de Guarulhos até T. Tietê no domingo pela manhã?
+Sara','saravargas@netsite.com.br','3','34 99106 8023','1453585288')||||DB]]></d>
+<d><![CDATA[||||186.22.36.96||23/01/16 21:00:16||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('rafael','Preciso saber si puedo comprar 2 pasajes de Guarulhos a Sao Paulo ,para el día 13 de Febrero a las 3 horas y si lo puedo hacer desde Argentina con tarjeta de crédito. Desde ya GRACIAS por contestarme.                                                                                           Rafael Alkanati','rafaelalkanati@gmail.com','7','0541 1554828180','1453590016')||||DB]]></d>
+<d><![CDATA[||||177.99.109.143||24/01/16 00:44:01||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('naoresponda@maladireta.inf','Bom dia, 
+
+Acessei o seu site e através do formulário de contato estou enviando esta proposta que pode ser do interesse de sua empresa. 
+
+Esse é o momento de aumentar a sua força comercial e prospectar novos clientes. A crise só vem para quem fica sentado esperando!
+
+Nossa empresa está a mais de 10 anos no mercado, e é especializada na venda de listas com cadastros de empresas para área comercial, telemarketing e mala direta postal, segmentadas por ramo de atividade e com dados completos como razão social, telefone, email, endereço completo e ramo. 
+
+Com um investimento baixo você terá acesso à milhares ou até milhões de novos potenciais clientes para o seu negócio, seja qual for o seu mercado! São 7.500.000 de cadastros completos de empresas brasileiras. Acesse nosso site e confira agora!http://www.maladiretabrasil.com 
+
+Obs: Não responda diretamente por este email. Para mais detalhes, acesse nosso site http://www.maladiretabrasil.com 
+
+Obrigado pela atenção! 
+Equipe Mala Direta Brasil 
+http://www.maladiretabrasil.com
+
+
+
+
+
+
+','naoresponda@maladireta.inf','3','40404040','1453603441')||||DB]]></d>
+<d><![CDATA[||||179.156.183.250||24/01/16 15:34:21||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '87' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.156.183.250||24/01/16 15:34:21||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.156.183.250||24/01/16 15:34:21||select id, name, address from route_hotel where ref_route = '87' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.156.183.250||24/01/16 15:34:21||select id, name, city from route_street where ref_route = '87' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.104.116.6||24/01/16 17:08:37||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Lucius Almeida','Gostaria de saber o valor da passagem para uma crianca de 08 anos de idade, o trecho é de CGH-GRU','luciusalmeida@msn.com','3','85988085450','1453662517')||||DB]]></d>
+<d><![CDATA[||||187.36.19.2||24/01/16 17:49:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Thais','Quero comprar antecipado, guarulhos -SP, pelo cartão, sou de POA, como faço?','tati.monteiro.gandolfi@gmail.com','3','(51)99552211','1453664976')||||DB]]></d>
+<d><![CDATA[||||201.43.178.163||24/01/16 18:23:01||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Sebastião Vieira','GOSTARIA DE SABER SOBRE A LINHA ( TATUAPÉ CUMBICA ) QUAIS SÃO OS HORÁRIOS ? OBRIGADO .','vieirasolto15@hotmail.com','3','11987321773','1453666981')||||DB]]></d>
+<d><![CDATA[||||190.210.129.61||25/01/16 00:59:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jurandir Neves Garcia','Vou chegar em Cumbica durante a madrugada de segunda para terça e preciso ir para Congonhas. Posso pagar a passagem com cartão de débito ou crédito?','garcia.jura@gmail.com','7','61 8123 2943','1453690766')||||DB]]></d>
+<d><![CDATA[||||177.193.117.131||25/01/16 09:07:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ADELINE GOMES DA SILVA','Qual linha de ônibus eu pego para chegar ao aeroporto de Congonhas?  Saindo da rodoviária do Tietê? Obrigada! ','adelinesilva@hotmail.com','3','7391966955','1453720029')||||DB]]></d>
+<d><![CDATA[||||191.251.176.119||25/01/16 10:47:40||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Luan Santos Dias ','Bom dia.
+ 
+Pensando no atual cenário econômico do nosso país, com a redução da disponibilidade de crédito e o aumento da taxa de juros para financiamento. Proporcionamos opções de crédito para aquisição de veículos de pequeno, médio e grande porte, onde NÃO HÁ JUROS, apenas um pequeno custo administrativo. Sendo de 0,14% a 0,20% ao mês, com prazo de 36 a 100 meses. Entre outros benefícios.
+ 
+ 
+Gostaria de agendar uma reunião para apresentação da proposta.
+
+Atenciosamente. ','luan.unifisa@gmail.com','7','11930124507','1453726060')||||DB]]></d>
+<d><![CDATA[||||186.206.255.235||25/01/16 11:25:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Danilo Cesco','Bom Dia,
+eu tenho um voo que chega em Gru as 10horas, fazendo calculus eu acredito que estarei "livre" para pegar o seu onibus as 11horas, sera possivel pegar o onibus ate Congonhas e chegar a tempo de pegar um voo as 14:20 ?
+Se sim, onde fica mais facil para eu pegar o onibus?
+Lembrando que chego de um voo internacional.
+Obrigado.
+Danilo Zocatelli Cesco','daniloczocatelli@hotmail.com','3','31 994998992','1453728309')||||DB]]></d>
+<d><![CDATA[||||177.36.11.185||25/01/16 11:59:37||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Daiane','Bom dia. Quero saber aonde esse ônibus me deixa exatamente no Tatuapé. Pois vou pega-lo de magrugada e fico com medo de me deixarem em algum ponto de rua. Me informa o local certo. Obrigada !','S2daiia@hotmail.com','3','954536219','1453730377')||||DB]]></d>
+<d><![CDATA[||||186.207.242.158||25/01/16 14:00:38||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rafael Reis Ferreira','Boa tarde,
+Adquiri uma passagem através do site netviagem, mas preciso trocar o horário e o nome do passageiro.
+Qual o procedimento?
+Obrigado.
+Um abraço
+','rafareis@uol.com.br','3','1432814708','1453737638')||||DB]]></d>
+<d><![CDATA[||||191.187.118.143||25/01/16 15:14:39||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Wendinei Pereira','BOA TARDE. A PARTIR DE QUE IDADE CRIANÇAS PAGAM A PASSAGEM?
+HÁ CORTESIA PARA POLICIAL MILITAR RODOVIÁRIO A PAISANA, COM A APRESENTAÇÃO DA CREDENCIAL DO POLICIAMENTO? GRATO.
+WENDINEI PEREIRA.','wendineipereira@gmail.com','3','14-981611701','1453742079')||||DB]]></d>
+<d><![CDATA[||||191.177.185.152||26/01/16 08:33:17||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Elizabeth de sousa','Bom dia. No sábado dia 23 deste mês peguei o vosso ónibus que saiu às 15h e 10, guarulhos-rodoviaria tiete, o rapaz que embarcou as minhas malas não colocou na bagagem uma mala de cor vermelha,  e apenas percebi aqui em curitiba. Gostaria que verificassem com a equipe que trabalhou neste dia esssa questão.  Na mala constam um tapete creme grande e alguns sapatos .espero o vosso contacto para resolução da mala . A mala é de 30 kg.','Muhongosebastiao@hotmail.com','3','041-98666748','1453804397')||||DB]]></d>
+<d><![CDATA[||||66.102.8.152||26/01/16 08:48:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Alice Souza Gonçalves ','Bom dia, no dia 14 de Janeiro ao efetuar a compra de uma passagem do trajeto Aeroporto de Guarulhos - Rodoviária do Tietê, o site anunciou um erro no processamento da compra onde tentei novamente. Para minha surpresa foi cobrado no cartão duas passagens para o mesmo dia/horário. Creio que, sendo a passagem nominal e de retirada no guichê mediante apresentação de documento, seja impossível a compra de duas passagens para uma única pessoa. Estou tentando ligar no telefone disponível no site porém não consigo finalizar a ligação.  Espero que a situação seja resolvida sem maiores problemas. 
+Segue alguns dados que podem ser necessário:
+Nome: Alice Souza Gonçalves 
+Data de Nascimento: 03/11/1994
+CPF: 12741535655
+RG: 16489200/SSPMG
+Desde já, agradeço pela atenção. 
+Alice Gonçalves 
+','aliice.goncalves@hotmail.com','3','035991680520','1453805316')||||DB]]></d>
+<d><![CDATA[||||66.102.8.152||26/01/16 08:52:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('ALICE SOUZA GONÇALVES ','Bom dia, no dia 14 de Janeiro ao efetuar a compra de uma passagem do trajeto Aeroporto de Guarulhos - Rodoviária do Tietê, o site anunciou um erro no processamento da compra onde tentei novamente. Para minha surpresa foi cobrado no cartão duas passagens para o mesmo dia/horário. Creio que, sendo a passagem nominal e de retirada no guichê mediante apresentação de documento, seja impossível a compra de duas passagens para uma única pessoa. Estou tentando ligar no telefone disponível no site porém não consigo finalizar a ligação.  Espero que a situação seja resolvida sem maiores problemas. 
+Segue alguns dados que podem ser necessário:
+Nome: Alice Souza Gonçalves 
+Data de Nascimento: 03/11/1994
+CPF: 12741535655
+RG: 16489200/SSPMG
+Desde já, agradeço pela atenção. 
+Att,
+Alice Gonçalves 
+','aliice.goncalves@hotmail.com','7','035991680520','1453805530')||||DB]]></d>
+<d><![CDATA[||||191.17.255.245||26/01/16 09:41:30||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rô','Tenho uma viagem no dia 05/02 saindo de GRU e gostaria de saber como posso utilizar o transporte de vocês para lá, tanto na  ida quanto da volta.
+Preciso reservar o horário ou realizar o pagamento antes?
+Onde exatamente é o ponto de encontro para encontrar o ônibus.
+
+Muito obrigada!','goncalvesro@ymail.com','7','(11) 98191-9781','1453808490')||||DB]]></d>
+<d><![CDATA[||||179.177.113.138||26/01/16 14:02:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('LUCIANE DE PAULA','BOA TARDE , ESTOU NO ENDEREÇO Av. das Nações Unidas, 18591 - Várzea de Baixo, São Paulo - SP E PRECISO PEGAR O ONIBUS PARA  O AEROPORTO DE GUARULHOS , QUAL É O LOCAL MAIS PROXIMO DO MEU ENDEREÇO PARA PEGAR O ONIBUS??? AGUARDO ','LUCIANE@CHIAPETTI.COM.BR','7','4599697948','1453824126')||||DB]]></d>
+<d><![CDATA[||||201.6.159.120||26/01/16 15:45:25||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('MARLI','Ola como faço para comprar antecipado a passagem para uma pessoa que chega amanha de Angola e desembarca em guarulhos????','marli@cortex.com.br','7','11 33514486','1453830325')||||DB]]></d>
+<d><![CDATA[||||91.79.21.253||26/01/16 17:56:01||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('contactqynqk','Good day! 
+ 
+Mailing your business proposals to the contact-form on the website of the organization in any country and domain zones of the world in all languages.  
+ 
+Offer comes to pin email institutions 100% in inbox! 
+ 
+DMOZ Directory - 3051246 sites. 
+ 
+Base WHOIS sites all country of the world. 
+ 
+Top: 1 million best sites around the world. 
+ 
+Top: 16821856 visited sites around the world. 
+ 
+ 
+Deliveries on foreign form of contacts World domains / countries, prices are negotiable. 
+ 
+Please Do not respond to it Post from its email account, as it is created automatically and will not come to us! 
+Use our connection shape-contact from the site: 
+ 
+http://www.feedback.contacts-forma.com','vincenza_maurus15@rambler.ru','','123456','1453838161') <b>Column 'ref_subject' cannot be null</b>||||DB]]></d>
+<d><![CDATA[||||187.37.31.140||26/01/16 21:20:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('CAIO','Olá!
+
+Estou precisando comprar uma passagem SAO PAULO - ROD TIETE para GUARULHOS - AEROPORTO.
+Não possuo cartão de crédito, por isso gostaria de comprar via boleto. Tem alguma forma de comprar (online) passagem via boleto?
+
+Atenciosamente,
+
+CAIO','caiovaleriano@hotmail.com','3','11949063639','1453850409')||||DB]]></d>
+<d><![CDATA[||||187.80.132.66||27/01/16 07:06:45||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ana Coimbra','Poderia ser um bom dia se uma empregada da empresa não trabalhasse com tanta má vontade!!! Cheguei ao aeroporto 23:30h e logo me dirigi ao guichê para comprar minha passagem, mesmo tendo certeza que viajaria com a empresa, uma atendente de nome Damiana me desencorajou a comprar minha passagem dizendo que eu poderia comprar depois, mesmo assim comprei. Como o primeiro ônibus a sair para a Avenida Paulista é 6:10h, fui "fazer hora", mas quando voltei, cerca de 4;20h, pude perceber o quanto despreparada e pouco educada para atender os clientes da empresa esse empregada é... Fez um rapaz perder o ônibus por não ter avisado ao mesmo que a pista de embarque estava fechada, e quando ele veio perguntar ao certo o lugar de embarque, ela falou com indiferença que a pista estava interditada e que ele perdeu o ônibus por não estar na pista certa. Mas o que me
+leva a escrever é que a mesma empregada não teve a, digamos, educacao e/ou consideração por mim e fez pior que com o rapaz, se procurarem ver nas câmeras, eu pouco cochilei no
+período que estive na sala de espera da empresa, mas próximo a partida do ônibus cochilei, eis que antecedida empregada passou por mim e sequer teve a cordialidade de me chamar para avisar que meu ônibus estava saindo, e só avisou me acordando para dizer que eu tinha perdido porque ele estava saindo, que absurdo!!! Não satisfeita ela ainda virá para mim e fala que não tem obrigação de me avisar, mas senas câmeras estivessem funcionando vocês veriam que eu também não tenho obrigação de ser tradutora da empresa, mas a empregada perguntou e para ajudar uma cliente, fui traduzir a conversa para duas japonesas que estavam precisando de informações... Eu fico espantada em saber que esse tipo de emptegado ainda existe!!! Porque o mercado de trabalho está cheio de boas pessoas, quentealemte senpreoculam em primeiro lugar com o bom atendimento do cliente e depois com a empresa, que acaba saindo prejudicada... Eu que tenho exames para fazer logo pela manhã no Icesp, senti que fui prejudicada, mas que infelizmente, como disse a moça, ela não tem obrigação... Vou fazer uma reclamação no Reclame Aqui, porque acho que os clientes tem que ficar mais atentos aos horários e lugares de embarque, já que intendimento é deficitário e nem sequer um livro de reclamação a empresa disponibiliza para tentar ficar sabendo de forma mais imediata dos problemas no atendimento, pelo site é muito limitado, nem todos tem tempo e estômago para procurar o site, o lugar onde escrever... Uma pena, porque é a única empresa que faz esse trajeto, por agora.','atcoimbra@hotmail.com','3','91 982539000','1453885605')||||DB]]></d>
+<d><![CDATA[||||66.102.8.146||27/01/16 15:46:57||select * from route order by route.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.16.49.18||27/01/16 19:15:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Heldemarcio Leite Ferreira','Compra de passagem para translado de Hotel Íbis da av. 9 de julho para o aeroporto de Guarulhos','heldemarcio@hotmail.com','7','81 9 99528232','1453929354')||||DB]]></d>
+<d><![CDATA[||||181.28.213.209||27/01/16 20:46:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('jorge ciancia','donde debemos dirigirnos en el aeropuerto de gurulhos para comprar el boleto y donde se toma el bus, para is a congohas','jorgericardo_ciancia@yahoo.com.ar','7','5491159821910','1453934814')||||DB]]></d>
+<d><![CDATA[||||187.180.186.29||27/01/16 22:35:03||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Fernando Cavalera','Boa noite, esse ônibus não tem saída de Sorocaba para o GRU? Eu dei umas olhada no horário, mas não entendi muito bem! Aqueles são os horários de saída?','cavalerafernando@hotmail.com','3','015991366751','1453941303')||||DB]]></d>
+<d><![CDATA[||||66.102.8.152||28/01/16 09:35:13||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Dionicia Méndez rivera','Bom dia, por favor poderiam me confirmar se vcs fazem o trajeto do aeroporto de Congonhas a Rodoviária de Praia Grande?? Obrigada aguardo, a resposta..
+','dmrivera_16@hotmail.com','3','13_988183563','1453980913')||||DB]]></d>
+<d><![CDATA[||||66.102.8.152||28/01/16 09:35:50||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Dionicia Méndez rivera','Bom dia, por favor poderiam me confirmar se vcs fazem o trajeto do aeroporto de Congonhas a Rodoviária de Praia Grande?? Obrigada aguardo, a resposta..
+','dmrivera_16@hotmail.com','3','13_988183563','1453980950')||||DB]]></d>
+<d><![CDATA[||||187.62.50.54||28/01/16 10:36:19||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Solange Kolecha','Não sou de São Paulo mas vou passar por aí. Chego no Terminal Rodoviário de Barra Funda e preciso ir até o Aeroporto de Congonhas. Existe uma linha que faça este trajeto? No site consegui visualizar somente para Guarulhos. Qual os horários e preços?','sosokolecha@hotmail.com','7','43 9971-3270','1453984579')||||DB]]></d>
+<d><![CDATA[||||177.68.150.202||28/01/16 11:39:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Daiana','O Valor cobrado do Terminal Rodoviário até o aeroporto de Garulhos?','dalucamodas@outllook.com','3','14 997810652','1453988388')||||DB]]></d>
+<d><![CDATA[||||200.221.145.22||28/01/16 14:46:06||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Tathiana Pilon','Olá, boa tarde!
+Por gentileza, podem me informar o contato do responsavel pelo marketing da Airport Bus Service?
+No aguardo,
+Obrigada, abraços.','tathiana.pilon@grupofolha.com.br','6','1132244475','1453999566')||||DB]]></d>
+<d><![CDATA[||||187.94.186.253||28/01/16 18:24:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('altair de oliveira paulino','                  Altair Oliveira Paulino
+Endereço: rua da felicidade-237-	
+Bairro : Jardim da paz-cidade de americana-sp-cep: 13.470.474.
+Telefones: (19)-3462-7605-(19)-9-9121-4157.
+Email: motorista_altair@yahoo.com.br
+Dados pessoais.
+Estado civil: casado-(1)-filho.
+Nacionalidade: Brasileira.
+C.N.H-A/E-sem vícios-não fumante.
+Escolaridade-1*-grau.
+Concluido.
+Cursos.
+Mopp:-movimento de produtos perigosos-concluido em-(15-e-16-2012-reciclagem)
+Transporte Coletivo De Passageiros Rodoviários-concluido em-(01-e-02-2014-reciclagem)
+Instituição sest senat Campinas.
+Espêriências Profissionais com:Onibus caminhôes e carretas.
+Viação  clewis  turismo.
+Cargo: motorista-  fretado  e  turismo.
+Periodo: 10 12005  á  14 22007.
+Viação  ouro  verde.
+Cargo: motorista-  fretamento, rodoviário e turismo.
+periodo:15 62007 á 18 92012.
+Venetur  turismo.
+Cargo: motorista  fretamento  e  turismo.
+Periodo :21 62013  á  08 22015.
+Atrans Transportadora.              
+Cargo: motorista caminhôes trucados rodoviários.
+Inicio: 31/05/2004-á-01/11/2004-motivo saida-(contrato agência vêncido).
+Expresso Tabaco Transportadora.                                                                                                                                     
+Cargo: motorista caminhôes trucados rodoviários.
+Inicio: 01/04/2013-á-03/06/2013-motivo saida-(queda no transporte de cargas).                                                    
+Expresso Brumado transportes.
+Cargo: motorista rodoviário trucados-inicio-30/09/2012-á-20/03/2013-(motivo saida:sem registro)
+Resumo das Qualificações.
+*Espêriência com 440-shiffit-(automátc).
+*ônibus-automatic-e-semi-automatic
+*Caminhões (1620)
+*Direção defenciva.
+*Condução segura ecônômica.
+*Respeito aos limites de velocidades.
+*Atêndimento ao cliênte.
+*mecânica basica.
+*Respônsável determinado.
+*Facilidade no aprêndizado,adaptação e bom relacionamento.
+*44 anos de idade.não fumante-sem vívíos.
+*conhecimento em: traçar rotas,e,em longas rotas,dentro ,e,fora do estado são paulo.
+*Disponivel para todos horários.
+*Espéro,por,uma,entrevista;e;uma;oportunidade.
+','motorista_altair@yahoo.com.br','3','1934627605-91214157','1454012676')||||DB]]></d>
+<d><![CDATA[||||186.204.213.76||28/01/16 19:04:42||select id, title, `desc`, link from store order by rand() <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||186.222.130.199||28/01/16 19:06:38||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||186.222.130.199||28/01/16 19:06:38||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||123.243.168.25||28/01/16 19:06:38||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.69.139.70||28/01/16 19:26:35||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.134.59.133||28/01/16 19:26:35||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '95' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.134.59.133||28/01/16 19:26:35||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.134.59.133||28/01/16 19:26:35||select id, name, address from route_hotel where ref_route = '95' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.134.59.133||28/01/16 19:26:35||select id, name, city from route_street where ref_route = '95' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.182.192.233||28/01/16 19:33:14||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||187.41.43.27||28/01/16 20:22:34||select * from route order by route.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||181.24.178.116||28/01/16 20:24:09||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('andres asselborn','hola el dia lunes a las 4 am llego a el aeropuerto de sao paulo Guarhulos y quiero saber que horario de colectivos hay para ir a iihabela o san sebastiao quisiera saber el precio y el horario?? para poder programar mi viaje muchas gracias.','sociosvirtual@gmail.com','7','+542323435365','1454019849')||||DB]]></d>
+<d><![CDATA[||||189.102.30.195||28/01/16 20:49:27||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Tiemi','Boa noite, na busca por horários existem as opções saindo de Congonhas as 03:00 pra Guarulhos, mas ao entrar no site para compra, este horário não está disponível 
+Este horário das 03:00 existe saindo de Congonhas? Como comprar se não existe opção no site? Obrigada! ','cwbtiemi@gmail.com','3','11.2121.2211','1454021367')||||DB]]></d>
+<d><![CDATA[||||80.111.138.94||29/01/16 10:04:26||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Matheus Moretto Tanno ','Olá, 
+
+gostaria de saber se o ônibus de Guarulhos para Congonhas tem WiFi.
+
+Obrigado,
+
+Matheus ','matheus6284@hotmail.com','3','+353873923474','1454069066')||||DB]]></d>
+<d><![CDATA[||||186.204.148.71||29/01/16 10:07:41||select id, name from contact_subject order by contact_subject.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||79.24.146.64||29/01/16 10:45:12||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('andrea','Oi
+queria saber no caso eu comprasse a passagem de omnibus do aeroporto guarulho ate\' a avenida paulista que acontece em caso de atraso do avião e eu não poder pegar o ônibus que reservei online?
+Geralmente sempre se encontram vagas no omnibus con destino a avenida paulista? Pq si fosse eu o comprerai direitamente no dia da chegada e não adentado online
+
+obrigado','andreazz@libero.it','7','*393289667644','1454071512')||||DB]]></d>
+<d><![CDATA[||||189.16.49.18||29/01/16 11:00:48||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Heldemarcio Leite Ferreira','É possível comprar a passagem diretamente com o motorista no Hotel Maksoud Plaza e este horário de 18h50 é neste hotel?','heldemarcio@hotmail.com','3','81999528232','1454072448')||||DB]]></d>
+<d><![CDATA[||||177.45.108.24||29/01/16 11:33:59||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Paula Ires','Bom dia,
+
+há possibilidade de comprar a passagem para Guarulhos pela internet? Ou somente no local? No meu caso, optarei por pegar o ônibus no WTC.
+
+Aguardo retorno.
+
+Grata,
+Paula Ires','urtomadu@hotmail.com','7','+5511985948848','1454074439')||||DB]]></d>
+<d><![CDATA[||||189.59.193.42||29/01/16 11:53:12||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('rodrigo bastos rissi','Favor entrar em contato para reembolso de passagem comprada pela internet, porem houve erro no sistema e foram adquiridas 02 passagens.','rbrissi@me.com','3','31984510449','1454075592')||||DB]]></d>
+<d><![CDATA[||||189.100.134.161||29/01/16 11:53:14||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rosana Almeida Fundão de Souza e Silva','Bom dia!
+
+Peço por gentileza o cancelamento da passagem comprada por mim no dia 28/01, às 15.58, cujo localizador é HHBJB8R. Acabei comprando a passagem duas vezes, uma vez que no dia anterior havia tentado comprar a passagem às 22.30 e recebi uma mensagem que o procedimento não havia sido concluído e que era pra tentar mais tarde. Somente ontem, ao entrar no meu e-mail, verifiquei que a passagem havia sido gerada. Portanto, peço que cancelem a passagem acima citada, uma vez que já possuo a passagem comprada no dia 27/01. Aguardo retorno, pois tenho tentado cancelamento através do 08007702287 e o telefone chama e em seguida aparece um barulho de fax e a ligação não completa.
+Obrigada!
+Rosana','rosana_fss@yahoo.com.br','3','(11) 99941.0438','1454075594')||||DB]]></d>
+<d><![CDATA[||||177.141.6.223||29/01/16 11:55:51||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Marcilene Crause','Bom dia!! 
+
+Gostaria de maiores informações sobre passagem saindo de congonhas indo para Guarulhos, qual o valor tempo de duração e forma de pagamento!? O pagamento pode feito na hora do embarque!? No aguardo!!
+
+Marcilene Cruase ','marcilenecrause@yahoo.com.br','7','11-995383531','1454075751')||||DB]]></d>
+<d><![CDATA[||||189.33.252.100||29/01/16 12:01:11||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Aline Mendes','Bom dia.
+
+Na quinta-feira, dia 21/01/16, peguei um ônibus do aeroporto de Guarulhos para a Rodoviária do Tietê às 14:20h, e esqueci uma carteira de motorista e um cartão de crédito (estavam juntos, no mesmo porta documentos).
+Liguei para vocês, porém não há no sistema nada a respeito, e fui orientada a enviar um email.
+
+Obrigada.','li.m@hotmail.com','3','(11) 98423-3381','1454076071')||||DB]]></d>
+<d><![CDATA[||||189.100.134.161||29/01/16 14:16:43||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rosana Almeida Fundão de Souza e Silva','Peço a gentileza de cancelar uma passagem comprada no dia 28/01 às 15.58, com destino Congonhas  a Guarulhos, cujo localizador é HHBJB8R, uma vez que comprei uma no dia anterior e o sistema me enviou uma msg dizendo que foi impossível completar o pedido. Hj ao abrir meu e-mail verifiquei que o pedido datado do dia 27/01 às 22.30 havia sido gerado com sucesso, portanto ja possuo a passagem para o dia 03/02 pro mesmo destino. Aguardo retorno!
+Obrigada,
+Rosana','rosana_fss@yahoo.com.br','7','(11) 99941.0438','1454084203')||||DB]]></d>
+<d><![CDATA[||||187.96.149.218||29/01/16 15:53:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('João Alberto Rodrigues ','Senhores
+Comprei um bilhete de viagem para o aeroporto de Guarulhos saindo da estação rodoviária do Tietê, pela internet.
+No momento do embarque, às 15:15hs, o motorista me informa que havia a necessidade de trocar o comprovante impresso pela internet pelo bilhete e que daria tempo, pois faltavam 11 minutos para a saída do ônibus.Fui rapidamente ao guichê da Pássaro Marrom e fiz a troca, voltando para a plataforma de embarque. Eis que o ônibus já havia partido. É uma grande falta de competência e organização dessa AirPort pois sabia o motorista que eu iria voltar para embarcar e o guichê tinha a informação que havia mais um passageiro faltando.
+Meu vou em Gru será às 17:40 e não sei se o próximo ônibus das 16:15hs chegará a tempo para eu embarcar.
+O nome do motorista obtido no guichê: Marco Antônio da Paz.
+Sem mais para o memento,
+João Alberto','rodrijoao@uol.com.br','3','11 997477397','1454090033')||||DB]]></d>
+<d><![CDATA[||||189.0.40.157||29/01/16 19:33:56||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Jose luis','Preciso saber o preço da passagem do aeroporto grau à barra funda','Joseluisletras@gmail.com','3','24462935','1454103236')||||DB]]></d>
+<d><![CDATA[||||186.223.143.39||30/01/16 06:16:06||select * from route order by route.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||186.223.143.39||30/01/16 06:17:26||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||186.223.143.39||30/01/16 06:19:35||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.120.116.213||30/01/16 06:19:35||select id, title, `desc`, link from store order by rand() <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.247.231.42||30/01/16 06:47:33||select * from route order by route.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||201.54.239.178||30/01/16 06:50:12||select id, image_en, link_en, target_en from banner order by banner.order ASC <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||201.54.239.178||30/01/16 06:50:12||select id, title_en, desc_en, image_en, link_en, target_en from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.247.231.42||30/01/16 06:52:22||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '95' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.247.231.42||30/01/16 06:52:23||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.247.231.42||30/01/16 06:52:23||select id, name, address from route_hotel where ref_route = '95' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.247.231.42||30/01/16 06:52:23||select id, name, city from route_street where ref_route = '95' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||24.85.78.68||30/01/16 07:22:31||select id, image_br, link_br, target_br from banner order by banner.order ASC <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||86.31.252.91||30/01/16 07:22:31||select id, image_br, link_br, target_br from banner order by banner.order ASC <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||24.85.78.68||30/01/16 07:22:31||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||87.154.61.183||30/01/16 07:22:31||select id, image_br, link_br, target_br from banner order by banner.order ASC <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||86.31.252.91||30/01/16 07:22:31||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||87.154.61.183||30/01/16 07:22:31||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||177.121.75.255||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.2.73.114||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.209.91.38||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.209.91.38||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.232.136.26||30/01/16 07:26:58||select id, title_es, desc_es, image_es, link_es, target_es from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.2.73.114||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||191.196.160.72||30/01/16 07:26:58||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.2.73.114||30/01/16 07:32:41||select id, title, `desc`, link from store order by rand() <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||189.2.73.114||30/01/16 07:33:34||select id, title_br, desc_br, image_br, link_br, target_br from hot where hot.fl_enabled = 1 order by hot.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||186.237.48.231||30/01/16 17:08:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Francisco Mesquita Braga','estou indo a são paulo amanha pela primeira vez como faço para chega ao aeroporto','braga.67@hotmail.com','7','22998248854','1454180913')||||DB]]></d>
+<d><![CDATA[||||187.35.219.130||30/01/16 17:30:25||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Ive Mota Landim Leite ','Olá, boa tarde. 
+Preciso comprar antes a passagem da República para guarulhos?
+Seria para hoje a noite de 21:10.
+O guichê da República fica aberto ate que horas?
+Aguardo retorno!','ive.mota@hotmail.com','3','88 999229496','1454182225')||||DB]]></d>
+<d><![CDATA[||||177.180.103.5||30/01/16 19:18:08||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Verena Carmelo','Gostaria de saber se a passagem de cumbica para o termina tietê pode ser comprada pela internet e se aposentado paga o mesmo valor.','verena.vassimon@gmail.com','7','16981472277','1454188688')||||DB]]></d>
+<d><![CDATA[||||187.37.78.6||30/01/16 22:58:10||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Alessandra Ferreira dos santos ','Peguei o ônibus  das 21:05 hoje de guarulhos para congonhas, meu filho esqueceu uma mala de mão no compartimento superior. ','Alessandra_f_santos_2703@hotmail.com','3','1126676052','1454201890')||||DB]]></d>
+<d><![CDATA[||||187.37.78.6||30/01/16 22:59:54||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Pedro Santos','Boa noite, esqueci uma mala de apenas uma alça, de cor bege em um ônibus saindo de Guarulhos com destino à Congonhas (saída às 21:05, 30/01/16) e gostaria de saber se esta em seu achados e perdidos. Já entrei em contato com o Jefferson, porém ainda não recebi nenhuma ligação, grato.','phss2001@live.com.pt','3','11 981199291','1454201994')||||DB]]></d>
+<d><![CDATA[||||179.153.240.171||30/01/16 23:01:33||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Juliana Costa ','Estou com uma dúvida, sempre uso esse transporte mas dessa vez estou levando meu cachorro pra guarulhos .. Tem algum problema no transporte de animais dentro do ônibus ?! Ele estará em uma casinha própria par transporte! Aguardo retorno , obrigada.','jucosta_11@hotmail.com','3','11968415489','1454202093')||||DB]]></d>
+<d><![CDATA[||||200.222.148.238||31/01/16 00:39:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Clemerson Bomfim ','Olá estou com uma viagem marcada e gostaria de saber o horário do primeiro ônibus que sai da praça da república em sentido ao aeroporto de Guarulhos e a previsão de tempo?
+Desde já muito obrigado.','shaloncelularvariedades@Hotmail.com','7','75 99937-7002','1454207960')||||DB]]></d>
+<d><![CDATA[||||200.222.148.238||31/01/16 01:32:20||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Clemerson Bomfim ','Olá estou com uma viagem marcada e gostaria de saber o horário do primeiro ônibus que sai da praça da república em sentido ao aeroporto de Guarulhos e a previsão de tempo?
+Desde já muito obrigado.','shaloncelularvariedades@Hotmail.com','7','75 99937-7002','1454211140')||||DB]]></d>
+<d><![CDATA[||||179.228.75.192||31/01/16 02:06:22||select id, text_br as text, name_ini_br as name_ini, name_fin_br as name_fin, time_br as time, info_br as info, gmaps from route where id = '83' <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.228.75.192||31/01/16 02:06:22||select id, name_br as name from route_hour_type order by route_hour_type.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.228.75.192||31/01/16 02:06:22||select id, name, address from route_hotel where ref_route = '83' order by route_hotel.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||179.228.75.192||31/01/16 02:06:22||select id, name, city from route_street where ref_route = '83' order by route_street.order asc <b>MySQL server has gone away</b>||||DB]]></d>
+<d><![CDATA[||||187.37.78.6||31/01/16 11:49:43||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Pedro Santos','Boa noite, esqueci uma mala de apenas uma alça, de cor bege em um ônibus saindo de Guarulhos com destino à Congonhas (saída às 21:05, 30/01/16) e gostaria de saber se esta em seu achados e perdidos. Já entrei em contato com o Jefferson, porém ainda não recebi nenhuma ligação, grato.','phss2001@live.com.pt','3','11 981199291','1454248183')||||DB]]></d>
+<d><![CDATA[||||184.48.130.232||31/01/16 18:30:36||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Rodolfo Vieira Nunes','Olá,
+Comprei uma passagem do aeroporto de Guarulhos para São José dos Campos no dia 01/02/2016. Como faço para retirar a passagem no terminal 3 de Guarulhos, pois apenas tenho o comprovante da compra via internet.','rodolfovieiran@yahoo.com.br','3','+5512991426064','1454272236')||||DB]]></d>
+<d><![CDATA[||||187.37.78.6||31/01/16 22:59:53||INSERT INTO contact(`name`,`comments`,`email`,`ref_subject`,`phone`,`dt_created`) VALUES ('Pedro Santos','Boa noite, esqueci uma mala de apenas uma alça, de cor bege em um ônibus saindo de Guarulhos com destino à Congonhas (saída às 21:05, 30/01/16) e gostaria de saber se esta em seu achados e perdidos. Já entrei em contato com o Jefferson, porém ainda não recebi nenhuma ligação, grato.','phss2001@live.com.pt','3','11 981199291','1454288393')||||DB]]></d>

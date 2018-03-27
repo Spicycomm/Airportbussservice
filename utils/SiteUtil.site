@@ -1,0 +1,53 @@
+<?php
+    class SiteUtil {
+
+        private static $weekDays = array('Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado');
+        private static $months = array('Janeiro','Fevereiro','Março','Abril','Maio','Junho','Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro');
+
+        public static function noFlash(){  
+            return '<div class="noFlash">
+            Para visualizar este conteúdo é necessário instalar o Adobe Flash Player 10. Clique no link abaixo para fazer o download do plugin.<br /><br />
+            <a href="http://get.adobe.com/br/flashplayer/" target="_blank"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png"></a>
+            </div>';  
+        }
+
+        public static function combo($nameId,$arrData,$label='Nenhum',$w=100,$selected=null,$extraHtml='', $class=''){
+            $str = '<select id="'.$nameId.'" style="width:'.($w+10).'px;" name="'.$nameId.'" class="right '.$class.' " '.$extraHtml.'>'.PHP_EOL;
+
+            $selectedValue = '';      
+
+            $options = array();
+            $options[] = '<option value="">'.$label.'</option>';
+            foreach($arrData as $k=>$v){
+                if ($k == $selected)    
+                    $selectedValue = $v; 
+
+                $options[] = '<option '.($k==$selected?'selected="selected"':'').' value="'.$k.'">'.$v.'</option>';
+            }                            
+
+            if ($selectedValue) {
+                $label = $selectedValue;
+            }
+            $str .= join(PHP_EOL, $options);                
+            $str .= '</select>'.PHP_EOL;           
+            $str .= '<div class="comboc right">'.PHP_EOL;                          
+            $str .= '   <div class="label left">'.$label.'</div>'.PHP_EOL;           
+            $str .= '   <div class="btncombo bgcolor1 right"></div>'.PHP_EOL;           
+            $str .= '</div>'.PHP_EOL;                                                   
+
+            return '<div class="combo" style="width:'.$w.'px;">'.$str.'</div>';  
+        }  
+
+        public static function getMonthName($i){      
+            return self::$months[$i];
+        }                          
+        public static function getWeekDayName($weekDay){      
+            return self::$weekDays[$weekDay];
+        }
+
+    }
+             
+    function toLang($str){
+        return str_replace('_@','_'.App::$currentLang['alias'],$str);
+    }
+?>

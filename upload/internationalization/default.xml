@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+    <menu>
+        <compre><![CDATA[Home]]></compre>                            
+        <linhas><![CDATA[Linhas, Preços e Horários]]></linhas>                            
+        <quemsomos><![CDATA[Quem Somos]]></quemsomos>                            
+        <noticias><![CDATA[Notícias]]></noticias>                            
+        <contato><![CDATA[Contato]]></contato>                            
+        <lang_eng><![CDATA[ENG]]></lang_eng>                            
+        <lang_esp><![CDATA[ESP]]></lang_esp>                            
+        <lang_pt><![CDATA[BR]]></lang_pt>                            
+        <footer><![CDATA[(11) 2445-2430 - 2ª a 6ª das 8hs às 18h (exceto feriados)]]></footer>                            
+    </menu>
+    
+    <venda>
+           <title><![CDATA[Pontos de Venda]]></title>            
+           <subtitle type="TextArea.fw"><![CDATA[Confira a listagem das lojas Airport Bus Service e visite-nos para comprar sua passagem.]]></subtitle>            
+           <maps><![CDATA[ver no mapa]]></maps>            
+    </venda>
+    
+    <linhas_find>
+        <title><![CDATA[Encontre a linha mais próxima]]></title>
+        <label><![CDATA[De qual cidade você vai partir?]]></label>                      
+        <city1><![CDATA[São Paulo]]></city1>
+        <city2><![CDATA[Guarulhos]]></city2>
+        <label_find><![CDATA[De qual local você deseja partir?]]></label_find>
+        <label_find2><![CDATA[Para qual local você vai em São Paulo?]]></label_find2>
+        <prompt_find><![CDATA[Digite o endereço e aguarde as opções sugeridas.]]></prompt_find>
+        <desc_find><![CDATA[Abaixo listamos a(s) linha(s) mais próxima(s) de você:]]></desc_find>
+        <dist><![CDATA[Distância aproximada do endereço que você indicou:]]></dist>
+    </linhas_find>
+    
+    <linhas>
+        <desc_maps type="TextArea.fw"><![CDATA[Para visualizar detalhes e horários de uma linha específica, filtre no menu ao lado e clique em <b>"detalhes"</b>.]]></desc_maps>  
+        <desc_find type="TextArea.fw"><![CDATA[Abaixo listamos a(s) linha(s) mais próxima(s) de você:]]></desc_find>
+        <title><![CDATA[Linhas, Preços e Horários]]></title>
+        <view><![CDATA[Visualizar por:]]></view>
+        <ini><![CDATA[Origem]]></ini>
+        <fin><![CDATA[Destino]]></fin>
+        <venda><![CDATA[Pontos de Venda]]></venda>
+        <hour><![CDATA[Horários de Saída]]></hour>
+        <route><![CDATA[Itinerário]]></route>
+        <hotel><![CDATA[Circuito dos Hotéis]]></hotel>
+        <list_hotel><![CDATA[Listagem dos hotéis - possível parada do ônibus]]></list_hotel>
+        <maps><![CDATA[Mapa]]></maps>          
+        <address><![CDATA[Endereço]]></address>
+        <city><![CDATA[Município]]></city>
+        <ticket><![CDATA[Passagem]]></ticket>
+        <buy><![CDATA[Compre de forma Online]]></buy>
+        <list><![CDATA[Lista]]></list>
+        <pass><![CDATA[Passagem]]></pass>
+        <time><![CDATA[Tempo de Percurso]]></time>
+        <desc type="TextArea.fw"><![CDATA[Os horários informados são referentes ao ponto inicial e estão sujeitos a mudanças em função de fatores externos (trânsito,
+acidentes, manifestações, obras, enchentes, entre outros).As linhas circulares têm o mesmo ponto inicial e final, portanto
+os horários informados são do ponto inicial.
+
+Esses horários estão sujeitos a alterações sem prévio aviso caso aconteçam mudanças operacionais nas linhas.]]></desc>
+    </linhas>
+    <contato>
+        <success>
+            <title><![CDATA[Mensagem enviada com sucesso!]]></title>
+            <desc><![CDATA[Aguarde nosso Contato.]]></desc>
+        </success>
+        <form>
+            <select><![CDATA[Selecione um assunto]]></select>
+            <name><![CDATA[Nome]]></name>
+            <email><![CDATA[E-mail]]></email>
+            <phone><![CDATA[Fone]]></phone>
+            <subject><![CDATA[Assunto]]></subject>
+            <comments><![CDATA[Comentários]]></comments>
+        </form>
+        <submit><![CDATA[Enviar]]></submit>
+        <title><![CDATA[Contato]]></title>
+        <desc type="TextArea.fw"><![CDATA[Confira os nossos principais canais de contato e se preferir preencha o formulário e mande-nos uma mensagem]]></desc>
+        <info type="WordCompactCRUD.fw" height="80px"><![CDATA[<strong>D&uacute;vidas e Sugest&otilde;es:</strong><br />
+(11) 2445-2430<br />
+2&ordf; a 6&ordf; das 8hs &agrave;s 18h ( exceto feriados )<br />
+<br />
+<strong>Envio de Curr&iacute;culo:</strong><br />
+Para envio de curr&iacute;culo, entre em contato atrav&eacute;s do site do Grupo Serveng, <strong><a href="http://www.serveng.com.br/trabalhe-conosco">clicando aqui</a></strong>.<br />
+]]></info>
+    </contato>
+    
+    <noticias>
+        <title><![CDATA[Notícias]]></title>
+        <desc><![CDATA[Confira os principais acontecimentos do setor de transporte urbano ]]></desc>
+        <page><![CDATA[Página: 1]]></page>
+        <notresult><![CDATA[Não há noticias cadastradas no momento]]></notresult>
+    </noticias>
+    
+    <home>
+        <compre><![CDATA[Compre sua passagem Online]]></compre>
+        <noticias>
+            <title><![CDATA[Notícias]]></title>
+            <desc type="TextArea.fw"><![CDATA[Seja a trabalho ou a passeio, a Airport Bus Service faz do traslado uma experiência única.]]></desc>
+        </noticias>
+    </home>
+   
+   <quemsomos>
+        <title><![CDATA[Quem somos]]></title>
+        <subtitle><![CDATA[Em São Paulo, serviço de 1ª classe com custo de classe econômica]]></subtitle>
+        <desc type="TextArea.fw"><![CDATA[O Airport Bus Service,  há mais de 20 anos liga o Aeroporto de Guarulhos há  pontos estratégicos de São Paulo, sendo eles:  Aeroporto de Congonhas, Terminais Rodoviários da Barra Funda e do Tietê,  Av. Luiz Carlos Berrini, Itaim Bibi, Av. Paulista, incluindo o circuito de Hoteis e Praça da República. 
+Com uma frota de ônibus novos e modernos, vários horários e itinerários, o Airport Bus Service oferece aos seus passageiros conforto, segurança e flexibilidade, sendo a melhor opção de transporte e acesso aos aeroportos.
+Conheça nossos itinerários, horários, serviços e pontos de venda e faça uma viagem tranquila com o Airport Bus Service. 
+]]></desc>
+        <serveng_title><![CDATA[Grupo Serveng]]></serveng_title>
+        <serveng_desc type="TextArea.fw"><![CDATA[Fundado em 1954, o Grupo Serveng atua em todo o território nacional nos setores de Engenharia e Construção, Desenvolvimento Imobiliário, Mineração, Transporte de Passageiros, Energia e Concessões de Serviços Públicos, sendo um dos principais grupos privados no mercado de infraestrutura do Brasil.
+
+A busca incessantemente da excelência, da tecnologia como diferencial, flexibilidade para adaptar-se às constantes mudanças nos ambientes de negócios e, sobretudo sua solidez, têm sido a base do crescimento do Grupo Serveng, que cumpre sua missão valorizando parcerias estratégicas, o compromisso com as comunidades em que atua, o respeito ao meio ambiente, a expansão qualificada dos negócios, o relacionamento com seus clientes e o desenvolvimento de seus profissionais.
+
+“Nossa missão é contribuir para o desenvolvimento sustentado do país, viabilizando soluções de empreendimentos e serviços em infraestrutura.”]]></serveng_desc>
+        <serveng_link><![CDATA[Conheça o grupo ››]]></serveng_link>
+   </quemsomos>       
+
+</data>

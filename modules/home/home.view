@@ -1,0 +1,244 @@
+<div class="home auto"> 
+    <script>
+        var s;
+    
+        $(function() { 
+            var resetTimer = false; 
+            
+            s = $(".home .slider").Slider("", ""); 
+
+            s.bind("change", function() { 
+                var currentPage = s.currentPage();
+                $(".home .btn").removeClass("selected"); 
+                $(".home .btn[_page="+currentPage+"]").addClass("selected"); 
+            });            
+
+            $(".btn").click(function() { 
+                var target = $(this).attr("_target");
+                s.goPage($(this).attr("_page"));      
+            });        
+            
+            $(".home .slider").mousemove(function() { 
+                resetTimer = true; 
+            });
+            
+            setInterval(function() { 
+                if (resetTimer) { 
+                    resetTimer = false; 
+                    return;
+                }
+                
+                s.nextPage(); 
+            },4000);              
+        })
+    </script>
+    <div>
+<!--        <div class="boxcompre_<?=App::$currentLang['alias']?> left"> -->
+        <div class="boxcompreOLD left">
+            <div class="ml30 size18 white embedEticaReg"><?=App::translate("home/compre")?></div>
+    <form>
+        <div class="mbp_netviagem">
+            <nav id="BE-Iframe">
+                <div class="vertical">
+                    <div id="form-parceiros" class="clearfix mbp_hotpage">
+                        <div class="left">
+                            <fieldset>
+                                <label>Origem:</label>
+                                <input class="g busca" id="origem" maxlength="" name="" placeholder="Digite aqui a origem" type="text" tabindex="1" value="" />
+                                <input id="hiddNrEmpresa" type="hidden" value="181" />
+                                <input id="cdOrigem" type="hidden" value="" />
+                            </fieldset>
+                            <fieldset>
+                                <label>Destino:</label>
+                                <input class="g busca" id="destino" maxlength="" name="" placeholder="Digite aqui o destino" type="text" tabindex="2" value="" />
+                                <input id="cdDestino" type="hidden" value="" />
+                            </fieldset>
+                        </div>
+                        <div class="right">
+                            <fieldset style="float: left; width: 48%;">
+                                <label>Data de ida:</label>
+                                <input class="p data" id="data-ida" maxlength="" name="" placeholder="Data de ida" type="text" tabindex="3" value="" />
+                            </fieldset>
+                            <fieldset style="float: left; width: 48%;">
+                                <label>Data de volta:</label>
+                                <input class="p data" id="data-volta" maxlength="" name="" placeholder="Opcional" type="text" tabindex="4" value="" />
+                            </fieldset>
+                            <fieldset class="inp-btn">
+                                <div class="btn">
+                                    <input type="button" id="btnPesquisar" value="PESQUISAR" tabindex="5" />
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </form>
+
+            <!--<div class="ml30 size18 white embedEticaReg"><?=App::translate("home/compre")?></div>-->
+<!--            
+	    <iframe class="ml30 mt20" src="http://www.netviagem.com.br/default_frame.aspx?empresa=181&layout=2&txtclr=FFFFFF&janela=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="261px" height="210px"></iframe> 
+-->
+        </div>
+        <div class="banner left ml30">
+            <div class="slider">              
+                <div class="container left">
+                    <?
+                        $imgs = DBUtil::select(toLang("select id, image_@, link_@, target_@ from banner order by banner.order ASC"));
+                        $page = 0;
+
+                        while ( list($id, $image, $link, $target) = $imgs->next()) { 
+                            $image = App::url('images', 'resize', 'site/upload/banner/'.App::$currentLang['alias'].'/'.$image, 660, 400, false);
+                        ?>
+                        <div class="content content<?=$page?>">       
+                            <?if ($link) { ?><a href="<?=$link?>" target="<?=$target?>"><?}?>
+                            <div class="image" _image="<?=$image?>"></div>
+                            <?if ($link) { ?></a><?}?>
+                        </div>
+                        <?$page+=1;}?>                                                          
+                </div>   
+                <div class="control left">
+                    <?
+                        $imgs = $imgs->getValues();
+                        foreach ($imgs as $k=>$v) {?>  
+                        <div class="btn pointer hover <?=$k == 0 ? 'selected' : ''?>" _page="<?=$k?>"></div> 
+                        <?}?>                                          
+                </div>                                          
+            </div> 
+        </div> 
+        <div class="clear"></div>
+    </div>
+    <div class="mt30">
+        <a class="hover ponto_<?=App::$currentLang['alias']?> left" href="<?=App::lurl("linhas/vendas")?>"></a>
+        <a class="hover linhas_<?=App::$currentLang['alias']?> ml30 left" href="<?=App::lurl("linhas/busca")?>"></a>
+        <a class="hover horarios_<?=App::$currentLang['alias']?> ml30 left" href="<?=App::lurl("linhas")?>"></a>
+        <div class="clear"></div>
+    </div>
+    <div class="mt30">
+        <!--                                                                                  
+        <div class="size18 gray embedEticaReg"><?=App::translate("home/noticias/desc")?></div>
+        <div class="mt20">
+            <?
+                $rs = DBUtil::select( toLang("select id, title_@, desc_@, image_@, link_@, target_@ from hot where hot.fl_enabled = 1 order by hot.order asc"));
+                $pos=0;
+                while ( list($id, $title, $desc, $image, $link, $target) = $rs->next()) {
+                    if (!$title)
+                        continue; 
+                        
+                    $pos+=1;
+
+                    if ($image) { 
+                        $image = App::url('images/resize/site/upload/hot/'.App::$currentLang['alias'].'/'.$image, 315, 182, false);
+                    ?>
+                         <a <?=$link ? 'href="'.$link.'"' : ''?> target="<?=$target?>" title="<?=$title?>" class="boximage left <?=($pos%3==0) ? 'mr0' : ''?>"><div class="image" style="background-image:url('<?=$image?>')"></div></a>
+                    <?
+                    } else {     
+                    ?>
+                    <div class="box left <?=($pos%3==0) ? 'mr0' : ''?>">
+                        <a <?=$link ? 'href="'.$link.'"' : ''?> target="<?=$target?>" title="<?=$title?>"><div class="title size18 grayDark"><?=$title?></div></a>
+                        <a <?=$link ? 'href="'.$link.'"' : ''?> target="<?=$target?>" title="<?=$title?>"><div class="text size12 grayDark"><?=StringUtil::resume($desc, 150)?></div></a>
+                    </div>    
+                    <?  
+                    }
+            }?>
+            <div class="clear"></div>
+        </div>
+    -->
+	<div id="banner-full" class="mt30">
+		<!--<img src="site/images/home/banner-full.jpg" alt="">-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbMbTWx7R6Q" frameborder="0" allowfullscreen></iframe>
+    
+    <br>
+    <br>
+    <br>
+
+    <img src="site/images/home/banner-promo.jpg" alt="">
+	</div>
+	<section id="promocoes" class="mt30 infos">
+        <div class="promocao">
+            <h4 class="titulo">Promoção “VOLTA COM DESCONTO“</h4>
+            <p>
+            * A promoção VOLTA COM DESCONTO é válida para os clientes que comprarem as passagens de ida e volta, recebendo desconto de 50% somente na passagem de volta. Ou seja, a passagem de ida custará R$ 48,80 e a passagem de volta custará R$ 24,40. <br>Esta promoção é válida apenas para compras nos guichês de nossas lojas físicas até o dia 31/12/2017.Os bilhetes comprados até esta data poderão ser utilizados pelo período de até 6 meses após o término da promoção.
+            </p>
+        </div>
+        <!--
+		<div class="promocao">
+			<h4 class="titulo">Promoção “Pague menos e viaje melhor“</h4>
+			<p>
+				* A promoção PAGUE MENOS E VIAJE MELHOR é válida até 31/01/2017. Os bilhetes comprados até esta data poderão ser utilizados pelo período de até 6 meses após o término da promoção.<br /> 
+				A promoção com 12% de desconto, referente à compra das passagens de ida e volta, é válida somente se o mesmo usuário comprar os dois trechos.
+			</p>
+		</div>
+
+		<div class="promocao mt40">
+			<h4 class="titulo">Promoção “Viagem combo Capitão“</h4>
+			<p>
+				* A promoção VIAGEM COMBO CAPITÃO é válida para um grupo de, no mínimo, três pessoas, sendo que os dois primeiros bilhetes terão valor integral do bilhete. <br />
+				A partir da terceira pessoa, o valor do bilhete para o terceiro passageiro fica com preço promocional com 45% desconto. <br />
+				Esta promoção é válida até 31/01/2017. Os bilhetes comprados até esta data poderão ser utilizados pelo período de até 6 meses após o término da promoção.
+			</p>
+		</div>
+        -->
+	</section> 
+
+	<section id="informacoes" class="infos">
+		<div class="informacao">
+			<h4 class="titulo">Transporte de animais</h4>
+				<h5 class="subtitulo">
+					* Seu animalzinho de estimação é bem-vindo em nossos ônibus. <br>
+					No entanto, existem algumas regras para seu transporte:
+				</h5>
+			<p>
+				1 – Serão transportados apenas cães e gatos. <br>
+				2 – Por questões de espaço e conforto, são aceitos animais de até médio porte. <br>
+				3 – Apenas serão aceitos os animais que estiverem em CAIXAS DE TRANSPORTE com tamanho máximo <br>
+				de 41x36x33 cm (CxLxA).
+			</p>
+		</div>
+
+		<div class="informacao mt40">
+			<h4 class="titulo">Mais informações:</h4>
+			<h5 class="subtitulo">Entre em contato por nossos canais de comunicação ou procure um de nossos funcionários nos guichês de atendimento.</h5>
+		</div>
+
+	</section>
+	
+    </div>
+</div>
+
+<!-- SCRIPTS -->
+<!-- Codigo do Google para tag de remarketing -->
+
+<!--------------------------------------------------
+
+As tags de remarketing nсo podem ser associadas a informaушes pessoais de identificaусo nem inseridas em pрginas relacionadas a categorias de confidencialidade. Veja mais informaушes e instruушes sobre como configurar a tag em: http://google.com/ads/remarketingsetup
+
+--------------------------------------------------->
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 867813224;
+
+var google_custom_params = window.google_tag_params;
+
+var google_remarketing_only = true;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/867813224/?guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>

@@ -1,0 +1,74 @@
+.home .boximage { margin-right: 30px; margin-bottom:30px; overflow: hidden;  }
+.home .boximage .image { width:315px; height:182px; }
+
+.home .box { border:5px solid #DCDCDC; margin-right: 30px; margin-bottom:30px; background-color:#E8E8E8; padding:25px; width:255px; height:122px; overflow: hidden; }
+.home .box .title { width:245px; }
+.home .box .text { margin-top:20px; width:245px; }
+
+.home .hot { width:315px; height:182px; background-repeat: no-repeat;}
+
+.home .boxcompreOLD { background-image:url("../../images/home/box.jpg"); background-repeat:no-repeat; width:315px; height:291px; padding-top:10px; }
+.home .boxcompre_br { background-image:url("../../images/home/boxbuy.jpg"); background-repeat:no-repeat; width:315px; height:291px; padding-top:10px; }
+.home .boxcompre_es { background-image:url("../../images/home/boxbuy_es.jpg"); background-repeat:no-repeat; width:315px; height:291px; padding-top:10px; }
+.home .boxcompre_en { background-image:url("../../images/home/boxbuy_en.jpg"); background-repeat:no-repeat; width:315px; height:291px; padding-top:10px; }
+                                                                                                                                           
+.home .horarios_br { background-image:url("../../images/home/horarios_br.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .linhas_br { background-image:url("../../images/home/linhas_br.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .ponto_br { background-image:url("../../images/home/ponto_br.jpg"); background-repeat:no-repeat; width:315px; height:141px; } 
+
+.home .horarios_es { background-image:url("../../images/home/horarios_es.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .linhas_es { background-image:url("../../images/home/linhas_es.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .ponto_es { background-image:url("../../images/home/ponto_es.jpg"); background-repeat:no-repeat; width:315px; height:141px; } 
+
+.home .horarios_en { background-image:url("../../images/home/horarios_en.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .linhas_en { background-image:url("../../images/home/linhas_en.jpg"); background-repeat:no-repeat; width:315px; height:141px; }
+.home .ponto_en { background-image:url("../../images/home/ponto_en.jpg"); background-repeat:no-repeat; width:315px; height:141px; } 
+                                                                                        
+.home .slider { overflow: hidden; width:660px; height:300px; z-index: 1;  }
+.home .slider .control { position: relative; z-index:10; margin-left:629px; margin-top:-200px; }
+.home .slider .content { float:left; }
+.home .slider .content .image { width:660px; height:300px; }
+.home .slider .container { overflow:hidden; width:15000px; }
+
+.home .btn { background-image:url("../../images/home/btn.png"); background-repeat:no-repeat; width:31px; height:31px; }
+.home .btn.selected { background-position: bottom !important; }    
+
+
+.mt30 {
+	margin-top: 30px;
+}
+
+.mt40 {
+	margin-top: 40px;
+}
+
+#banner-full {
+	text-align: center;
+}
+
+#banner-full img {
+	max-width: 100%;
+}
+
+.home .infos {
+	padding: 10px 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+}
+
+.infos .titulo {
+	font-size: 17px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.infos p {
+	font-size: 11px;
+
+}
+
+.infos .subtitulo {
+	font-size: 13px;
+	text-transform: uppercase;
+} 

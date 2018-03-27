@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+    <menu>
+        <compre><![CDATA[HOME]]></compre>                            
+        <linhas><![CDATA[LÍNEAS Y HORARIOS]]></linhas>                            
+        <quemsomos><![CDATA[QUIEN SOMOS]]></quemsomos>                            
+        <noticias><![CDATA[NOTICIAS]]></noticias>                            
+        <contato><![CDATA[CONTACTO]]></contato>                            
+        <lang_eng><![CDATA[ENG]]></lang_eng>                            
+        <lang_esp><![CDATA[ESP]]></lang_esp>                            
+        <lang_pt><![CDATA[BR]]></lang_pt>         
+        <footer><![CDATA[2445-2430 - 2ª a 6ª de las 8h a las 18h]]></footer>                      
+    </menu>
+
+    <venda>
+        <title><![CDATA[Puntos de Venta]]></title>            
+        <subtitle type="TextArea.fw"><![CDATA[Echa un vistazo a la lista de tiendas a visitarnos y comprar su boleto.]]></subtitle>            
+        <maps><![CDATA[ver mapa]]></maps>            
+    </venda>
+
+    <linhas_find>
+        <title><![CDATA[Encuentre la línea más cercana]]></title>
+        <label><![CDATA[¿Qué ciudad te dejará?]]></label>                            
+        <city1><![CDATA[São Paulo]]></city1>
+        <city2><![CDATA[Garulhos]]></city2>
+        <label_find><![CDATA[¿Qué lugar quieres ir?]]></label_find>
+        <label_find2><![CDATA[¿A lo que se le ponga en São Paulo?]]></label_find2>
+        <prompt_find><![CDATA[Introduzca la dirección y esperar a que las opciones sugeridas.]]></prompt_find>
+        <desc_find><![CDATA[A continuación listamos la línea (s) (s) más cercano (s) que:]]></desc_find>
+        <dist><![CDATA[La distancia aproximada de la dirección que se indica:]]></dist>
+    </linhas_find>
+
+    <linhas>
+        <desc_maps type="TextArea.fw"><![CDATA[Para visualizar detalles y horarios de una línea específica, filtre en el menú al lado y haga clic en <b>"detalles"</b>.]]></desc_maps>  
+        <desc_find type="TextArea.fw"><![CDATA[Listamos la línea (s) (s) más cercano (s) que:]]></desc_find>
+        <title><![CDATA[Líneas y Horarios]]></title>
+        <view><![CDATA[Visualizar por:]]></view>
+        <ini><![CDATA[Origen]]></ini>
+        <fin><![CDATA[Destino]]></fin>
+        <venda><![CDATA[Puntos de Venta]]></venda>
+        <hour><![CDATA[Horários de Saída]]></hour>     
+        <route><![CDATA[Itinerario]]></route>             
+        <hotel><![CDATA[Circuito de los Hoteles]]></hotel>
+        <list_hotel><![CDATA[Listado de hoteles - parada de autobús posible]]></list_hotel>
+        <maps><![CDATA[Mapa]]></maps>          
+        <address><![CDATA[Endereço]]></address>
+        <city><![CDATA[Municipio]]></city>
+        <ticket><![CDATA[Passagem]]></ticket>
+        <buy><![CDATA[Compre de forma Online]]></buy>
+        <list><![CDATA[Lista]]></list>
+        <pass><![CDATA[Passagem]]></pass>
+        <time><![CDATA[Tiempo de Recorrido ]]></time>
+        <desc type="TextArea.fw"><![CDATA[Obs.: Los horarios informados son referentes al punto inicial y están sujetos a cambios debido a factores externos (tránsito, accidentes, manifestaciones, obras, inundaciones, entre otros) lo que podrá impactar, también, en el tiempo de recorrido. Las líneas circulares tienen el mismo punto inicial y final, por lo tanto, los horarios informados son del punto inicial. Esos horarios están sujetos a alteraciones sin previo aviso caso ocurran cambios operacionales en las líneas. Con excepción de los itinerarios que poseen el Circuito de los Hoteles, en otros el Airport Bus Service para solamente en el embarque y desembarque.]]></desc>
+    </linhas>
+    <contato>
+        <success>
+            <title><![CDATA[Mensaje enviado con éxito!]]></title>
+            <desc><![CDATA[Aguarde nosso Contato.]]></desc>
+        </success>
+        <form>
+            <select><![CDATA[Seleccione un asunto]]></select>
+            <name><![CDATA[Nombre]]></name>
+            <email><![CDATA[Correo electrónico]]></email>
+            <phone><![CDATA[Teléfono]]></phone>
+            <subject><![CDATA[Asunto]]></subject>
+            <comments><![CDATA[Comentarios]]></comments>
+        </form>
+        <submit><![CDATA[Enviar]]></submit>
+        <title><![CDATA[Contacto]]></title>
+        <desc type="TextArea.fw"><![CDATA[Confiera nuestros principales canales de contacto y si prefiere rellene el formulario y envíenos un  mensaje.]]></desc>
+        <info type="WordCompactCRUD.fw" height="80px"><![CDATA[<strong>Dudas y Sugerencias:</strong><br />
+(11) 2445-2430<br />
+2&ordf; a 6&ordf; de las 8hs a las 18h]]></info>
+    </contato>
+    <noticias>
+        <title><![CDATA[Noticias]]></title>
+        <desc><![CDATA[Confiera los principales acontecimientos del sector de transporte urbano ]]></desc>
+        <page><![CDATA[Página: 1]]></page>
+        <notresult><![CDATA[No hay noticias en este momento]]></notresult>
+    </noticias>
+
+    <home>
+        <compre><![CDATA[Venta en línea de billetes.]]></compre>
+        <noticias>
+            <title><![CDATA[Noticias]]></title>
+            <desc type="TextArea.fw"><![CDATA[Sea por trabajo o de paseo, Airport Bus Service hace del traslado una experiencia única.]]></desc>
+        </noticias>
+    </home>
+
+    <quemsomos>
+        <title><![CDATA[Quien somos]]></title>
+        <subtitle><![CDATA[En São Paulo, servicio de 1ª clase con costo de clase económica]]></subtitle>
+        <desc type="TextArea.fw"><![CDATA[El Airport Bus Service, hace más de 20 años conecta el Aeropuerto de Guarulhos hay puntos estratégicos de São Paulo, siendo ellos: Aeropuerto de Congonhas, Terminales de Autobuses de Barra Funda y del Tietê, Av. Luiz Carlos Berrini, Itaim Bibi, Av. Paulista, incluyendo el circuito de Hoteles y Praça da República. Con una flota de ómnibus nuevos y modernos, varios horarios e itinerarios, el Airport Bus Service ofrece a sus pasajeros confort, seguridad y flexibilidad, siendo la mejor opción de transporte y acceso a los aeropuertos. Conozca nuestros itinerarios, horarios, servicios y puntos de venta y haga un viaje tranquilo con el Airport Bus Service. ]]></desc>
+        <serveng_title><![CDATA[Grupo Serveng]]></serveng_title>
+        <serveng_desc type="TextArea.fw"><![CDATA[Fundado en 1954, el Grupo Serveng actúa en todo el territorio nacional en los sectores de Ingeniería y Construcción, Desarrollo Inmobiliario, Minería, Transporte de Pasajeros, Energía y Concesiones de Servicios Públicos, siendo uno de los principales grupos privados en el mercado de infraestructura de Brasil.
+
+La búsqueda incesantemente de la excelencia, de la tecnología como diferencial, flexibilidad para adaptarse a los constantes cambios en los ambientes de negocios y, sobre todo su solidez, tiene sido la base del crecimiento del Grupo Serveng, que cumple su misión valorizando colaboraciones estratégicas, el compromiso con las comunidades en el que actúa, el respeto al medio ambiente, la expansión calificada de los negocios, la relación con sus clientes y el desarrollo de sus profesionales. “Nuestra misión es contribuir al desarrollo sostenido del país, haciendo viables soluciones de emprendimientos y servicios en infraestructura.”]]></serveng_desc>
+        <serveng_link><![CDATA[Conozca el grupo ››]]></serveng_link>
+    </quemsomos>       
+
+</data>

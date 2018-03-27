@@ -1,0 +1,73 @@
+<?                                         
+    class ContatoDocument extends Document{
+
+        public function __construct(){
+            parent::__construct();        
+            $this->defaultAction = 'home';       
+            
+            App::getInstance()->addCSS("site/modules/contato/contato.css");    
+            
+            App::getInstance()->addJS(getRelativePath("jquery.metadata.js"));       
+            App::getInstance()->addJS(getRelativePath("jquery.mask.js"));       
+            App::getInstance()->addJS(getRelativePath("auxteam.validation.js"));                                            
+        }                     
+
+        public function home(){
+            global $middle;  
+
+            App::getInstance()->setTitle("Airport - Contato");
+
+            $c = new Controller(new FileView("modules/contato/contato.view"));                                        
+
+            $middle->addChild($c ,'TARGET');        
+        }
+
+        public function save() { 
+            $success = false; 
+
+            $idContact = null; 
+
+            if (!App::$post->isEmpty()) { 
+                $rs = DBUtil::insert("contact", array("name", "comments", "email", "ref_subject", "phone", "dt_created"), array(@App::$post->name, @App::$post->comments, @App::$post->email, @App::$post->ref_subject, @App::$post->phone, date('U')));
+
+                if ($rs->isSuccess()) { 
+                    $success = true; 
+                    $idContact = $rs->getLastId();
+                }
+
+                $e = new Controller(new FileView('email/contact.view'));
+                foreach(App::$post->toArray() as $k=>$v){
+                    $e->getView()->{$k}= $v;
+                }  
+
+                $headers = "MIME-Version: 1.1\n";
+                $headers .= "Content-type: text/html; charset=utf-8\n";
+                $headers .= "Return-Path: ".App::$post->email."\n"; // return-path
+                $headers .= "Reply-To: ".App::$post->email."\n"; // return-path
+                $headers .= "From: ".App::getSystemVars("email_from")."\n"; // return-path            
+
+                list($to,$subject) = DBUtil::selectRowSQL("select email, name from contact_subject where id = ?",array(@App::$post->ref_subject));
+                if($to==null) {
+                    list($to,$subject) = DBUtil::selectRowSQL("select email, name from contact_subject limit 1");
+                }
+                $e->getView()->subject = $subject;
+
+                $to = str_replace(',',';',$to);
+                $to = explode(';',$to);
+                for($i=1;$i<count($to);$i++){  
+                    $headers .= "Cc: ".($to[$i])."\n";
+                }
+
+              //  $to[0] = 'omegatiger@gmail.com';
+                $envio = @mail($to[0], '[Airport] '.App::$post->name, $e.'' , $headers, '-r'.App::getSystemVars("email_from"));
+                                
+                $success = $envio;  
+            }
+                                     
+            ob_clean();
+            echo json_encode(array("success"=>$success));
+            die();
+        }
+           
+    }                 
+?>

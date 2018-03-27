@@ -1,0 +1,21 @@
+<div class="vendas auto">        
+    <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("venda/title")?></div>
+    <div class="embedEticaLight size18 gray3"><?=App::translate("venda/subtitle")?></div>
+    <div class="mt20 content">
+        <?
+            $rs = DBUtil::select("select id, title, `desc`, link from store order by rand()");
+
+            $rs = $rs->getValues();
+            foreach ($rs as $k=>$v) { 
+            ?>
+            <div class="itemPin left">
+                <div class="title bold embedEticaReg size15"><?=$v['title']?></div>
+                <div class="address gray2 size13 embedTahoma"><?=$v['desc']?></div>
+                <a class="link left blue bold size11 embedTahoma" title="<?=$v['title']?>" href="<?=$v['link']?>" target="_blank"><?=App::translate("venda/maps")?></a>
+            </div>
+            <?                    
+            }
+        ?> 
+        <div class="clear"></div>    
+    </div>                       
+</div>

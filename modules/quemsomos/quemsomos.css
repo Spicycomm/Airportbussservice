@@ -1,0 +1,21 @@
+.quemsomos { }
+.quemsomos .title { }
+.quemsomos .subtitle { margin-top:5px; }
+.quemsomos .desc { margin-top:15px; }
+.quemsomos .box { height:615px; width:950px; margin-top:50px; border:5px solid #e1e1e1; background-color: #F4F4F4; }
+
+                                                                                        
+.quemsomos .slider { overflow: hidden; height:615px; width:950px; z-index: 1; position: absolute; }                                
+.quemsomos .slider .container { overflow:hidden; width:15000px; }
+.quemsomos .slider .content { float:left; height:615px; width:950px; }
+.quemsomos .slider .contentPad { padding-left:90px; padding-top:20px; }
+.quemsomos .slider .content .titles { width:765px; text-align: center;}
+.quemsomos .slider .content .image { width:765px; height:460px; border:5px solid #C9C9C9; margin-top:20px; }
+.quemsomos .slider .content .descs { margin-top:20px;  width:765px;  }
+
+.quemsomos .arrowleft { z-index:10; position:absolute; left:20px; top:50%; margin-top:-18px; background-image:url("../../images/quemsomos/arrow.png"); background-repeat:no-repeat; width:23px; height:37px; background-position:left bottom;  }
+.quemsomos .arrowright { z-index:10;  position:absolute; right:20px; top:50%; margin-top:-18px; background-image:url("../../images/quemsomos/arrow.png"); background-repeat:no-repeat; width:23px; height:37px; background-position:left top;}
+
+.quemsomos .serveng { background-image:url("../../images/quemsomos/serveng.png"); background-repeat:no-repeat; width:178px; height:140px; } 
+.quemsomos .serv .content { width:800px; margin-left:20px; }    
+                                    

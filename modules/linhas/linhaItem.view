@@ -1,0 +1,29 @@
+<div class="btnRoute" _src="<?=App::$currentLang['alias']?>/linhas/detalhe/<?=$v['id']?>">
+    <div class="btn left bold">     
+        <div class="text1 size13 embedTahoma left"><?=$this->v[toLang('name_ini_@')]?></div>
+        <div class="text2 size13 embedTahoma left"><?=$this->v[toLang('name_fin_@')]?></div>
+    </div>
+    <div class="btnarrow left"></div>
+    <div class="clear"></div>
+    <div class="distance bold size11 embedTahoma">
+        <?
+            $parse = json_decode($v['gmaps'], true);
+            foreach ($parse as $k=>$v) { 
+                $start = $v['start'];
+                $end = $v['end'];                  
+
+                //if ($this->city == 'ini') { 
+                    $dist= DBUtil::selectValueSQL("select distance(".$start['lat'].", ".$start['lng'].", ".$this->lat.", ".$this->lng.")");
+                //} else { 
+                //    $dist= DBUtil::selectValueSQL("select distance(".$end['lat'].", ".$end['lng'].", ".$this->lat.", ".$this->lng.")");
+                //}
+            ?>                                                                   
+            <div><?=App::translate("linhas_find/dist")?> <?=round($dist).'km'?></div>      
+            <input type="hidden" class="dist" value="<?=$dist?>"/>
+            <?    
+                break; //PEGA APENAS O PONTO DE ORIGEM
+            } 
+        ?>                                                                 
+    </div>
+    <iframe src="" class="contentIframe hidden" frameborder="0" allowtransparency="true"></iframe>
+</div>

@@ -1,0 +1,69 @@
+<div class="linhas auto">    
+    <script>
+        $(function() { 
+            $(".content .btnRoute").click(function() {     
+                if($(this).hasClass("selected"))  {      
+                    $(this).removeClass("selected"); 
+                    $(this).find("iframe").attr("src", "");
+                    return ; 
+                }
+
+                $(".btnRoute").removeClass("selected"); 
+                $(".btnRoute").find("iframe").attr("src", "");
+
+                $(this).addClass("selected");
+                $(this).find("iframe").attr("src", $(this).attr("_src"));
+            }); 
+        }); 
+    </script>
+    <div class="left">
+        <div class="embedEticaSemiBold size25 mt20 black"><?=App::translate("linhas/title")?></div>
+        <div class="mt10">
+            <div class="embedEticaLight size13 viewFor gray3 left"><?=App::translate("linhas/view")?></div>
+            <div class="embedEticaReg check selected ml10 left"><?=App::translate("linhas/list")?></div>
+            <a class="embedEticaReg dblock check ml10 left" href="<?=App::lurl("linhas/mapa")?>"><?=App::translate("linhas/maps")?></a>
+        </div>
+    </div>
+    <div class="right">
+        <a href="<?=App::lurl("linhas/busca")?>" class="dblock mt20 map_<?=App::$currentLang['alias']?>"></a>
+    </div>
+    <div class="clear"></div>
+
+    <div class="btnTop white embedEticaSemiBold size20 left">
+        <div class="bg"><?=App::translate("linhas/ini")?></div>
+        <div class="arrow"></div>            
+    </div>
+    <div class="btnTop btnTop2 ml3 white embedEticaSemiBold size20 left">
+        <div class="bg"><?=App::translate("linhas/fin")?></div>        
+        <div class="arrow"></div>
+    </div>
+
+    <div class="clear"></div>
+
+    <div class="mt20 content">
+        <?
+            $rs = DBUtil::select("select * from route order by route.order asc");
+            $rs = $rs->getValues();
+            foreach ($rs as $k=>$v) {   
+            ?>
+            <div class="btnRoute route<?=$v['id']?> <?=$k % 2 == 1 ? 'bottom' : ''?>" _src="<?=App::$currentLang['alias']?>/linhas/detalhe/<?=$v['id']?>">
+                <div class="btn left bold">
+                    <div class="text1 size13 embedTahoma left"><?=$v[toLang('name_ini_@')]?></div>
+                    <div class="text2 size13 embedTahoma left"><?=$v[toLang('name_fin_@')]?></div>
+                </div>
+                <div class="btnarrow left">
+
+                </div>
+                <div class="clear"></div>
+                <iframe src="" class="contentIframe hidden" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+            <?}?>
+    </div>                                                                              
+</div>                                                                              
+
+
+
+
+
+            
+

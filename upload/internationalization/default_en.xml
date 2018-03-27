@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+    <menu>
+        <compre><![CDATA[HOME]]></compre>                            
+        <linhas><![CDATA[LINES AND SCHEDULES ]]></linhas>                            
+        <quemsomos><![CDATA[ABOUT US]]></quemsomos>                            
+        <noticias><![CDATA[NEWS]]></noticias>                            
+        <contato><![CDATA[CONTACT US]]></contato>                            
+        <lang_eng><![CDATA[ENG]]></lang_eng>                            
+        <lang_esp><![CDATA[ESP]]></lang_esp>                            
+        <lang_pt><![CDATA[BR]]></lang_pt>              
+        <footer><![CDATA[2445-2430 - Monday to Friday, from 8am to 6pm]]></footer>                 
+    </menu>
+
+    <venda>
+        <title><![CDATA[Points of Sale]]></title>            
+        <subtitle type="TextArea.fw"><![CDATA[Check out the list of stores Airport Bus Service and visit us to buy your ticket.]]></subtitle>            
+        <maps><![CDATA[view map]]></maps>            
+    </venda>
+
+    <linhas_find>
+        <title><![CDATA[Find the closest line]]></title>
+        <label><![CDATA[Which city will you leave?]]></label>                      
+        <city1><![CDATA[São Paulo]]></city1>
+        <city2><![CDATA[Garulhos]]></city2>
+        <label_find><![CDATA[Which location do you want to go?]]></label_find>
+        <label_find2><![CDATA[Which place will you go in São Paulo?]]></label_find2>
+        <prompt_find><![CDATA[Enter the address and wait for the options suggested.]]></prompt_find>
+        <desc_find><![CDATA[Below we list the line(s) closest to you:]]></desc_find>
+        <dist><![CDATA[Approximate distance of the address you indicated:]]></dist>
+    </linhas_find>
+
+    <linhas>
+        <desc_maps type="TextArea.fw"><![CDATA[To view details and schedules for a specific line, filter on the side menu and click on <b>"details"</b>.]]></desc_maps>  
+        <desc_find type="TextArea.fw"><![CDATA[Below we list the line(s) closest to you:]]></desc_find>
+        <title><![CDATA[Lines and Schedules]]></title>
+        <view><![CDATA[View as:]]></view>
+        <ini><![CDATA[Origin]]></ini>
+        <fin><![CDATA[Destination]]></fin>
+        <venda><![CDATA[Points of Sale]]></venda>
+        <hour><![CDATA[Hours Output]]></hour> 
+        <route><![CDATA[Route]]></route>           
+        <hotel><![CDATA[Hotels Listing]]></hotel>
+        <list_hotel><![CDATA[Hotels listing – possible bus stop]]></list_hotel>
+        <maps><![CDATA[Map]]></maps>          
+        <address><![CDATA[Address]]></address>
+        <city><![CDATA[City]]></city>
+        <ticket><![CDATA[Passagem]]></ticket>
+        <buy><![CDATA[Compre de forma Online]]></buy>
+        <list><![CDATA[List]]></list>
+        <pass><![CDATA[Passagem]]></pass>
+        <time><![CDATA[Route Time ]]></time>
+        <desc type="TextArea.fw"><![CDATA[Obs.: The informed schedules refer to the initial stop and are subject to changes due to external factors (traffic jam, accidents, public manifestations, road work, floods, among others) that may affect route time. Shuttle bus lines have the same initial and final stops; therefore, the informed schedules refer to the initial stop. These schedules are subject to alterations without previous acknowledgment in case lines suffer operational changes. Except routes that possess Hotels Circuit, in other routes, Airport Bus Service only stops during boarding and arrivals.]]></desc>
+    </linhas>
+    <contato>
+        <success>
+            <title><![CDATA[Message sent succesfully!]]></title>
+            <desc><![CDATA[Wait our Contact.]]></desc>
+        </success>
+        <form>
+            <select><![CDATA[Select an subject]]></select>
+            <name><![CDATA[Name ]]></name>
+            <email><![CDATA[E-mail address ]]></email>
+            <phone><![CDATA[Phone number ]]></phone>
+            <subject><![CDATA[Subject ]]></subject>
+            <comments><![CDATA[Comments ]]></comments>
+        </form>
+        <submit><![CDATA[Send]]></submit>
+        <title><![CDATA[Contact]]></title>
+        <desc type="TextArea.fw"><![CDATA[Check our main contact channels and, if you prefer, fill the form and send us a message.]]></desc>
+        <info type="WordCompactCRUD.fw" height="80px"><![CDATA[<strong>Questions and Suggestions:</strong><br />
+(11) 2445-2430<br />
+Monday to Friday,<br />
+from 8am to 6pm.]]></info>
+    </contato>
+    <noticias>
+        <title><![CDATA[News]]></title>
+        <desc><![CDATA[Check the main events in the urban transport sector ]]></desc>
+        <page><![CDATA[Page: 1]]></page>
+        <notresult><![CDATA[There are no news at this moment.]]></notresult>
+    </noticias>
+
+    <home>
+        <compre><![CDATA[Compre sua passagem Online]]></compre>
+        <noticias>
+            <title><![CDATA[News]]></title>
+            <desc type="TextArea.fw"><![CDATA[Airport Bus Service turns shuttle service into a unique experience whether it is a business or leisure travel.]]></desc>
+        </noticias>
+    </home>
+
+    <quemsomos>
+        <title><![CDATA[About us]]></title>
+        <subtitle><![CDATA[In São Paulo, first class service with the cost of economy class]]></subtitle>
+        <desc type="TextArea.fw"><![CDATA[The Airport Bus Service, for more than 20 years, links Guarulhos Airport to strategic points in Sao Paulo, namely: Congonhas Airport, Bus Terminals of Barra Funda and Tietê, Av Luiz Carlos Berrini, Itaim Bibi, Avenida Paulista, including Hotels and Praça da República. With a new and modern bus fleet, and various schedules and routes, Airport Bus Service offers to its passengers comfort, safety, and flexibility, as the best transportation and airport access option. Check our routes, schedules, services, and points of sale, and have a smooth trip with Airport Bus Service.]]></desc>
+        <serveng_title><![CDATA[Serveng Group]]></serveng_title>
+        <serveng_desc type="TextArea.fw"><![CDATA[Established in 1954, Serveng Group acts throughout all national territory in Engineering and Construction, Real Estate Development, Mining, Passengers Transportation, Public Services Concessions and Energy, as one of the main private groups in Brazilian infrastructure market. Incessantly searching excellency, in technology as a distinguishing factor, flexibility to adapt to constant changes in business environments and mainly its solidness, which has been the growth of Serveng Group base, which accomplishes its mission valuing strategical partnerships, the commitment with the communities in which it acts, respect to the environment, the qualified expansion of the businesses, its relationship with the clients and the development of its professionals.
+
+“Our mission is to contribute to the sustainable development of the country, making enterprise solutions and infrastructure services possible.”]]></serveng_desc>
+        <serveng_link><![CDATA[Meet the group ››]]></serveng_link>
+    </quemsomos>       
+
+</data>

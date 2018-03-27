@@ -1,0 +1,17 @@
+.noticia .ItemNews { border:2px solid #D9D9D9; width:960px; padding:16px; margin-top:10px; background-color: #F2F2F2; float:left; cursor:pointer; }
+.noticia select { width:100px; }
+.noticia .detalhe .Box { border:2px solid #D9D9D9; padding:25px; background-color: #F2F2F2; }
+.noticia .arrowl { background-image:url("../../images/noticias/arrow.png"); padding-left: 8px; background-repeat: no-repeat; margin-top:5px;}
+
+
+         
+.noticia .sliderContent { height:615px; }                                                            
+.noticia .slider { overflow: hidden; height:615px; width:950px; z-index: 1; position: absolute; }                                
+.noticia .slider .container { overflow:hidden; width:15000px; }
+.noticia .slider .content { float:left; height:615px; width:950px; }
+.noticia .slider .contentPad { padding-left:90px; padding-top:20px; }
+.noticia .slider .content .titles { width:765px; text-align: center;}
+.noticia .slider .content .image { width:765px; height:460px; border:5px solid #C9C9C9; margin-top:20px; background-position: center center; background-color: white; }
+.noticia .slider .content .descs { margin-top:20px;  width:765px;  }                       
+.noticia .arrowleft { z-index:10; position:absolute; left:20px; top:50%; margin-top:-18px; background-image:url("../../images/quemsomos/arrow.png"); background-repeat:no-repeat; width:23px; height:37px; background-position:left bottom;  }
+.noticia .arrowright { z-index:10;  position:absolute; right:20px; top:50%; margin-top:-18px; background-image:url("../../images/quemsomos/arrow.png"); background-repeat:no-repeat; width:23px; height:37px; background-position:left top;}

@@ -1,0 +1,45 @@
+﻿html { font-family: sans-serif; }
+body { color: #a0a0a0; font-family: 'Tahoma'; font-size: 10px; }
+
+.mbp_netviagem {color: #a0a0a0; font-family: 'Tahoma'; font-size: 10px; /*line-height: 145%;*/}
+.mbp_netviagem .logo { width: 250px; height: 70px; margin-left: 33px; }
+
+#BE-Iframe { width:285px; height:291px; float:left; }
+
+/* Autocomplete */ 
+.ui-helper-hidden-accessible { display: none !important; }
+.ui-autocomplete { background: #4667b0; max-height: 180px !important; overflow-y: auto; overflow-x: hidden; padding: 0 0; width: 200px; z-index: 100; }
+.ui-autocomplete li { font-size: 12px; }
+.ui-autocomplete li:hover { background-color: #5175c5; }
+.ui-autocomplete li a { color: #fff; display: block; cursor: pointer; padding: 3px 10px; }
+.ui-autocomplete li a:hover { font-weight: normal; }
+
+.ui-tabs-nav, .ui-state-default.ui-state-active, .painel.ui-tabs, .ui-state-default.ui-corner-top { border-radius: 0 !important; }
+
+.ui-datepicker-trigger { bottom: 4px; cursor: pointer; display: block; height: 23px !important; position: absolute; right: -1px; width: 30px !important; }
+.ui-datepicker-title { font-weight: bold; margin-top: -22px; padding: 4px; text-align: center; }
+.ui-datepicker-prev, .ui-datepicker-next { cursor: pointer; display: inline-block; font-weight: bold; padding: 4px; }
+.ui-datepicker-next { float: right; }
+.ui-datepicker-month { margin-left: 30px; }
+
+/* Forms */ 
+.mbp_netviagem fieldset { border: 0; border: none; display: block; margin-bottom: 12px; padding: 0; position: relative; }
+.mbp_netviagem fieldset label { color: #ffffff; display: block; font-size: 12px;  padding: 5px 0; }
+.mbp_netviagem fieldset span { font-size: 12px; }
+.mbp_netviagem fieldset input, .mbp_netviagem fieldset select, .mbp_netviagem fieldset textarea { background: #f9f9f9; background: -moz-linear-gradient(top, #ffffff 1%, #f9f9f9 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#f9f9f9)); background: -webkit-linear-gradient(top, #ffffff 1%,#f9f9f9 100%); background: -o-linear-gradient(top, #ffffff 1%,#f9f9f9 100%); background: -ms-linear-gradient(top, #ffffff 1%,#f9f9f9 100%); background: linear-gradient(to bottom, #ffffff 1%,#f9f9f9 100%); /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f9f9f9',GradientType=0 );*/ border: 0px solid #ccc; border-radius: 0px; color: #878787; font-size: 11px; font-weight: bold; font-style: italic; height: 28px; text-indent: 5px; }
+.mbp_netviagem fieldset input, .mbp_netviagem fieldset select, .mbp_netviagem fieldset textarea { line-height: 28px\0/; }
+.mbp_netviagem fieldset input[type="radio"] { background: transparent; float: left; margin: 1px 10px 0 0; }
+.mbp_netviagem fieldset textarea { max-width: 100%; }
+.mbp_netviagem fieldset .btn { background: url(../img/btn-parceiros.png) 0 0 no-repeat; margin: 0 auto; width: 100%; }
+.mbp_netviagem fieldset input[type="button"], .mbp_netviagem fieldset input[type="submit"] { background: transparent !important; color: #fff; cursor: pointer; font-size: 12px; font-weight: bold; font-style: normal; height: 31px; line-height: 0; width: 198px; }
+
+/* Form Tamanhos */ 
+.mbp_netviagem .p { width: 98%; }
+.mbp_netviagem .g { width: 150%; }
+
+.mbp_netviagem .vertical { background-color: #fff; margin: 0 auto; width: 220px; }
+.mbp_netviagem .vertical .logo { display: block; margin: 0 auto; padding: 15px 0; text-align: center; }
+.mbp_netviagem .vertical .inp-btn { width: 100% !important; clear: left; }
+.mbp_netviagem .vertical .inp-btn .btn { background-position: center center; text-align: center; }
+.mbp_netviagem .vertical.blue form { background-color: #4667b0; }
+ 

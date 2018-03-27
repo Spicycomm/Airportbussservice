@@ -1,0 +1,11 @@
+.block1 { width:690px; }
+label { font-size:12px; color:#666666; display: block; }
+input { color:black; width:315px; padding-left:5px;padding-right:10px; height:25px; line-height:25px; background-color:white; border:1px solid #DBDBDB;  margin-top:2px; }
+select { color:black; width:330px; height:28px; line-height:28px; background-color:white; border:1px solid #DBDBDB; display: block; margin-top:2px;}
+textarea { color:black;  width:680px; padding:5px; height:125px; background-color:white; border:1px solid #DBDBDB; display: block; margin-top:2px; }
+.ml { margin-left:26px; }
+.boxcontato { background-image:url("../../images/contato/box.png"); width:302px; height:260px; }
+.boxcontato .content { float:left; width:250px; height:220px; margin-left:20px; margin-top:20px;}
+.box2  { margin-top:40px; margin-left:10px; }
+.success { position:absolute; background-image:url("../../images/contato/success.png"); width:490px; height:420px;  margin-left:300px; margin-top:-30px;}
+.scontent { width:270px; margin-left:20px; margin-top:25px; }

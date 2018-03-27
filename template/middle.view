@@ -1,0 +1,19 @@
+<script>
+    $(function() { 
+        $(window).resize(onResize); 
+        onResize();  
+    })
+    
+    function onResize() {   
+        var h = $(".middle").height() + 222+17; 
+                 
+        if (h < $(window).height()) { 
+            $(".middle").css("min-height", ($(window).height()-222-17)); 
+        }
+    }
+</script>                   
+<div class="middle">
+    <@TARGET@>
+</div>
+
+

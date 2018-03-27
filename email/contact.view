@@ -1,0 +1,35 @@
+<table width="648px" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="background-image: url('<?=App::url();?>/site/email/img/top.jpg'); background-position: top; background-repeat: no-repeat;">
+            <img src="<?=App::url();?>/site/email/img/top.jpg"/>
+            <div style="margin-left:20px; margin-right:20px;">        
+                <br />
+                <div style="font-size:23px; color:#585959; font-family: 'Tahoma';">Contato enviado pelo site</div>
+                <br/>                                       
+                <br/>      
+                <div style="font-size:14px; color:#585959; font-family: 'Tahoma';">
+                    <b><?=@$name;?> - </b> <?=@$email;?>
+                    <br/><br />   
+                    <b>Telefone:</b> <?=@$phone;?>
+                    <?if ($subject) { ?>
+                        <br/><br/>              
+                        <b>Assunto:</b> <?=@$subject;?> 
+                    <?}?>
+                    <br/><br /> 
+                    <b>Mensagem:</b>                                  
+                    <div style="margin: 0px; width:470px!important; font-size:12px!important; padding: 0px;">
+                        <? echo str_replace("\n",'<br>',@$comments); ?>
+                    </div>
+                    <br/>
+                </div>
+            </div>
+        </td>    
+    </tr>
+    <tr>
+        <td  style="background-image: url('<?=App::url();?>/site/email/img/footer.jpg'); background-position: top; background-repeat: no-repeat;">
+            <img src="<?=App::url();?>/site/email/img/footer.jpg"/>
+        </td>
+    </tr>
+</table>
+    
+  
